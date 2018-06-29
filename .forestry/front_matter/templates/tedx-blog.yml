@@ -1,0 +1,9 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: layout
+- type: datetime
+  label: tags
+  name: tags
