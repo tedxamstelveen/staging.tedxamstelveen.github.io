@@ -7,7 +7,7 @@ cover: assets/images/raybogman-1280.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://tedxamstelveen.com" # the base hostname & protocol for your site
+url: "https://staging.tedxamstelveen.com" # the base hostname & protocol for your site
 robots: NOINDEX,NOFOLLOW
 email: hallo@tedxamstelveen.com
 fb_app_id:
