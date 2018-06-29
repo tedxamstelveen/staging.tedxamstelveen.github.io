@@ -1,0 +1,52 @@
+# Site settings
+title: TEDxAmstelveen
+intro: TEDx Amstelveen - 2019 - Thema 'tba'
+domain: TEDxAmstelveen
+description: TEDx Amstelveen - 2019 - Thema 'tba'
+cover: assets/images/raybogman-1280.jpg
+logo: assets/images/logo.png
+favicon: assets/images/favicon.png
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://tedxamstelveen.com" # the base hostname & protocol for your site
+robots: NOINDEX,NOFOLLOW
+email: hallo@tedxamstelveen.com
+fb_app_id:
+paginate:	5 # The number of posts to show per page on your homepage
+
+# Social
+facebook: tedxamstelveen
+instagram: tedxamstelveen
+twitter: tedxamstelveen
+youtube: UCEmelQhyVjPdN07V286mt6g
+flickr : tedxamstelveen
+
+#Additional Pages
+about: /about/
+contact: /contact/
+#privacy-policy: privacy-policy
+
+
+permalink: /:title
+
+
+# Google Analytics
+analytics_id:
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+plugins:
+  - jekyll-paginate
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml

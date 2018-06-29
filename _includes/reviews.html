@@ -1,0 +1,17 @@
+<hr>
+### Recommendations
+
+{% for entry in site.data.review | sort: 'position' %}
+{% if entry.status == 'active' %}
+<blockquote>
+{{ entry.review }}
+
+  <b>Top qualities: {{ entry.qualities }}</b>
+  <cite> -- {{ entry.name }}</cite>
+
+</blockquote>
+<br>
+{% endif %}
+{% endfor %}
+
+More reviews can be found on my <a target="_blank" title="Recommendations - Ray Bogman" href="https://www.linkedin.com/in/raybogman/">Linkedin</a> page.
