@@ -51,15 +51,6 @@ description:
           </section>
           <div class="post-meta">
 
-            {% for author in site.data.authors %}
-              {% if author[1].username == post.author %}
-                {% if author[1].assets %}
-                <amp-img width="24" height="24" class="author-thumb" layout="responsive" src="{{ site.url }}{{author[1].assets}}" alt="{{author[1].name}}"/></amp-img>
-                {% endif %}
-                <a href="{{site.baseurl}}authors/#{{author[1].username}}">{{author[1].name}}</a>
-              {% endif %}
-            {% endfor %}
-
             <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
               <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
                    <amp-img width="0" height="0" src="{{ site.url }}/{{site.data.author["author"]["assets"]}}"></amp-img>
@@ -69,9 +60,14 @@ description:
                  </div>
               <meta itemprop="image" content="{{ site.url }}/{{site.data.author["author"]["assets"]}}"/>
 
-              {% if site.data.author["author"]["assets"] %}
-                <amp-img width="24" height="24" class="author-thumb" layout="responsive" src="{{ site.url }}/{{site.data.author["author"]["assets"]}}" alt="{{site.data.author["author"]["name"]}}"/></amp-img>
-              {% endif %}
+              {% for author in site.data.authors %}
+                {% if author[1].username == post.author %}
+                  {% if author[1].assets %}
+                    <amp-img width="24" height="24" class="author-thumb" layout="responsive" src="{{ site.url }}/{{site.data.author["author"]["assets"]}}" alt="{{site.data.author["author"]["name"]}}"/></amp-img>
+                  {% endif %}
+                  <a href="{{site.url}}/authors/#{{author[1].username}}">{{author[1].name}}</a>
+                {% endif %}
+              {% endfor %}
               <div itemprop="name">{{site.data.author["author"]["name"]}}</div>
             </div>
 
