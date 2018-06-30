@@ -1,24 +1,15 @@
 ---
+layout: post
+cover: "/img/blog/tedx-praktische-informatie.jpg"
 title: Praktische informatie 16 maart 2018 - TEDxAmstelveen
-date: 2018-03-09 00:00:00 Z
-layout: default
+date: 2018-03-09 00:00:00
+tags: 2018 tedxamstelveen informatie
+author: raybogman
 description: Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We zijn compleet uitverkocht. Het heeft geen zin om naar de ANNA te komen zonder geldig toegangsbewijs.
-image: "/img/blog/tedx-praktische-informatie.jpg"
-height: 500
-width: 750
-authorimage: "/img/team/ray.svg"
-authorname: Mette Reitsma
-datePublished: 2018-03-09 00:00:00 Z
-dateModified: 2018-03-09 00:00:00 Z
-intro: Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We zijn compleet uitverkocht. Het heeft geen zin om naar de ANNA te komen zonder geldig toegangsbewijs.
-keywords:
 hits: 3
-nav: blog
 ---
 
 # Praktische informatie 16 maart 2018 - TEDx Amstelveen
-
-<a href="{{site.url}}{{page.url}}" title="{{ page.title }}"><amp-img noloading width="250" height="250" alt="{{ page.title }}" layout="responsive" src="{{site.url}}{{ page.image }}" class="photo pull-left"></amp-img></a>
 
 Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We zijn compleet uitverkocht. Het heeft geen zin om naar de ANNA te komen zonder geldig toegangsbewijs.
 

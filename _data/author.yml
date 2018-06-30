@@ -1,8 +1,14 @@
-author:
+raybogman:
   username: raybogman
   name: Ray Bogman
   location: Amstelveen
-  url_full: https://raybogman.com
-  url: https://raybogman.com
-  bio:
-  assets: assets/images/raybogman-magento-doctor.png
+  url: https://tedxamstelveen.com/team/ray-bogman/
+  bio: Tech Lead TEDxAmstelveen
+  assets: assets/team/ray-bogman.jpg
+mettereitsma:
+  username: mettereitsma
+  name: Mette mettereitsma
+  location: Amstelveen
+  url: https://tedxamstelveen.com/team/mette-reitsma/
+  bio: Initiator en teammanager TEDxAmstelveen
+  assets: assets/team/mette-reitsma.jpg
