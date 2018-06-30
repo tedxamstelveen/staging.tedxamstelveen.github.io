@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: ""
+cover: 
 title: TEDxAmstelveen presenteert zangeres Evi De Jean
 date: 2018-02-25 00:00:00
 tags: 2018 tedxamstelveen zangeres evi de jean

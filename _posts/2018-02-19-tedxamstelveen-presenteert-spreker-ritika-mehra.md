@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: ""
+cover: 
 title: TEDxAmstelveen presenteert spreker Ritika Mehra
 date: 2018-02-19 00:00:00
 tags: 2018 Ritika Mehra spreker
