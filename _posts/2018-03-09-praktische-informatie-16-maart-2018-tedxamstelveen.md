@@ -9,8 +9,6 @@ description: Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We 
 hits: 3
 ---
 
-# Praktische informatie 16 maart 2018 - TEDx Amstelveen
-
 Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We zijn compleet uitverkocht. Het heeft geen zin om naar de ANNA te komen zonder geldig toegangsbewijs.
 
 Heb je wel een geldig kaartje dan hierbij een overzicht met praktische informatie;
