@@ -7,5 +7,3 @@ fields:
 - type: datetime
   label: tags
   name: tags
-pages:
-- _posts/test.md
