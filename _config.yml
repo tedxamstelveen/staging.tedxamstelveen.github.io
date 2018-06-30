@@ -3,8 +3,8 @@ title: TEDxAmstelveen
 intro: TEDx Amstelveen - 2019 - Thema 'tba'
 domain: TEDxAmstelveen
 description: TEDx Amstelveen - 2019 - Thema 'tba'
-cover: assets/images/raybogman-1280.jpg
-logo: assets/images/logo.png
+cover: assets/cover/tedxamstelveen-hero-16maart2018.jpg
+logo: assets/logos/TEDx_Amstelveen-logo.svg
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://staging.tedxamstelveen.com" # the base hostname & protocol for your site
