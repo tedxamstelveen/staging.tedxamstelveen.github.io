@@ -1,9 +1,4 @@
 <ul class="ampstart-social-follow list-reset flex justify-around items-center flex-wrap m0 mb4">
-  {% if site.linkedin %}
-  <li>
-    <a target="_blank" rel="noopener" title="Linkedin {{site-title}}" href="https://www.linkedin.com/in/{{site.linkedin}}"><i class="fa fa-linkedin-square fa-1x"></i></a>
-  </li>
-  {% endif %}
   {% if site.twitter %}
   <li>
     <a target="_blank" rel="noopener" title="Twitter {{site-title}}" href="https://twitter.com/{{site.twitter}}"><i class="fa fa-twitter-square fa-1x"></i></a>
@@ -19,14 +14,14 @@
     <a target="_blank" rel="noopener" title="instagram {{site-title}}" href="https://instagram.com/{{site.instagram}}"><i class="fa fa-instagram fa-1x"></i></a>
   </li>
   {% endif %}
-  {% if site.github %}
+  {% if site.youtube %}
   <li>
-    <a target="_blank" rel="noopener" title="Github {{site-title}}" href="https://github.com/{{site.github}}"><i class="fa fa-github-square fa-1x"></i></a>
+    <a target="_blank" rel="noopener" title="Prezi {{site-title}}" href="https://www.youtube.com/channel/{{site.youtube}}"><i class="fa-youtube-square fa-1x"></i></a>
   </li>
   {% endif %}
-  {% if site.prezi %}
+  {% if site.flickr %}
   <li>
-    <a target="_blank" rel="noopener" title="Prezi {{site-title}}" href="https://prezi.com/user/{{site.prezi}}"><i class="fa fa-file-powerpoint-o fa-1x"></i></a>
+    <a target="_blank" rel="noopener" title="Prezi {{site-title}}" href="https://www.flickr.com/photos/{{site.flickr}}"><i class="fa fa-flickr fa-1x"></i></a>
   </li>
   {% endif %}
 </ul>
