@@ -28,25 +28,23 @@
       </li>
       {% endfor %}
     </ul>
+  {% include social.html %}
+  <h3>Archief</h3>
+    <ul class="ampstart-sidebar-archive list-reset m0">
+        {% for entry in site.data.navigation-archive %}
+            {% if entry.url == current_page %}
+                {% assign current = current %}
+            {% else %}
+                {% assign current = null %}
+            {% endif %}
+      <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
+          <li class="ampstart-archive-item"><a href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}" class="text-decoration-none">{{ entry.title }}</a></li>
+      </li>
+      {% endfor %}
+    </ul>
   </nav>
 
-  {% include social.html %}
-  <h3>Archive</h3>
-  <ul class="ampstart-sidebar-archive list-reset m0">
-    {% for entry in site.data.navigation-archive %}
-        {% if entry.url == current_page %}
-            {% assign current = current %}
-        {% else %}
-            {% assign current = null %}
-        {% endif %}
-  <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
-      <li class="ampstart-archive-item"><a href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}" class="text-decoration-none">{{ entry.title }}</a></li>
-  </li>
-  {% endfor %}
-  </ul>
-
-  <hr>
-
+  <h3>Connect</h3>
   <ul class="ampstart-sidebar-faq list-reset m0">
   {% if site.about %}
       <li class="ampstart-faq-item"><a href="{{ site.url }}{{ site.about }}" class="text-decoration-none">About</a></li>
