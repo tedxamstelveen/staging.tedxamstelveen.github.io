@@ -711,7 +711,7 @@ body > figure > figcaption > header > h2 {
     color:#fff
 }
 
-hr:after {
+hr:after{
   content: "§";
   display: inline-block;
   position: relative;
@@ -719,4 +719,8 @@ hr:after {
   font-size: 1.5em;
   padding: 0 0.25em;
   background: white;
+}
+
+.imageobject{
+  height: 0
 }
