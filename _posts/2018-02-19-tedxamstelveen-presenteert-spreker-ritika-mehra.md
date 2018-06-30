@@ -1,24 +1,16 @@
 ---
+layout: post
+cover: ""
 title: TEDxAmstelveen presenteert spreker Ritika Mehra
-date: 2018-02-19 00:00:00 Z
-layout: default
+date: 2018-02-19 00:00:00
+tags: 2018 Ritika Mehra spreker
+author: mettereitsma
+name: Mette Reitsma
 description: Wisten jullie dat er ruim 4000 mensen met Indiase afkomst in Amstelveen wonen? Ritika Mehra is oprichter van Bridging the Gap, een organisatie die de integratie van Indiase expats in de Nederlandse samenleving probeert te vergroten.
-image: "/img/sprekers/ritika-mehra.png"
-height: 500
-width: 750
-authorimage: "/img/team/ray.svg"
-authorname: Mette Reitsma
-datePublished: 2018-02-19 00:00:00 Z
-dateModified: 2018-02-19 00:00:00 Z
-intro: Wisten jullie dat er ruim 4000 mensen met Indiase afkomst in Amstelveen wonen? Ritika Mehra is oprichter van Bridging the Gap, een organisatie die de integratie van Indiase expats in de Nederlandse samenleving probeert te vergroten.
-keywords:
 hits: 99
-nav: blog
 ---
 
-# TEDxAmstelveen presenteert spreker Ritika Mehra
-
-<a href="{{site.url}}{{page.url}}" title="{{ page.title }}"><amp-img noloading width="250" height="250" alt="{{ page.title }}" layout="responsive" src="{{site.url}}{{ page.image }}" class="photo pull-left"></amp-img></a>
+<amp-img src="{{ site.url }}/assets/sprekers/ritika-mehra.png" width="656" height="400" layout="responsive" alt="{{page.title}}" class="mb3"></amp-img>
 
 In 2015 was 7,5% van de Amstelveense inwoners een expat en dit is inmiddels alleen maar toegenomen. Amstelveen is de expat hotspot van Nederland. Wisten jullie dat er ruim 4000 mensen met Indiase afkomst in Amstelveen wonen? Ritika Mehra is oprichter van Bridging the Gap, een organisatie die de integratie van Indiase expats in de Nederlandse samenleving probeert te vergroten. Ook probeert de organisatie Amstelveners kennis te laten maken met de Indiase cultuur door de organisatie van evenementen zoals het Indian Colour Festival. Ritika komt op ons podium vertellen over culturele verschillen.
 

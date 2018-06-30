@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: "/assets/blog/tedx-praktische-informatie.jpg"
-title: Praktische informatie 16 maart 2018 - TEDxAmstelveen
+title: Praktische informatie 16 maart 2018
 date: 2018-03-09 00:00:00
 tags: 2018 tedxamstelveen informatie
 author: raybogman
