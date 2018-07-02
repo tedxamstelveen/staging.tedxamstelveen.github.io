@@ -11,7 +11,7 @@ url: "https://staging.tedxamstelveen.com" # the base hostname & protocol for you
 robots: NOINDEX,NOFOLLOW
 email: hallo@tedxamstelveen.com
 fb_app_id:
-paginate:	5 # The number of posts to show per page on your homepage
+paginate:	25 # The number of posts to show per page on your homepage
 
 # Social
 facebook: tedxamstelveen
