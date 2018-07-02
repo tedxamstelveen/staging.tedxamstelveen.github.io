@@ -2,11 +2,16 @@
 layout: post
 cover: "/assets/blog/tedx-praktische-informatie.jpg"
 title: Praktische informatie 16 maart 2018
-date: 2018-03-09 00:00:00
-tags: 2018 tedxamstelveen informatie
+date: 2018-03-09 00:00:00 +0000
+tags:
+- '2018'
+- TEDxAmstelveen
+- informatie
 author: raybogman
 name: Ray Bogman
-description: Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We zijn compleet uitverkocht. Het heeft geen zin om naar de ANNA te komen zonder geldig toegangsbewijs.
+description: Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We zijn
+  compleet uitverkocht. Het heeft geen zin om naar de ANNA te komen zonder geldig
+  toegangsbewijs.
 hits: 3
 ---
 

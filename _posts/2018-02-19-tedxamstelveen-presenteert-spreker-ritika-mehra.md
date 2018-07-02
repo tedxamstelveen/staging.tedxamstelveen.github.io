@@ -1,12 +1,18 @@
 ---
 layout: post
-cover:
+cover: 
 title: TEDxAmstelveen presenteert spreker Ritika Mehra
-date: 2018-02-19 00:00:00
-tags: 2018 Ritika Mehra spreker
+date: 2018-02-19 00:00:00 +0000
+tags:
+- '2018'
+- spreker
+- Ritika Mehra
+- TEDxAmstelveen
 author: mettereitsma
 name: Mette Reitsma
-description: Wisten jullie dat er ruim 4000 mensen met Indiase afkomst in Amstelveen wonen? Ritika Mehra is oprichter van Bridging the Gap, een organisatie die de integratie van Indiase expats in de Nederlandse samenleving probeert te vergroten.
+description: Wisten jullie dat er ruim 4000 mensen met Indiase afkomst in Amstelveen
+  wonen? Ritika Mehra is oprichter van Bridging the Gap, een organisatie die de integratie
+  van Indiase expats in de Nederlandse samenleving probeert te vergroten.
 hits: 99
 ---
 
