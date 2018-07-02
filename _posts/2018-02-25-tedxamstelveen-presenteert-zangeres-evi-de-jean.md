@@ -2,11 +2,18 @@
 layout: post
 cover: 
 title: TEDxAmstelveen presenteert zangeres Evi De Jean
-date: 2018-02-25 00:00:00
-tags: 2018 tedxamstelveen zangeres evi de jean
+date: 2018-02-25 00:00:00 +0000
+tags:
+- '2018'
+- TEDxAmstelveen
+- zangers
+- Evi de Jean
 author: mettereitsma
 name: Mette Reitsma
-description: Evi De Jean, zangeres en stemcoach, groeide op in Bermuda, Israël en Antwerpen en streek neer in Amsterdam, voor de liefde. Tijdens TEDxAmstelveen zal ze, samen met haar gitarist, optreden met eigen liedjes én geeft ze een inspirerende klankworkshop.
+description: Evi De Jean, zangeres en stemcoach, groeide op in Bermuda, Israël en
+  Antwerpen en streek neer in Amsterdam, voor de liefde. Tijdens TEDxAmstelveen zal
+  ze, samen met haar gitarist, optreden met eigen liedjes én geeft ze een inspirerende
+  klankworkshop.
 hits: 4
 ---
 
