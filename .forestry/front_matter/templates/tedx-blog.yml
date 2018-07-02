@@ -48,5 +48,3 @@ fields:
   name: hits
   label: hits
   hidden: true
-pages:
-- _posts/2018-07-02-my-new-website-blog.md
