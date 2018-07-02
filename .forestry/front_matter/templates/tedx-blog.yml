@@ -12,6 +12,7 @@ fields:
 - type: text
   name: cover
   label: cover
+  description: 'example: "/assets/blog/mijn-foto.jpg"'
 - type: text
   label: title
   name: title
