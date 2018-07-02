@@ -3,7 +3,47 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  default: layout
+  default: post
+  config:
+    required: true
+  label: layout
+  name: layout
+  hidden: true
+- type: text
+  name: cover
+  label: cover
+- type: text
+  label: title
+  name: title
 - type: datetime
-  label: tags
+  name: date
+  label: date
+  config:
+    required: true
+    date_format: YYYY/MM/DD
+- type: text
   name: tags
+  label: tags
+  config:
+    required: true
+- type: text
+  name: author
+  label: author
+  config:
+    required: true
+  description: 'example: mettereitsma'
+- type: text
+  name: name
+  label: name
+  config:
+    required: true
+  description: 'example: Mette Reitsma'
+- type: text
+  name: description
+  label: description
+  config:
+    required: true
+- type: number
+  name: hits
+  label: hits
+  hidden: true
