@@ -47,3 +47,5 @@ fields:
   name: hits
   label: hits
   hidden: true
+pages:
+- _posts/my-new-website-blog.md
