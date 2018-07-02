@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page1
 title: Authors
 comments: false
 permalink: /authors/
@@ -7,7 +7,7 @@ permalink: /authors/
 
 <div id="authors">
   {% for author in site.data.authors %}
-    <h3 id="{{ username }}">{{ author[1].name }}</h3>
+    <h3 id="{{ author[1].username }}">{{ author[1].name }}</h3>
       <ul class="posts">
         {% for post in site.posts %}
           {% if author[1].username == post.author %}
