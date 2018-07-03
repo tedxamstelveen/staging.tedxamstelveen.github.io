@@ -1,17 +1,9 @@
+---
 - title: Home
-  url:
-
+  url: 
 - title: Sponsors
-  url: /sponsors/
-
+  url: "/sponsors/"
 - title: Sprekers
-  url: /sprekers/
-
-- title: Talks
-  url: /talks/
-
+  url: "/sprekers/"
 - title: Team
-  url: /team/
-
-- title: Jobs
-  url: /jobs/
+  url: "/team/"
