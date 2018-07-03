@@ -42,18 +42,18 @@
       </li>
       {% endfor %}
     </ul>
+    <h3>Connect</h3>
+      <ul class="list-reset m0 p0 ampstart-label">
+          {% for entry in site.data.connect %}
+              {% if entry.url == current_page %}
+                  {% assign current = current %}
+              {% else %}
+                  {% assign current = null %}
+              {% endif %}
+        <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
+            <li class="ampstart-faq-item"><a href="{{ entry.url }}" class="text-decoration-none">{{ entry.title }}</a></li>
+        </li>
+        {% endfor %}
+      </ul>
   </nav>
-
-  <h3>Connect</h3>
-  <ul class="ampstart-sidebar-faq list-reset m0">
-  {% if site.about %}
-      <li class="ampstart-faq-item"><a href="{{ site.url }}{{ site.about }}" class="text-decoration-none">About</a></li>
-    {% endif %}
-  {% if site.contact %}
-    <li class="ampstart-faq-item"><a href="{{ site.url }}{{ site.contact }}" class="text-decoration-none">Contact</a></li>
-  {% endif %}
-  {% if site.privacy-policy %}
-    <li class="ampstart-faq-item"><a href="{{ site.url }}{{ site.privacy-policy }}" class="text-decoration-none">Privacy Policy</a></li>
-  {% endif %}
-  </ul>
 </amp-sidebar>
