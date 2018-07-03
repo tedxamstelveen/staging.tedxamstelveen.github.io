@@ -44,7 +44,7 @@ description:
         <div class="article-item">
         <div class="article-item">
           <header class="post-header">
-            <h2 class="post-title" itemprop="headline"><a href="{{ site.url }}{{ post.url | remove: '/'}}" itemprop="url mainEntityOfPage">{{ post.title }}</a></h2>
+            <h2 class="post-title" itemprop="headline"><a href="{{ site.url }}/{{ post.url | remove: '/'}}" itemprop="url mainEntityOfPage">{{ post.title }}</a></h2>
           </header>
           <section class="post-excerpt" itemprop="description">
             <p class="post-description">{{ post.excerpt | strip_html | truncatewords: 100 }}</p>
@@ -74,9 +74,9 @@ description:
                 in
                 {% for tag in post.tags %}
                     {% if forloop.index == post.tags.size %}
-                       <a href='{{site.url}}tags/#{{tag}}'>{{ tag | capitalize }}</a>
+                       <a href='{{site.url}}/tags/#{{tag}}'>{{ tag | capitalize }}</a>
                     {% else %}
-                       <a href='{{site.url}}tags/#{{tag}}'>{{ tag | capitalize }}</a>,
+                       <a href='{{site.url}}/tags/#{{tag}}'>{{ tag | capitalize }}</a>,
                     {% endif %}
                 {% endfor %}
             {% endif %}
