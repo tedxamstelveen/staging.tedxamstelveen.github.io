@@ -48,5 +48,3 @@ fields:
   name: hits
   label: hits
   hidden: true
-pages:
-- _posts/sfasdf.md
