@@ -14,7 +14,8 @@ permalink: /sponsors/
   {% for member in site.data.sponsors %}
   {% if member.status == 'active' %}
   <div class="flex flex-column items-center">
-    <a title="{{ member.name }}" href="{{ member.url }}"><amp-img noloading height="200" width="300" alt="{{ member.name }}" layout="responsive" src="/assets/sponsors/{{ member.pic }}.jpg"></amp-img></a>
+    <a title="{{ member.name }}" href="{{ member.url }}">
+      <amp-img src="{{ site.url }}/assets/sponsors/{{ member.pic }}.jpg" width="300" height="200" layout="responsive" alt="{{ member.name }}" class="mb3"></amp-img>
   </div>
   {% endif %}
   {% endfor %}
