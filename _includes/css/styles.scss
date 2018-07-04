@@ -221,11 +221,6 @@ body {
   }
 }
 
-.ampstart-btn a{
-  color: #ffffff;
-  text-decoration: none
-}
-
 .post {
   .post-meta {
     font-family: $font-sans;
@@ -728,4 +723,9 @@ hr:after{
 
 .imageobject{
   height: 0
+}
+
+#content .ampstart-btn a{
+  color: #ffffff;
+  text-decoration: none
 }
