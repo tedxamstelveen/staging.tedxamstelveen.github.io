@@ -13,6 +13,6 @@ Ben jij dit niet, maar ken je iemand die dit graag zou willen? Stuur deze link d
 (Inschrijven kan tot 3 september)
 
 <div class="flex flex-column mb2 items-center">
-<button class="ampstart-btn"><a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSc6m5xsDiA6wH0b_9ud0DCFRKGO6AHoyZNhSSteqeKIDPRX8w/viewform" title="Inschrijven TEDxAmstelveen 2019">Schrijf je hier in!</a>
+<button class="ampstart-btn"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6m5xsDiA6wH0b_9ud0DCFRKGO6AHoyZNhSSteqeKIDPRX8w/viewform" title="Inschrijven TEDxAmstelveen 2019">Schrijf je hier in!</a>
 </button>
 </div>
