@@ -4,22 +4,11 @@ title: TEDxAmstelveen Sponsors
 description: Overzicht van alle sponsoren van TEDxAmstelveen.
 comments: false
 permalink: /sponsors/
+nav: sponsors
 ---
 
 <p>Om het evenement toegankelijk en laagdrempelig te houden doen we een beroep op sponsoren om ons evenement kostendekkend uit te voeren. We zoeken zoveel mogelijk naar sponsoren in Amstelveen of met een verbinding met Amstelveen. We zoeken naar sponsoring in natura (barter) en sponsoring in geld. Wil je dit geweldige evenement steunen en sponsor worden neem dan contact op met <a href="mailto:hallo@tedxamstelveen.com?subject=Aanmelden TEDxAmstelveen Sponsors">hallo@tedxamstelveen.com</a></p>
 <p>TEDxAmstelveen 2018 werd mede mogelijk gemaakt door de geweldige hulp van:</p>
-
-<main class="flex flex-wrap justify-around align-item items-center">
-  {% for member in site.data.sponsors %}
-  {% if member.status == 'active' %}
-  <div class="flex flex-column items-center">
-    <a title="{{ member.name }}" href="{{ member.url }}">
-      <amp-img src="{{ site.url }}/assets/sponsors/{{ member.pic }}.jpg" width="300" height="200" layout="responsive" alt="{{ member.name }}" class="mb3"></amp-img>
-    </a>
-  </div>
-  {% endif %}
-  {% endfor %}
-</main>
 
 <div class="tablet-up">
      <div class="card-container">
@@ -36,3 +25,17 @@ permalink: /sponsors/
        {% endfor %}
      </div>
 </div>
+
+<amp-carousel class="tablet-down" width="auto" height="250" type="slides" layout="fixed-height">
+  {% for member in site.data.sponsors %}
+  {% if member.status == 'active' %}
+  <div class="card">
+    <div class="card__image">
+      <a title="{{ member.name }}" href="{{ member.url }}">
+        <amp-img src="{{ site.url }}/assets/sponsors/{{ member.pic }}.jpg" width="300" height="200" layout="responsive" alt="{{ member.name }}" class="mb3"></amp-img>
+      </a>
+    </div>
+  </div>
+{% endif %}
+{% endfor %}
+</amp-carousel>
