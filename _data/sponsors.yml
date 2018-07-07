@@ -14,7 +14,7 @@
   pic: michel-van-schouten
   url: http://www.van-schouten.nl/
   position: 3
-  status: active
+  status: inactive
 
 - name: Han Schooneman
   pic: han-schooneman
@@ -22,11 +22,11 @@
   position: 4
   status: active
 
-- name: Marion Draaijer
-  pic: nouvelle-beauty
-  url: https://nouvellebeauty.wordpress.com/
+- name: 
+  pic:
+  url:
   position: 5
-  status: active
+  status: inactive
 
 - name: Loogman
   pic: loogman
@@ -44,4 +44,4 @@
   pic: gemeente-amstelveen
   url: https://www.amstelveen.nl/
   position: 8
-  status: active
+  status: inactive
