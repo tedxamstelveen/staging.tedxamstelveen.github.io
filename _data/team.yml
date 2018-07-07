@@ -47,17 +47,17 @@
   position: 7
   status: active
 
-- name: Frank Bossema
-  description: Sprekerscoach
-  url: /team/frank-bossema
-  pic: frank-bossema
+- name: 
+  description:
+  url: /team/
+  pic:
   position: 8
-  status: active
+  status: inactive
 
-- name: Esther Kwaaitaal
-  description: Productie manager
-  url: /team/esther-kwaaitaal
-  pic: esther-kwaaitaal
+- name:
+  description:
+  url: /team/
+  pic:
   position: 9
   status: inactive
 
