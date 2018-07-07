@@ -11,7 +11,7 @@ nav: team
 
 <div class="tablet-up">
      <div class="card-container">
-       {% for member in site.data.team %}
+       {% for member in site.data.team | sample %}
        {% if member.status == 'active' %}
        <div class="card">
          <div class="card__image">
@@ -26,7 +26,7 @@ nav: team
 </div>
 
 <amp-carousel class="tablet-down" width="auto" height="450" type="slides" layout="fixed-height">
-  {% for member in site.data.team %}
+  {% for member in site.data.team | sample %}
   {% if member.status == 'active' %}
   <div class="card">
     <div class="card__image">
