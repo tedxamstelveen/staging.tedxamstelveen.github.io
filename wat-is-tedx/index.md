@@ -1,15 +1,11 @@
 ---
-title: Over TEDxAmstelveen
 layout: page
-description: TED is een wereldwijde organisatie van vrijwilligers en partners die
-  geloven in de kracht van het delen van ideeën via TED talks. Korte (maar krachtige!)
-  presentaties van 18 minuten of korter.
-author:
-keywords:
+title: Over TEDxAmstelveen
+description: TED is een wereldwijde organisatie van vrijwilligers en partners die geloven in de kracht van het delen van ideeën via TED talks. Korte (maar krachtige!) presentaties van 18 minuten of korter.
+comments: false
+permalink: /wat-is-tedx/
 nav: over-tedx
 ---
-
-# Wat is TED?
 
 TED is een wereldwijde organisatie van vrijwilligers en partners die geloven in de kracht van het delen van ideeën via TED talks. Korte (maar krachtige!) presentaties van 18 minuten of korter.
 
