@@ -6,12 +6,11 @@ comments: false
 permalink: /team/
 nav: team
 ---
-
-<p>Het {{site.title}} evenement wordt georganiseerd door vrijwilligers uit Amstelveen en omstreken. Het evenement heeft geen commercieel, religieus of politiek doel. Het doel is om te inspireren, enthousiasmeren en verbinden. Wil jij meehelpen met {{site.title}} kijk dan <a href="{{site.url}}/jobs/" title="{{site.title}} vacatures">hier</a> voor {{site.title}} vacatures.</p>
+<p>Het {{site.title}} evenement wordt georganiseerd door vrijwilligers uit Amstelveen en omstreken. Het doel is om te inspireren, enthousiasmeren en verbinden. Wil jij meehelpen met {{site.title}} kijk dan <a href="{{site.url}}/jobs/" title="{{site.title}} vacatures">hier</a> voor {{site.title}} vacatures.</p>
 
 <div class="tablet-up">
      <div class="card-container">
-       {% for member in site.data.team | sample %}
+       {% for member in site.data.team %}
        {% if member.status == 'active' %}
          <div class="author-section mb4">
            <a title="{{ member.name }}" href="{{ member.url }}">
@@ -23,16 +22,14 @@ nav: team
      </div>
 </div>
 
-<amp-carousel class="tablet-down" width="auto" height="450" type="slides" layout="fixed-height">
-  {% for member in site.data.team | sample %}
+<amp-carousel class="tablet-down" width="auto" height="auto" type="slides" layout="fixed-height">
+  {% for member in site.data.team %}
   {% if member.status == 'active' %}
-  <div class="card">
-    <div class="card__image">
+    <div class="author-section mb4">
       <a title="{{ member.name }}" href="{{ member.url }}">
-        <amp-img src="{{ site.url }}/assets/team/{{ member.pic }}.jpg" width="300" height="200" layout="responsive" alt="{{ member.name }}" class="mb3"></amp-img>
+        <amp-img src="{{ site.url }}/assets/team/{{ member.pic }}.jpg" width="300" height="200" layout="responsive" alt="{{ member.name }}" class="author-thumb-post"></amp-img>
       </a>
     </div>
-  </div>
 {% endif %}
 {% endfor %}
 </amp-carousel>
