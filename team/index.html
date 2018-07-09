@@ -13,13 +13,11 @@ nav: team
      <div class="card-container">
        {% for member in site.data.team | sample %}
        {% if member.status == 'active' %}
-       <div class="card">
-         <div class="card__image">
+         <div class="author-section mb4">
            <a title="{{ member.name }}" href="{{ member.url }}">
-             <amp-img src="{{ site.url }}/assets/team/{{ member.pic }}.jpg" width="100" height="100" layout="responsive" alt="{{ member.name }}" class="mb3"></amp-img>
+             <amp-img src="{{ site.url }}/assets/team/{{ member.pic }}.jpg" width="100" height="100" layout="responsive" alt="{{ member.name }}" class="author-thumb-post"></amp-img>
            </a>
          </div>
-       </div>
        {% endif %}
        {% endfor %}
      </div>
