@@ -21,17 +21,3 @@ nav: team
        {% endfor %}
      </div>
 </div>
-
-<amp-carousel class="tablet-down" width="400" height="400" layout="responsive" type="slides" autoplay>
-  <div class="card-container">
-  {% for member in site.data.team %}
-  {% if member.status == 'active' %}
-    <div class="author-section mb4">
-      <a title="{{ member.name }}" href="{{ member.url }}">
-        <amp-img src="{{ site.url }}/assets/team/{{ member.pic }}.jpg" width="300" height="200" layout="responsive" alt="{{ member.name }}" class="author-thumb-post"></amp-img>
-      </a>
-    </div>
-{% endif %}
-{% endfor %}
-  </div>
-</amp-carousel>
