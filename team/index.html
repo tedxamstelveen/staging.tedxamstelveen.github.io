@@ -8,16 +8,14 @@ nav: team
 ---
 <p>Het {{site.title}} evenement wordt georganiseerd door vrijwilligers uit Amstelveen en omstreken. Het doel is om te inspireren, enthousiasmeren en verbinden. Wil jij meehelpen met {{site.title}} kijk dan <a href="{{site.url}}/jobs/" title="{{site.title}} vacatures">hier</a> voor {{site.title}} vacatures.</p>
 
-<div class="tablet-up">
-     <div class="card-container">
-       {% for member in site.data.team %}
-       {% if member.status == 'active' %}
-         <div class="author-section mb4">
-           <a title="{{ member.name }}" href="{{ member.url }}">
-             <amp-img src="{{ site.url }}/assets/team/{{ member.pic }}.jpg" width="100" height="100" layout="responsive" alt="{{ member.name }}" class="author-thumb-post"></amp-img>
-           </a>
-         </div>
-       {% endif %}
-       {% endfor %}
-     </div>
+<div class="card-container">
+  {% for member in site.data.team %}
+  {% if member.status == 'active' %}
+  <div class="author-section mb4">
+    <a title="{{ member.name }}" href="{{ member.url }}">
+      <amp-img src="{{ site.url }}/assets/team/{{ member.pic }}.jpg" width="100" height="100" layout="responsive" alt="{{ member.name }}" class="author-thumb-post"></amp-img>
+    </a>
+  </div>
+  {% endif %}
+  {% endfor %}
 </div>
