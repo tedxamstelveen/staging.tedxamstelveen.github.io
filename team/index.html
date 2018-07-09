@@ -22,7 +22,8 @@ nav: team
      </div>
 </div>
 
-<amp-carousel class="tablet-down" width="400" height="300" layout="responsive" type="slides" autoplay>
+<amp-carousel class="tablet-down" width="400" height="400" layout="responsive" type="slides" autoplay>
+  <div class="card-container">
   {% for member in site.data.team %}
   {% if member.status == 'active' %}
     <div class="author-section mb4">
@@ -32,4 +33,5 @@ nav: team
     </div>
 {% endif %}
 {% endfor %}
+  </div>
 </amp-carousel>
