@@ -27,9 +27,9 @@ layout: default
   </figure>
 
   <main id="content" role="main" class="content">
-    <article class="photo-article">
-      <div class="post-meta mb4 px3">
-        <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
+    <article class="post">
+      <div class="post-meta">
+        <time class="post" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
 
         {% if page.tags.size > 0 %}
             in
@@ -44,14 +44,14 @@ layout: default
 
       </div>
 
-      <div class="mb4 px3" align="left">
+      <div class="mb1 px0" align="left">
         {% include social-share.html %}
       </div>
 
   {% else %}
 
     <main id="content" role="main" class="">
-      <article class="recipe-article">
+      <article class="post">
         <header>
           {% if page.tags.size > 0 %}
           <span class="ampstart-subtitle block px3 pt2 mb2">
@@ -64,8 +64,9 @@ layout: default
                         {% endfor %}
           </span>
           {% endif %}
-          <h1 class="mb1 px3">{{page.title}}</h1>
-
+          <div class="post-meta">
+            <h1 class="post-title">{{ page.title }}</h1>
+          </div>
           <address class="ampstart-byline clearfix mb4 px3 h5">
             <time class="ampstart-byline-pubdate block bold my1" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date | date:'%e %B %Y' }}</time>
           </address>
