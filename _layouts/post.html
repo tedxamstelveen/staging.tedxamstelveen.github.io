@@ -53,23 +53,31 @@ layout: default
     <main id="content" role="main" class="">
       <article class="post">
         <header>
-          {% if page.tags.size > 0 %}
-          <span class="ampstart-subtitle block px3 pt2 mb2">
-                        {% for tag in page.tags %}
-                            {% if forloop.index == page.tags.size %}
-                               <a href='{{site.url}}/tags/#{{tag}}'>{{ tag | capitalize }}</a>
-                            {% else %}
-                               <a href='{{site.url}}/tags/#{{tag}}'>{{ tag | capitalize }}</a>,
-                            {% endif %}
-                        {% endfor %}
-          </span>
-          {% endif %}
-          <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
-          </div>
-          <address class="ampstart-byline clearfix mb4 px3 h5">
-            <time class="ampstart-byline-pubdate block bold my1" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date | date:'%e %B %Y' }}</time>
-          </address>
+            <div class="post-meta">
+              <time class="post" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
+
+              {% if page.tags.size > 0 %}
+                  in
+                  {% for tag in page.tags %}
+                      {% if forloop.index == page.tags.size %}
+                         <a href='{{site.url}}/tags/#{{tag}}'>{{ tag | capitalize }}</a>
+                      {% else %}
+                         <a href='{{site.url}}/tags/#{{tag}}'>{{ tag | capitalize }}</a>,
+                      {% endif %}
+                  {% endfor %}
+              {% endif %}
+
+            </div>
+
+            <div class="mb1 px0" align="left">
+              {% include social-share.html %}
+                <div class="mb1 px0" align="right">
+                  <address class="ampstart-byline clearfix mb4 px3 h5">
+                    <time class="ampstart-byline-pubdate block bold my1" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date | date:'%e %B %Y' }}</time>
+                  </address>
+                </div>
+            </div>
         </header>
 
   {% endif %}
