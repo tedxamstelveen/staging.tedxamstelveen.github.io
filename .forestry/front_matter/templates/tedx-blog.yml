@@ -1,4 +1,5 @@
 ---
+label: tedx-blog
 hide_body: false
 is_partial: false
 fields:
@@ -44,6 +45,16 @@ fields:
   label: description
   config:
     required: true
+- type: text
+  name: width
+  label: width
+- type: text
+  name: height
+  label: height
+- type: text
+  name: assets
+  label: assets
+  description: 'example: "/assets/blog/mijn-foto.jpg"'
 - type: number
   name: hits
   label: hits
