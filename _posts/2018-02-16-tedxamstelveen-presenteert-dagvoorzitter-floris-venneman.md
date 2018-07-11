@@ -16,9 +16,7 @@ assets: assets/sprekers/floris-venneman.png
 hits: 99
 ---
 
-<amp-img class="author-thumb-post" height=150 width=150 alt="{{ page.title }}" layout="responsive" src="{{ site.url }}/{{page.assets}}"/></amp-img>
-
-<amp-img class="mb3" width="150" height="150" alt="{{page.title}}" layout="responsive" src="{{ site.url }}/assets/sprekers/floris-venneman.png" ></amp-img>
+<amp-img class="author-thumb-post" width="{{ page.width }}" height="{{ page.height }}" alt="{{page.title}}" layout="responsive" src="{{ site.url }}/assets/sprekers/floris-venneman.png" ></amp-img>
 
 Op 16 maart worden onze gasten welkom geheten door Floris Venneman. Hij neemt onze gasten mee in deze eerste TEDxAmstelveen ervaring.   
 
