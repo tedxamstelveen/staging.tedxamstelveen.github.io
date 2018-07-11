@@ -47,12 +47,12 @@
   position: 7
   status: active
 
-- name: 
-  description:
-  url: /team/
-  pic:
+- name: Niels Verhaest
+  description: Copywriter
+  url: /team/niels-verhaest
+  pic: niels-verhaest
   position: 8
-  status: inactive
+  status: active
 
 - name:
   description:
