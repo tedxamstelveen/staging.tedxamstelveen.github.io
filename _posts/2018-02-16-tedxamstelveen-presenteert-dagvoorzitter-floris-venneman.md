@@ -18,6 +18,8 @@ hits: 99
 
 <amp-img class="author-thumb-post" height={{ page.height }} width={{ page.width }} alt="{{ page.title }}" layout="responsive" src="{{ site.url }}/{{page.assets}}"/></amp-img>
 
+<amp-img src="{{ site.url }}/assets/sprekers/floris-venneman.png" width="400" height="400" layout="responsive" alt="{{page.title}}" class="mb3"></amp-img>
+
 Op 16 maart worden onze gasten welkom geheten door Floris Venneman. Hij neemt onze gasten mee in deze eerste TEDxAmstelveen ervaring.   
 
 Floris Venneman begon op zijn 14e met zijn eerste onderneming. Inmiddels alweer ruim 17 jaar verder, is hij nog steeds ondernemer. Als managing partner helpt hij met Bureauvijftig een breed scala aan opdrachtgevers bij het ontwikkelen en vermarkten van producten en diensten voor ouderen. Daarnaast participeren hij, samen met zijn compagnon, in een aantal kansrijke start-ups. Floris werd genoemd als een van de meest veelbelovende jonge ondernemers door Sprout Magazine en is regelmatig te horen op BNR Nieuwsradio o.a. in het Ondernemerspanel.
