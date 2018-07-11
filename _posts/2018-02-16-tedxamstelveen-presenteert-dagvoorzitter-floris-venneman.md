@@ -10,11 +10,15 @@ tags:
 author: mettereitsma
 name: Mette Reitsma
 description: Op 16 maart worden onze gasten welkom geheten door Floris Venneman. Hij neemt onze gasten mee in deze eerste TEDxAmstelveen ervaring.  
+height: 150
+width: 150
+assets: assets/sprekers/floris-venneman.png
 hits: 99
+
 
 ---
 
-<amp-img src="{{ site.url }}/assets/sprekers/floris-venneman.png" width="400" height="400" layout="responsive" alt="{{page.title}}" class="mb3"></amp-img>
+{% include img.html %}
 
 Op 16 maart worden onze gasten welkom geheten door Floris Venneman. Hij neemt onze gasten mee in deze eerste TEDxAmstelveen ervaring.   
 
