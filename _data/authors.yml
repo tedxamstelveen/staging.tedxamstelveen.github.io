@@ -12,3 +12,10 @@ mettereitsma:
   url: https://tedxamstelveen.com/team/mette-reitsma/
   bio: Initiator en teammanager TEDxAmstelveen
   assets: assets/team/mette-reitsma.jpg
+nielsverhaest:
+  username: nielsverhaest
+  name: Niels Verhaest
+  location: Amstelveen
+  url: https://tedxamstelveen.com/team/niels-verhaest/
+  bio:
+  assets: assets/team/niels-verhaest.jpg  
