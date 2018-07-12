@@ -12,7 +12,7 @@ name: Mette Reitsma
 description: Hoe breng je ernstig maatschappelijke thema’s op een frisse manier onder het voetlicht? Als regisseur maakte Pim de afgelopen jaren films over de zorgsector, zoals chronische pijn en dementie.
 height: 150
 width: 150
-assets: img/sprekers/pim-giel.png
+assets: assets/sprekers/pim-giel.png
 hits: 99
 ---
 
