@@ -12,7 +12,7 @@ name: Mette Reitsma
 description: Wat we niet weten, kunnen we ook niet zien. Lichaamstaal of ook wel bodylanguage is een erg boeiend onderwerp, want als we een handgebaar of een spiertrekking zien, wat betekent dat precies?
 height: 150
 width: 150
-assets: assets/sprekers/jeroen-de-graaf.png"
+assets: assets/sprekers/jeroen-de-graaf.png
 hits: 99
 ---
 
