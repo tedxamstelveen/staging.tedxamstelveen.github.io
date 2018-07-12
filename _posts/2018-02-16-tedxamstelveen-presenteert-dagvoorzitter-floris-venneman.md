@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - gastheer
+- Floris Venneman
 author: mettereitsma
 name: Mette Reitsma
 description: Op 16 maart worden onze gasten welkom geheten door Floris Venneman. Hij neemt onze gasten mee in deze eerste TEDxAmstelveen ervaring.  

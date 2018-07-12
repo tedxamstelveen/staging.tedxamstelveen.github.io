@@ -19,5 +19,3 @@ hits: 99
 
 Vorige week is de kaartverkoop gestart voor iedereen die zich van tevoren had ingeschreven. Binnen een paar dagen was het uitverkocht! We willen iedereen bedanken voor hun interesse en het volgen op social media. Alle TEDxtalks worden opgenomen en zijn achteraf via Youtube terug te kijken.
 Op 16 maart doen we live verslag via onze social kanalen.
-
-{% include img.html %}
