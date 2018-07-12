@@ -1,5 +1,6 @@
 ---
 layout: post
+cover:
 title: TEDxAmstelveen presenteert spreker Rinie Hoeks
 date: 2018-01-16 00:00:00 +0000
 tags:
