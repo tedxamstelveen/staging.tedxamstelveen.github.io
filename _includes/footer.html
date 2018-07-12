@@ -1,28 +1,23 @@
 <footer class="ampstart-footer flex flex-column items-center px3">
     {% include social.html %}
         <ul class="list-reset flex flex-wrap mb3">
-            {% if site.about %}
-            <li class="px1">
-                <a class="text-decoration-none ampstart-label" href="{{site.url}}{{site.about}}">About</a>
-            </li>
-            {% endif %}
-            {% if site.contact %}
-            <li class="px1">
-                <a class="text-decoration-none ampstart-label" href="{{site.url}}{{site.contact}}">Contact</a>
-            </li>
-            {% endif %}
-            {% if site.privacy-policy %}
-            <li class="px1">
-                <a class="text-decoration-none ampstart-label" href="{{site.url}}/{{site.privacy-policy}}">Privacy Policy</a>
-            </li>
-            {% endif %}
+            {% for entry in site.data.connect %}
+                {% if entry.url == current_page %}
+                    {% assign current = current %}
+                {% else %}
+                    {% assign current = null %}
+                {% endif %}
+          <li class="px1">
+              <a class="text-decoration-none ampstart-label" href="{{ site.url }}{{ entry.url }}" title="{{ entry.title }}">{{ entry.title }}</a>
+          </li>
+          {% endfor %}
         </ul>
 
         <ul class="list-reset flex flex-wrap mb3">
           {% for entry in site.data.navigation-archive %}
-            <li class="px1">
-                <a class="text-decoration-none ampstart-label" href="{{ site.url }}{{ site.url }}{{ entry.url }}">{{ entry.title }}</a>
-            </li>
+          <li class="px1">
+              <a class="text-decoration-none ampstart-label" href="{{ site.url }}{{ entry.url }}" title="{{ entry.title }}">{{ entry.title }}</a>
+          </li>
           {% endfor %}
         </ul>
 
@@ -30,7 +25,7 @@
       <ul class="list-reset flex flex-wrap mb3">
       {% for entry in site.data.navigation %}
         <li class="px1">
-            <a class="text-decoration-none ampstart-label" href="{{ site.url }}{{ site.url }}{{ entry.url }}">{{ entry.title }}</a>
+            <a class="text-decoration-none ampstart-label" href="{{ site.url }}{{ entry.url }}" title="{{ entry.title }}">{{ entry.title }}</a>
         </li>
       {% endfor %}
       </ul>
@@ -38,6 +33,6 @@
 
     <small>
   		&copy; {{ site.time | date: '%Y' }}, last updated {{ site.time | date: "%H:%M %d %B %Y"  }}
-      <a href="{{site.url}}">{{site.domain}}</a> &nbsp; | &nbsp;  All Rights Reserved.
+      <a href="{{site.url}}" title="{{ site.title }}">{{site.domain}}</a> &nbsp; | &nbsp;  All Rights Reserved.
     </small>
 </footer>
