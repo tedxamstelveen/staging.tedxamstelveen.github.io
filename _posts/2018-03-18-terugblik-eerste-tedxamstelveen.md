@@ -12,6 +12,9 @@ name: Mette Reitsma
 description: De eerste TEDxAmstelveen zit er op! Afgelopen vrijdag hebben 100 bezoekers
   zich laten inspireren door 11 verschillende TEDx talks. Er stonden als verrassing
   niet acht maar wel negen live sprekers om te vertellen over hun idee.
+height: 150
+width: 150
+assets:  
 hits: 1
 ---
 

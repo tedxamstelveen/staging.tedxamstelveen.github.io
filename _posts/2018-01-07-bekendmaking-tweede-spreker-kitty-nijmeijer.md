@@ -11,9 +11,9 @@ author: mettereitsma
 name: Mette Reitsma
 description: Ze was eerder al te gast bij de DWDD en bij de Universiteit van Nederland.
   Prof. Dr. Ir. Kitty Nijmeijer is verbonden aan de TU Eindhoven.
-assets: assets/sprekers/kitty-nijmeijer.png
 height: 150
 width: 150
+assets: assets/sprekers/kitty-nijmeijer.png
 hits: 99
 ---
 

@@ -1,28 +1,26 @@
 ---
+layout: post
+cover:
 title: Wat is TEDx?
-date: 2017-09-19 00:00:00 Z
-layout: default
+date: 2017-09-19 00:00:00 +0000
+tags:
+- '2018'
+- TEDxAmstelveen
+- TEDx
+author: mettereitsma
+name: Mette Reitsma
 description: TED is een wereldwijde organisatie van vrijwilligers en partners die geloven in de kracht van het verspreiden van ideeen via TED talks. TED talks zijn korte, goed voorbereide, inspirerende presentaties van maximaal 18 minuten.
-image: "/img/blog/placeholder.png"
-height: 100
-width: 100
-authorimage: "/img/team/ray.svg"
-authorname: Mette Reitsma
-datePublished: 2017-09-19 00:00:00 Z
-dateModified: 2017-09-19 00:00:00 Z
-intro: TED is een wereldwijde organisatie van vrijwilligers en partners die geloven in de kracht van het verspreiden van ideeen via TED talks. TED talks zijn korte, goed voorbereide, inspirerende presentaties van maximaal 18 minuten. Dit is genoeg tijd om serieus een onderwerp te bespreken en kort genoeg om de aandacht vast te houden.
-keywords:
-hits: 2
-nav: blog-video
+height: 150
+width: 150
+assets: assets/blog/placeholder.png
+hits: 99
 ---
-
-# Wat is TEDx?
-
-<a href="{{site.url}}{{page.url}}" title="{{ page.title }}"><amp-img noloading width="100" height="100" alt="{{ page.title }}" layout="responsive" src="{{site.url}}{{ page.image }}" class="photo pull-left"></amp-img></a>
 
 TED is een wereldwijde organisatie van vrijwilligers en partners die geloven in de kracht van het verspreiden van ideeen via TED talks. TED talks zijn korte, goed voorbereide, inspirerende presentaties van maximaal 18 minuten. Dit is genoeg tijd om serieus een onderwerp te bespreken en kort genoeg om de aandacht vast te houden. De onderwerpen zijn divers en gevarieerd, van onderwijs, nieuwe technologien, kunst tot sport. Om kennis te maken met TED kun je het beste een aantal talks online bekijken.Om het bereik van goede ideeen te vergroten worden alle talks opgenomen en zijn via TED beschikbaar.
 
 [https://www.ted.com/talks](https://www.ted.com/talks)
+
+{% include img.html %}
 
 TEDx zijn lokaal georganiseerde evenementen waar ook TED-like talks worden gehouden. Er zijn TEDx evenementen over de hele wereld maar ook bijvoorbeeld in Amsterdam, Haarlem, Hilversum, Den Haag, Breda, Veghel en nu ook in Amstelveen.
 De TED talks worden afgewisseld met muzikale optredens en korte pauzes.
