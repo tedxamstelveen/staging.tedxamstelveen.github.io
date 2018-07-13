@@ -16,15 +16,15 @@
     "name": "{{ site.title }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{site.url}}/{{site.logo}}",
-      "width": "60",
-      "height": "60"
+      "url": "{{site.url}}/{{site.logo-png}}",
+      "width": "250",
+      "height": "38"
     }
   },
   "image": {
     "@type": "ImageObject",
-    "url": "{{site.url}}/{{site.logo}}",
-    "height": "60",
-    "width": "60"
+    "url": "{{site.url}}/{{site.logo-png}}",
+    "height": "250",
+    "width": "38"
   }
 }

@@ -5,6 +5,7 @@ domain: TEDxAmstelveen
 description: TEDx Amstelveen - 2019 - 'Once Upon a Time...'
 cover: assets/cover/tedxamstelveen-2018.gif
 logo: assets/logos/TEDx_Amstelveen-logo.svg
+logo-png: assets/logos/TEDx_Amstelveen-logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://staging.tedxamstelveen.com" # the base hostname & protocol for your site
