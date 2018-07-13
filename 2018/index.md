@@ -1,13 +1,9 @@
 ---
 layout: page
-cover: 'assets/images/raybogman-media.jpg'
-intro: 2018 TEDxAmstelveen Archive
-title: 2018 TEDxAmstelveen Archive
-description: ''
+cover: 'assets/cover/tedxamstelveen-2018.gif'
+title: TEDxAmstelveen 2018 Archief - Thema: Verbinding
+description: TEDxAmstelveen 2018 Archief - Thema: Verbinding
 permalink: /2018/
 ---
 
-Over the years several media engagement taken place. Here you can find a overview of several interviews, podcasts, blogs or presentations.
-
-
-{% include reviews.html %}
+TEDxAmstelveen 2018 Archief - Thema: Verbinding
