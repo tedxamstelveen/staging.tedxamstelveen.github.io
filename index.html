@@ -2,12 +2,16 @@
 layout: default
 title:
 description:
+video: O5ERrI1vyKQ
 ---
-
-
   <figure class="ampstart-image-fullpage-hero m0 relative mb4">
+    {% if page.video != null %}
+    <amp-youtube data-videoid="{{ page.video }}" width="404" height="720" layout="responsive" autoplay media="(max-width: 415px)"></amp-youtube>
+    <amp-youtube data-videoid="{{ page.video }}" layout="fixed-height" height="720" autoplay media="(min-width: 416px)"></amp-youtube>
+    {% else %}
     <amp-img width="404" height="720" alt="Cover" layout="responsive" src="{{ site.url }}/{{ site.cover }}" media="(max-width: 415px)"></amp-img>
     <amp-img height="720" alt="Cover" layout="fixed-height" src="{{ site.url }}/{{ site.cover }}" media="(min-width: 416px)"></amp-img>
+    {% endif %}
     <figcaption class="absolute top-0 right-0 bottom-0 left-0">
       <header class="p0">
         <h1 class="ampstart-fullpage-hero-heading mb0 herocover">
