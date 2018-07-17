@@ -6,8 +6,10 @@ video: O5ERrI1vyKQ
 ---
   <figure class="ampstart-image-fullpage-hero m0 relative mb4">
     {% if page.video != null %}
-    <amp-youtube data-videoid="{{ page.video }}" width="404" height="720" layout="responsive" autoplay media="(max-width: 415px)"></amp-youtube>
-    <amp-youtube data-videoid="{{ page.video }}" layout="fixed-height" height="720" autoplay media="(min-width: 416px)"></amp-youtube>
+    <div class="video-overlay">
+      <amp-youtube data-videoid="{{ page.video }}" width="404" height="720" layout="responsive" autoplay loop media="(max-width: 415px)"></amp-youtube>
+      <amp-youtube data-videoid="{{ page.video }}" layout="fill" autoplay loop media="(min-width: 416px)"></amp-youtube>
+    </div>
     {% else %}
     <amp-img width="404" height="720" alt="Cover" layout="responsive" src="{{ site.url }}/{{ site.cover }}" media="(max-width: 415px)"></amp-img>
     <amp-img height="720" alt="Cover" layout="fixed-height" src="{{ site.url }}/{{ site.cover }}" media="(min-width: 416px)"></amp-img>
