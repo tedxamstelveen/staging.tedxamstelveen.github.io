@@ -102,7 +102,7 @@ assets: tedxamstelveen-aftermovie-2018.mp4
     {% else %}
       <a class="newer-posts disabled">&larr; Vorige</a>
     {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <span class="page-number">Pagina {{ paginator.page }} van {{ paginator.total_pages }}</span>
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
         <a class="older-posts" href="{{ site.url }}/">Volgende &rarr;</a>
