@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: "/assets/blog/sprekers-gezocht-voor-tedxamstelveen-2019.jpg"
+cover: "assets/blog/sprekers-gezocht-voor-tedxamstelveen-2019.jpg"
 title: Sprekers gezocht voor TEDxAmstelveen 2019
 date: 2018-07-08 00:00:00 +0000
 tags:
