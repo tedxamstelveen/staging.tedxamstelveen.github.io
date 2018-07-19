@@ -17,7 +17,7 @@ nav: sponsors
        <div class="card">
          <div class="card__image">
            <a title="{{ member.name }}" href="{{ member.url }}">
-             <amp-img src="{{ site.url }}/assets/sponsors/{{ member.pic }}.jpg" width="300" height="200" layout="responsive" alt="{{ member.name }}" class="mb3"></amp-img>
+             <amp-img src="{{ site.url }}/assets/sponsors/{{ member.pic }}.jpg" width="300" height="150" layout="responsive" alt="{{ member.name }}" class="mb3"></amp-img>
            </a>
          </div>
        </div>
@@ -25,17 +25,3 @@ nav: sponsors
        {% endfor %}
      </div>
 </div>
-
-<amp-carousel class="tablet-down" width="500" height="400" layout="responsive" type="slides" autoplay delay="3000">
-  {% for member in site.data.sponsors %}
-  {% if member.status == 'active' %}
-  <div class="card">
-    <div class="card__image">
-      <a title="{{ member.name }}" href="{{ member.url }}">
-        <amp-img src="{{ site.url }}/assets/sponsors/{{ member.pic }}.jpg" width="300" height="200" layout="responsive" alt="{{ member.name }}" class="mb3"></amp-img>
-      </a>
-    </div>
-  </div>
-{% endif %}
-{% endfor %}
-</amp-carousel>
