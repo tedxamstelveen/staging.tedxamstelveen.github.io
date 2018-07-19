@@ -119,8 +119,10 @@ layout: default
                               {{ post.content | strip_html | truncatewords:15 }}
                             {% endif %}
                             </p>
-                            <a href="{{ site.url }}/{{ post.url | remove: '/' }}" class="ampstart-rekated-article-readmore block text-decoration-none ampstart-label">Lees verder</a>
-                          {% endif %}
+                            <p><a class="caps h5" href="{{ site.url }}/{{ post.url | remove: '/'}}">
+                              <span class="ampstart-readmore-text px1">Lees verder</span></a>
+                            </p>
+                            {% endif %}
                         {% endif %}
                       {% endif %}
                     {% endfor %}
