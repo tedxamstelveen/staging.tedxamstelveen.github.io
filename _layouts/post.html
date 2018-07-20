@@ -91,20 +91,17 @@ layout: default
           <section class="ampstart-related-article-section p0 mb4">
               <h2 class="ampstart-heading ampstart-label m0 mb3">Gerelateerde nieuwsartikelen</h2>
                 <article class="ampstart-related-article">
-                    {% if post.cover %}
-                    <amp-img src="{{ site.url }}/{{ post.cover }}" width="656" height="350" layout="responsive" alt="{{ post.title}}" class="mb3"></amp-img>
-                    {% else %}
-                        {% if site.cover %}
-                        <amp-img src="{{ site.url }}/{{ site.cover }}" width="656" height="350" layout="responsive" alt="{{ post.title}}" class="mb3"></amp-img>
-                        {% endif %}
-                    {% endif %}
                     {% assign count = 0 %}
                     {% for post in site.posts %}
                       {% if post.tags contains primary %}
                         {% if post.title != page.title %}
                           {% assign count = count | plus: 1 %}
                           {% if count <= 3 %}
-                            <h3 class="ampstart-heading h4 m0 mb3"><b>{{ post.title }}</b></h3>
+                            <h3 class="ampstart-heading h3 m0 mb3">
+                              <a class="caps h3" href="{{ site.url }}/{{ post.url | remove: '/'}}">
+                                <b>{{ post.title }}</b>
+                              </a>
+                            </h3>
                             <p class="line-height-4 mb3">
                             {% if post.description %}
                               {{post.description}}
