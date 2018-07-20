@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: "/assets/blog/tedxamstelveen-terugblik-2018.jpg"
+cover: "assets/blog/tedxamstelveen-terugblik-2018.jpg"
 title: Terugblik eerste TEDxAmstelveen
 date: 2018-03-18 00:00:00 +0000
 tags:
