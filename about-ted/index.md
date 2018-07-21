@@ -1,10 +1,10 @@
 ---
-comments: false
-description: "About TED/ About TEDx."
 layout: page
-nav: ~
+title: "About TED/ About TEDx"
+description: "About TED/ About TEDx."
+comments: false
 permalink: /about-ted/
-title: "About TED"
+nav: 
 ---
 
 ###About TEDx, x = independently organized event
