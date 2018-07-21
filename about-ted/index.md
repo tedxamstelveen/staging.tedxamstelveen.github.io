@@ -4,7 +4,6 @@ title: About TED About TEDx
 description: About TED About TEDx
 comments: false
 permalink: /about-ted/
-nav: about-ted
 ---
 
 ###About TEDx, x = independently organized event
