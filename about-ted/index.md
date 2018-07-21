@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About TED, About TEDx
-description: About TED/About TEDx
+title: "About TED/ About TEDx"
+description: "About TED/About TEDx"
 comments: false
 permalink: /about-ted/
 nav: about-ted
