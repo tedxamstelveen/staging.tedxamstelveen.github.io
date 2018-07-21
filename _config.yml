@@ -9,7 +9,7 @@ logo-png: assets/logos/TEDx_Amstelveen-logo.png
 favicon: assets/icons/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://staging.tedxamstelveen.com" # the base hostname & protocol for your site
-robots: NOINDEX,NOFOLLOW
+robots: INDEX,FOLLOW
 email: hallo@tedxamstelveen.com
 fb_app_id: 144786006139437
 paginate:	1 # The number of posts to show per page on your homepage
