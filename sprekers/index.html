@@ -35,7 +35,7 @@ nav: sprekers
 
 <div class="card-container">
   {% for member in site.data.sprekers %}
-    {% if member.year == '2019' %}
+    {% if member.status == 'active' and member.year == '2019' %}
     <div class="author-section mb4">
       <a title="{{ member.name }}" href="{{ member.url }}">
         <amp-img src="{{ site.url }}/assets/sprekers/{{ member.pic }}.jpg" width="100" height="100" layout="responsive" alt="{{ member.name }}" class="author-thumb-post"></amp-img>
