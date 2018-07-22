@@ -79,10 +79,10 @@
   position: 9
   status: active
 
-- name: John Do
-  description: John Do
-  url: /sprekers/john-do
-  pic: john-do
+- name: Ray Bogman
+  description: Ray Bogman
+  url: /sprekers/ray-bogman
+  pic: ray-bogman
   year: 2019
   video: U5CY4zEAbEA
   position: 10
