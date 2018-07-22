@@ -8,6 +8,7 @@ tags:
 - TEDxAmstelveen
 - zangers
 - Evi de Jean
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Evi De Jean, zangeres en stemcoach, groeide op in Bermuda, Israël en

@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - voorinschrijving
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Wil jij er graag bij zijn op 16 maart 2018 van 13:00 tot 17:00? De voorinschrijving

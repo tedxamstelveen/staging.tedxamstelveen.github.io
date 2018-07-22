@@ -6,6 +6,7 @@ date: 2017-10-18 00:00:00 +0000
 tags:
 - '2018'
 - TEDxAmstelveen
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Om het evenement toegankelijk en laagdrempelig te houden doen we een

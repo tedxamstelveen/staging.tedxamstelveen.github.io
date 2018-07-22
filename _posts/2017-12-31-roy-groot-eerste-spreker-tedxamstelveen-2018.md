@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - Roy Groot
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Op de valreep van 2017 maken wij onze eerste spreker bekend. Op het podium

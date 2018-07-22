@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - TEDx
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: TED is een wereldwijde organisatie van vrijwilligers en partners die geloven in de kracht van het verspreiden van ideeen via TED talks. TED talks zijn korte, goed voorbereide, inspirerende presentaties van maximaal 18 minuten.

@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - Jeroen de Graaf
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Wat we niet weten, kunnen we ook niet zien. Lichaamstaal of ook wel bodylanguage is een erg boeiend onderwerp, want als we een handgebaar of een spiertrekking zien, wat betekent dat precies?

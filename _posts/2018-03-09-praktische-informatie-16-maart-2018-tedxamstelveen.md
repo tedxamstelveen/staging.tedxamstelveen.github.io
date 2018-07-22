@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - informatie
+- Verbinding
 author: raybogman
 name: Ray Bogman
 description: Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We zijn

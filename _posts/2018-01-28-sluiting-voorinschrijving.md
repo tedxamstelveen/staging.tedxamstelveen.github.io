@@ -8,6 +8,7 @@ tags:
 - TEDxAmstelveen
 - voorinschrijving
 - wachtlijst
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: De voorinschrijving is gesloten. We zijn blij met zoveel belangstelling voor TEDxAmstelveen. Binnen een week hadden we al meer dan 100 inschrijvingen.

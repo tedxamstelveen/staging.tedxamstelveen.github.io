@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - recap
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: De eerste TEDxAmstelveen zit er op! Afgelopen vrijdag hebben 100 bezoekers

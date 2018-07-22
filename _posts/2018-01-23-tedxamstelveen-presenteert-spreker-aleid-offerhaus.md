@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - Aleid Offerhaus
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Aleid Offerhaus is gecertificeerd natuurgids en geeft rondleidingen in de Amstelveense natuur.

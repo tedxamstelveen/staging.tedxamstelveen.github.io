@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - uitverkocht
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Vorige week is de kaartverkoop gestart voor iedereen die zich van tevoren had ingeschreven. Binnen een paar dagen was het uitverkocht!

@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - Rinie Hoeks
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Rinie werkt als adviseur dyslexie en vreemde talen. Ze geeft cursus over

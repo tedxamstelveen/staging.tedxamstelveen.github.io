@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - Kitty Nijmeijer
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Ze was eerder al te gast bij de DWDD en bij de Universiteit van Nederland.

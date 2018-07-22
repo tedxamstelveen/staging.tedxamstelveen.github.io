@@ -7,6 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - Pim Giel
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Hoe breng je ernstig maatschappelijke thema’s op een frisse manier onder het voetlicht? Als regisseur maakte Pim de afgelopen jaren films over de zorgsector, zoals chronische pijn en dementie.

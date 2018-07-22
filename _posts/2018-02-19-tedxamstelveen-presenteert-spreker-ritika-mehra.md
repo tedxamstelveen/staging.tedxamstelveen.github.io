@@ -8,6 +8,7 @@ tags:
 - spreker
 - Ritika Mehra
 - TEDxAmstelveen
+- Verbinding
 author: mettereitsma
 name: Mette Reitsma
 description: Wisten jullie dat er ruim 4000 mensen met Indiase afkomst in Amstelveen
