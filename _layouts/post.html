@@ -125,7 +125,7 @@ layout: default
 
 {% for author in site.data.authors %}
   {% if author[1].username == page.author %}
-    <div class="author-section mb4">
+    <div class="author-section mb4 flow">
         {% if author[1].assets %}
             <amp-img width="150" height="150" class="author-thumb-post" layout="responsive" src="{{ site.url }}/{{author[1].assets}}" alt="{{author[1].name}}"/></amp-img>
         {% endif %}

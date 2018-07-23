@@ -670,9 +670,13 @@ tr:nth-child(odd), th {
 }
 
 .author-section {
-    //margin-top: 2rem;
-    //display: flow-root
+    margin-top: 2rem;
+    .flow {
+      display: flow-root
+    }
+
 }
+
 
 .herocover {
     margin-top: 25vh;
