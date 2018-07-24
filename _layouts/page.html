@@ -33,9 +33,11 @@ layout: default
         {% include social-facebook.html %}
         {% include social-twitter.html %}
         {% include social-website.html %}
+        {% if page.nav != 'sponsors' %}
         <div class="ampstart-social-box mb4">
           {% include social-share.html %}
         </div>
+        {% endif %}
         {% include tedx-youtube-video.html %}
     </section>
   </article>
