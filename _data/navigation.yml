@@ -1,7 +1,8 @@
+---
 - title: Home
-  url:
-- title: Sponsors
-  url: "/sponsors/"
+  url: 
+- title: Partners
+  url: "/partners/"
 - title: Sprekers
   url: "/sprekers/"
 - title: Team
