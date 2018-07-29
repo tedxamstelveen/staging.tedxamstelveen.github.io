@@ -15,6 +15,7 @@ height: 150
 width: 150
 assets: assets/sprekers/jeroen-de-graaf.png
 hits: 99
+redirect_from: "/2018/02/12/tedxamstelveen-presenteert-spreker-jeroen-de-graaf/"
 ---
 
 Wat we niet weten, kunnen we ook niet zien. Lichaamstaal of ook wel bodylanguage is een erg boeiend onderwerp, want als we een handgebaar of een spiertrekking zien, wat betekent dat precies? Waarom hebben we op een bepaalde plek jeuk tijdens een gesprek? Aangetoond is dat ieder plekje dat je aanraakt, tijdens een gesprek, een betekenis heeft . Een beweging is een vorm van pre-verbale communicatie die meer vertelt als je weet wat het betekent.
