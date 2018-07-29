@@ -14,7 +14,7 @@
   pic: michel-van-schouten
   url: http://www.van-schouten.nl/
   position: 3
-  status: inactive
+  status: active
 
 - name: Han Schooneman
   pic: han-schooneman
@@ -22,9 +22,9 @@
   position: 4
   status: active
 
-- name: 
+- name:
   pic:
-  url:
+  url: 
   position: 5
   status: inactive
 
@@ -44,4 +44,4 @@
   pic: gemeente-amstelveen
   url: https://www.amstelveen.nl/
   position: 8
-  status: inactive
+  status: active
