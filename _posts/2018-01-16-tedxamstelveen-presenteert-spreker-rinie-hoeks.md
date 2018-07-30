@@ -17,6 +17,7 @@ height: 150
 width: 150
 assets: assets/sprekers/rinie-hoeks.png
 hits: 99
+redirect_from: "/2018/01/16/tedxamstelveen-presenteert-spreker-rinie-hoeks/"
 ---
 
 Wat maakt dat de een vreemde taal vrij gemakkelijk oppikt en een ander er na jaren nog steeds niet veel mee kan?
