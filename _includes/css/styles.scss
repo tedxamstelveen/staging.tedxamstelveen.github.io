@@ -854,9 +854,7 @@ hr:after{
   margin-right: 1.5rem
 }
 
-.super-big {
-  padding: 2em;
-    a {
-      font-size: 4em
-    }
+.super-big a {
+      font-size: 4em;
+      line-height: normal
 }
