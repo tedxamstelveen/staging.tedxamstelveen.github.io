@@ -54,12 +54,12 @@
   position: 8
   status: active
 
-- name:
-  description:
-  url: /team/
-  pic:
+- name: Jennifer van Balkom
+  description: Sprekerscoach
+  url: /team/jennifer-van-balkom
+  pic: jennifer-van-balkom
   position: 9
-  status: inactive
+  status: active
 
 - name: Bas Koppelman
   description: Adviseur en voorzitter bestuur
