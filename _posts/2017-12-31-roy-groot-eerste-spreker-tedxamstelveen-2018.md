@@ -16,6 +16,9 @@ height: 150
 width: 150
 assets: assets/sprekers/roy-groot.png
 hits: 99
+redirect_from:
+  - /2017/12/31/roy-groot-eerste-spreker-tedxamstelveen-2018/
+  - /2017/12/31/bekendmaking-eerste-spreker-tedxamstelveen-2018/
 ---
 
 Op de valreep van 2017 maken wij onze eerste spreker bekend. Op het podium van TEDxAmstelveen staat Roy Groot.

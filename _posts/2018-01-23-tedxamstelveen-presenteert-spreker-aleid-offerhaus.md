@@ -15,6 +15,7 @@ height: 150
 width: 150
 assets: assets/sprekers/aleid-offerhaus.png
 hits: 99
+redirect_from: "/2018/01/23/tedxamstelveen-presenteert-spreker-aleid-offerhaus/"
 ---
 
 Als mens zijn we onlosmakelijk verbonden met de natuur. Aleid Offerhaus is gecertificeerd natuurgids en geeft rondleidingen in de Amstelveense natuur. Ze is actief verbonden aan het IVN, een organisatie die mensen op een leuke en boeiende manier wil betrekken bij de natuur. Op 16 maart gaat ze ons bewust maken van de natuur om ons heen.

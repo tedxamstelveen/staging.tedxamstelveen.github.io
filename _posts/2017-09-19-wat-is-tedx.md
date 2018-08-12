@@ -15,6 +15,7 @@ height: 150
 width: 150
 assets: assets/blog/placeholder.png
 hits: 99
+redirect_from: "/2017/09/19/wat-is-tedx/"
 ---
 
 TED is een wereldwijde organisatie van vrijwilligers en partners die geloven in de kracht van het verspreiden van ideeen via TED talks. TED talks zijn korte, goed voorbereide, inspirerende presentaties van maximaal 18 minuten. Dit is genoeg tijd om serieus een onderwerp te bespreken en kort genoeg om de aandacht vast te houden. De onderwerpen zijn divers en gevarieerd, van onderwijs, nieuwe technologien, kunst tot sport. Om kennis te maken met TED kun je het beste een aantal talks online bekijken.Om het bereik van goede ideeen te vergroten worden alle talks opgenomen en zijn via TED beschikbaar.

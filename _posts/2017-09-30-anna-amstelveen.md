@@ -16,6 +16,7 @@ height: 150
 width: 150
 assets: assets/blog/annakerk.jpg
 hits: 99
+redirect_from: "/2017/09/30/anna-amstelveen/"
 ---
 
 ANNA wordt de locatie voor onze eerste TEDxAmstelveen. De voormalige Annakerk wordt momenteel omgebouwd tot de nieuwe ontmoetingsplek van Amstelveen. Het heeft het enthousiasme en de inspiratie die past bij ons evenement.

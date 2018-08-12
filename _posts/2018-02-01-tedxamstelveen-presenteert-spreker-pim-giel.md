@@ -15,6 +15,7 @@ height: 150
 width: 150
 assets: assets/sprekers/pim-giel.png
 hits: 99
+redirect_from: "/2018/02/01/tedxamstelveen-presenteert-spreker-pim-giel/"
 ---
 
 Hoe breng je ernstig maatschappelijke thema’s op een frisse manier onder het voetlicht? Als regisseur maakte Pim de afgelopen jaren films over de zorgsector, zoals chronische pijn en dementie. Een wereld die hij 30 jaar lang van dichtbij heeft meegemaakt in verpleging, ouderenzorg en zelfs de intensive care.
