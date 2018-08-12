@@ -16,6 +16,7 @@ height: 150
 width: 150
 assets: assets/sprekers/kitty-nijmeijer.png
 hits: 99
+redirect_from: "/2018/01/07/bekendmaking-tweede-spreker-kitty-nijmeijer/"
 ---
 
 Ze was eerder al te gast bij de DWDD en bij de Universiteit van Nederland. Prof. Dr. Ir. Kitty Nijmeijer is verbonden aan de Technische Universiteit Eindhoven en weet de werking van een chemische verbinding ook aan niet-wetenschappers uit te leggen. Ze heeft meer dan 15 jaar ervaring op het gebied van het ontwikkelen en toepassen van polymeermembranen.
