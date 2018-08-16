@@ -3,12 +3,15 @@ title: Over TEDxAmstelveen
 layout: post
 date: 2018-08-15 04:00:00 +0000
 cover: ''
-tags: TEDxAmstelveen, 2019, ideas worth spreading
+tags:
+- TEDxAmstelveen
+- '2019'
+- ideas worth spreading
 author: amberwiznitzer
 name: Amber Wiznitzer
 description: Over TEDxAmstelveen
-width: ''
-height: ''
+width: 150
+height: 150
 assets: ''
 hits: ''
 
@@ -28,4 +31,4 @@ De vrijwilligers die meehelpen met het organiseren van het TEDx evenement in Ams
 
 Het TEDx event in Amstelveen, dat dit keer het thema _Once upon a time_ draagt, zal wederom met veel enthousiasme en betrokkenheid van iedereen die eraan meewerkt (sprekers, coaches, sponsoren en alle andere vrijwilligers) worden opgezet. Gedurende september en oktober zullen de sprekers met de meest interessante en bij het thema passende ideeën worden geselecteerd uit de mogelijke kandidaten. Daarna gaan de sprekers samen met sprekersocaches aan de slag om een zo goed mogelijke TEDtalk voor te bereiden. In april of mei 2019 vindt ten slotte het daadwerkelijke evenement plaats, waarbij de sprekers hun goed voorbereide TED talks ten gehore zullen brengen. Ook zullen hun talks dan online komen te staan, waar ze voor iedereen zichtbaar zullen zijn. 
 
-In de aanloop naar het event zullen er regelmatig updates op de website van TEDx Amstelveen verschijnen. Houd deze dus goed in de gaten voor meer info over ons inspirerende evenement. Tot gauw! 
+In de aanloop naar het event zullen er regelmatig updates op de website van TEDx Amstelveen verschijnen. Houd deze dus goed in de gaten voor meer info over ons inspirerende evenement. Tot gauw!
