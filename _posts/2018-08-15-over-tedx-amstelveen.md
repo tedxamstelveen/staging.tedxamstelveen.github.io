@@ -1,12 +1,12 @@
 ---
-title: Over TEDx Amstelveen
+title: Over TEDxAmstelveen
 layout: post
 date: 2018-08-15 04:00:00 +0000
 cover: ''
 tags: TEDxAmstelveen, 2019, ideas worth spreading
 author: amberwiznitzer
 name: Amber Wiznitzer
-description: Over TEDx Amstelveen
+description: Over TEDxAmstelveen
 width: ''
 height: ''
 assets: ''
