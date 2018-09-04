@@ -12,7 +12,7 @@ url: "https://tedxamstelveen.com" # the base hostname & protocol for your site
 robots: INDEX,FOLLOW
 email: hallo@tedxamstelveen.com
 fb_app_id: 144786006139437
-paginate:	1 # The number of posts to show per page on your homepage
+paginate:	2 # The number of posts to show per page on your homepage
 
 # Social
 facebook: tedxamstelveen
