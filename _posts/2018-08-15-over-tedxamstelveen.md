@@ -16,8 +16,8 @@ assets: ''
 hits: ''
 
 ---
-##Wat is TED(x)?_  
-Ideas worth spreading: dat is het motto van TED, een organisatie zonder winstoogmerk die zich sinds 1984 als voornaamste doel stelt waardevolle ideeën te verspreiden onder een zo breed mogelijk publiek. Waar TED begon als conferentie in Vancouver over technologie, entertainment en design, zijn tegenwoordig TED talks in meer dan honderd talen over haast alle denkbare onderwerpen een wereldwijd fenomeen. Veel van de TED talks waarbij deze talks worden gegeven zijn initiatieven van een onafhankelijk bestuurde aftakking van TED: TEDx. Dat is ook het geval bij TEDx Amstelveen, dat georganiseerd wordt door een team van bevlogen vrijwilligers.
+
+Wat is TED(x)? Ideas worth spreading: dat is het motto van TED, een organisatie zonder winstoogmerk die zich sinds 1984 als voornaamste doel stelt waardevolle ideeën te verspreiden onder een zo breed mogelijk publiek. Waar TED begon als conferentie in Vancouver over technologie, entertainment en design, zijn tegenwoordig TED talks in meer dan honderd talen over haast alle denkbare onderwerpen een wereldwijd fenomeen. Veel van de TED talks waarbij deze talks worden gegeven zijn initiatieven van een onafhankelijk bestuurde aftakking van TED: TEDx. Dat is ook het geval bij TEDx Amstelveen, dat georganiseerd wordt door een team van bevlogen vrijwilligers.
 
 ##Waarom een TEDx event in Amstelveen?
 
