@@ -2,7 +2,7 @@
 title: TEDx komt in 2019 weer naar Amstelveen!
 layout: post
 date: 2018-08-15 04:00:00 +0000
-cover: ''
+cover: "assets/blog/sprekers-gezocht-voor-tedxamstelveen-2019.jpg"
 tags:
 - TEDxAmstelveen
 - '2019'
