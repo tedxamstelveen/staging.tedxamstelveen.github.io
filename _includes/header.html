@@ -23,9 +23,9 @@
             {% else %}
                 {% assign current = null %}
             {% endif %}
-      <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
-          <li class="ampstart-faq-item"><a href="{{ site.url }}{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></li>
-      </li>
+      <div class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
+          <div class="ampstart-faq-item"><a href="{{ site.url }}{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></div>
+      </div>
       {% endfor %}
     </ul>
   {% include social.html %}
@@ -37,9 +37,9 @@
             {% else %}
                 {% assign current = null %}
             {% endif %}
-      <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
-          <li class="ampstart-faq-item"><a href="{{ site.url }}{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></li>
-      </li>
+      <div class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
+          <div class="ampstart-faq-item"><a href="{{ site.url }}{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></div>
+      </div>
       {% endfor %}
     </ul>
     <h3>Connect</h3>
@@ -50,9 +50,9 @@
               {% else %}
                   {% assign current = null %}
               {% endif %}
-        <li class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
-            <li class="ampstart-faq-item"><a href="{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></li>
-        </li>
+        <div class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
+            <div class="ampstart-faq-item"><a href="{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></div>
+        </div>
         {% endfor %}
       </ul>
   </nav>
