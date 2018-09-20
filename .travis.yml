@@ -8,7 +8,6 @@ branches:
   - 'master'
 
 install:
-  - 'bundle install'
   - 'pip install --user html5validator'
 
 before_script:
