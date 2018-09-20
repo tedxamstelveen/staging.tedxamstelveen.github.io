@@ -14,8 +14,8 @@ before_script:
  -  'chmod +x ./assets/dev/build'
 
 script:
-  - 'html5validator --root _site/ --ignore "⚡" "custom-element" "amp-boilerplate" "amp-custom" "on" '
   - './assets/dev/build'
+  - 'html5validator --root _site/ --ignore "⚡" "custom-element" "amp-boilerplate" "amp-custom" "on" '
 
 env:
   global:

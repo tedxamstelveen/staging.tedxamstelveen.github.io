@@ -1,7 +1,11 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 3.6.2"
-gem 'jekyll-compose', group: [:jekyll_plugins]
-gem "github-pages", "~> 168"
-gem "rake", "~> 12.3.0"
+gem 'github-pages'
+gem 'github-markdown'
+gem 'jekyll-seo-tag'
+gem 'jekyll'
 gem 'jekyll-paginate'
+gem 'html-proofer'
+gem 'jekyll-sitemap'
+gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-email-protect'
