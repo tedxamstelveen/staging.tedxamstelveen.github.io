@@ -15,7 +15,7 @@ before_script:
 
 script:
   - 'html5validator --root _site/ --ignore "⚡" "custom-element" "amp-boilerplate" "amp-custom" "on" '
-  - './script/cibuild'
+  - './assets/dev/build'
 
 branches:
   only:
