@@ -1,10 +1,11 @@
-language: 'ruby'
+language: 'java'
 sudo: required
-rvm:
-  - '2.3.0'
-
 jdk:
   - 'oraclejdk8'
+
+branches:
+  only:
+  - 'master'
 
 install:
   - 'bundle install'
@@ -16,10 +17,6 @@ before_script:
 script:
   - 'html5validator --root _site/ --ignore "⚡" "custom-element" "amp-boilerplate" "amp-custom" "on" '
   - './assets/dev/build'
-
-branches:
-  only:
-  - 'master'
 
 env:
   global:
