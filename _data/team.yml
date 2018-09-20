@@ -74,3 +74,59 @@
   pic: marianne-van-der-meer
   position: 11
   status: active
+
+- name: Anouk Boering
+  description: Sprekerscoach
+  url: /team/anouk-boering
+  pic: anouk-boering
+  position: 12
+  status: active
+
+- name: Michiel Bloem
+  description: Sprekerscoach
+  url: /team/michiel-bloem
+  pic: michiel-bloem
+  position: 13
+  status: active
+
+- name: Yigael van der Hoeven
+  description:
+  url: /team/yigael-van-der-hoeven
+  pic: yigael-van-der-hoeven
+  position: 14
+  status: active
+
+- name: Stephan Danser
+  description:
+  url: /team/stephan-danser
+  pic: stephan-danser
+  position: 15
+  status: active
+
+- name: Manolo Barten
+  description:
+  url: /team/manolo-barten
+  pic: manolo-barten
+  position: 16
+  status: active
+
+- name: Marjolein Bronsvoort
+  description:
+  url: /team/marjolein-bronsvoort
+  pic: marjolein-bronsvoort
+  position: 17
+  status: active
+
+- name: Margot Snelders
+  description:
+  url: /team/margot-snelders
+  pic: margot-snelders
+  position: 18
+  status: active
+
+- name: Jacobien Vermande
+  description:
+  url: /team/jacobien-vermande
+  pic: jacobien-vermande
+  position: 19
+  status: active
