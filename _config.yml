@@ -21,7 +21,7 @@ twitter: tedxamstelveen
 youtube: UC7pmtwbW_kN0ipHYpjgdAzA
 flickr : tedxamstelveen
 
-permalink: /:title
+permalink: /:title/
 
 # Google Analytics
 analytics_id: UA-108379881-1

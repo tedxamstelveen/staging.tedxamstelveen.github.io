@@ -7,8 +7,8 @@ tags:
 - TEDxAmstelveen
 - '2019'
 - ideas worth spreading
-author: ambertherese
-name: Amber Thérèse
+author: amberwiznitzer
+name: Amber Wiznitzer
 description: TEDx komt in 2019 weer naar Amstelveen!
 width: 150
 height: 150
