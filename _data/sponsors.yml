@@ -45,3 +45,15 @@
   url: https://www.amstelveen.nl/
   position: 8
   status: active
+
+- name: No Worries Film Productions
+  pic: noworries
+  url: https://www.linkedin.com/in/stephan-prive-danser-704987a/
+  position: 9
+  status: active
+
+- name: Cinemjuze
+  pic: cinemjuze
+  url: http://cinemjuze.nl/
+  position: 10
+  status: active
