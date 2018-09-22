@@ -5,7 +5,7 @@ gem 'github-markdown'
 gem 'jekyll-seo-tag'
 gem 'jekyll'
 gem 'jekyll-paginate'
-gem 'html-proofer', "~>3.9.2"
+gem 'html-proofer'
 gem 'jekyll-sitemap'
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-email-protect'
