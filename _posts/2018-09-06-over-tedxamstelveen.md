@@ -7,8 +7,8 @@ tags:
 - TEDxAmstelveen
 - '2019'
 - ideas worth spreading
-author: amberwiznitzer
-name: Amber Wiznitzer
+author: ambertherese
+name: Amber Thérèse
 description: TEDx komt in 2019 weer naar Amstelveen!
 width: 150
 height: 150
@@ -24,7 +24,7 @@ Ideas spreading: dat is het motto van TED, een organisatie zonder winstoogmerk d
 
 ### Waarom een TEDx event in Amstelveen?
 
-De vrijwilligers die meehelpen met het organiseren van het TEDx evenement in Amstelveen doen dit vanuit allerlei verschillende motieven. Een voorliefde voor vernieuwende concepten kan hierin leidend zijn, evenals een behoefte om het leven van de medemens ten goede te veranderen. Wat alle mensen die meewerken aan TEDx Amstelveen echter met elkaar gemeen hebben, is het verlangen om (volledig in overeenstemming met de hoofdgedachte van TED) mooie en belangrijke ideeën te verspreiden onder zoveel mogelijk mensen. Dat is vorig jaar bij het eerste TEDx event in Amstelveen al goed gelukt, maar dit jaar zet het team zich massaal in voor een nog geslaagdere editie. 
+De vrijwilligers die meehelpen met het organiseren van het TEDx evenement in Amstelveen doen dit vanuit allerlei verschillende motieven. Een voorliefde voor vernieuwende concepten kan hierin leidend zijn, evenals een behoefte om het leven van de medemens ten goede te veranderen. Wat alle mensen die meewerken aan TEDx Amstelveen echter met elkaar gemeen hebben, is het verlangen om (volledig in overeenstemming met de hoofdgedachte van TED) mooie en belangrijke ideeën te verspreiden onder zoveel mogelijk mensen. Dat is vorig jaar bij het eerste TEDx event in Amstelveen al goed gelukt, maar dit jaar zet het team zich massaal in voor een nog geslaagdere editie.
 
 ### Wat valt er te verwachten van TEDx Amstelveen?
 

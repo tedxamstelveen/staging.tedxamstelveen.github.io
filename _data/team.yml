@@ -130,3 +130,10 @@
   pic: jacobien-vermande
   position: 19
   status: active
+
+- name: Amber Thérèse
+  description:
+  url: /team/amber-therese
+  pic: amber-therese
+  position: 20
+  status: active
