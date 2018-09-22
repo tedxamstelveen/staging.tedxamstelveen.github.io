@@ -22,11 +22,11 @@
   position: 4
   status: active
 
-- name:
-  pic:
-  url: 
+- name: ANNA Amstelveen
+  pic: anna-amstelveen
+  url: https://www.anna-amstelveen.nl/
   position: 5
-  status: inactive
+  status: active
 
 - name: Loogman
   pic: loogman
