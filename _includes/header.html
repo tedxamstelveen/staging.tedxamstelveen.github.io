@@ -24,7 +24,7 @@
                 {% assign current = null %}
             {% endif %}
       <div class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
-          <div class="ampstart-faq-item"><a href="{{ site.url }}{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></div>
+          <div class="ampstart-menu-item"><a href="{{ site.url }}{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></div>
       </div>
       {% endfor %}
     </ul>
@@ -38,7 +38,7 @@
                 {% assign current = null %}
             {% endif %}
       <div class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
-          <div class="ampstart-faq-item"><a href="{{ site.url }}{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></div>
+          <div class="ampstart-menu-item"><a href="{{ site.url }}{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></div>
       </div>
       {% endfor %}
     </ul>
@@ -51,7 +51,7 @@
                   {% assign current = null %}
               {% endif %}
         <div class="ampstart-nav-item ampstart-nav-dropdown relative {{ current }}">
-            <div class="ampstart-faq-item"><a href="{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></div>
+            <div class="ampstart-menu-item"><a href="{{ entry.url }}" class="text-decoration-none" title="{{ entry.title }}">{{ entry.title }}</a></div>
         </div>
         {% endfor %}
       </ul>
