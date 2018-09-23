@@ -15,7 +15,7 @@ before_script:
 
 script:
   - ./assets/dev/build
-  - html5validator --root _site/ --skip-non-css --ignore-re '⚡' 'custom-element' 'amp-boilerplate' 'amp-custom' 'on'
+  - html5validator --root _site/ --log DEBUG --ignore-re '⚡' 'custom-element' 'amp-boilerplate' 'amp-custom' 'on'
 
 env:
   global:
