@@ -127,7 +127,7 @@ layout: default
   {% if author[1].username == page.author %}
     <div class="author-section mb4 flow">
         {% if author[1].assets %}
-            <amp-img width="150" height="150" class="author-thumb-post" layout="responsive" src="{{ site.url }}/{{author[1].assets}}" alt="{{author[1].name}}"/></amp-img>
+            <amp-img width="150" height="150" class="author-thumb-post" layout="responsive" src="{{ site.url }}/{{author[1].assets}}" alt="{{author[1].name}}"></amp-img>
         {% endif %}
         <a href="{{site.url}}/authors/#{{author[1].username}}"><h4 class="author-name">{{author[1].name}}</h4></a>
         <p class="mb4 px3">{{author[1].bio}}</p>
