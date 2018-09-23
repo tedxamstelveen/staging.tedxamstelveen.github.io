@@ -4,20 +4,6 @@
 $grey-color:  #828282;
 $theme-color: #000000;
 
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
-}
-
 .cf {
   @include clearfix;
 }
