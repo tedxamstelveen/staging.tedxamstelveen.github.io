@@ -6,7 +6,8 @@ cover: "assets/blog/sprekers-gezocht-voor-tedxamstelveen-2019.jpg"
 tags:
 - TEDxAmstelveen
 - '2019'
-- ideas worth spreading
+- ideas_worth_spreading
+- 'Once_Upon_a_Time'
 author: amberwiznitzer
 name: Amber Wiznitzer
 description: TEDx komt in 2019 weer naar Amstelveen!

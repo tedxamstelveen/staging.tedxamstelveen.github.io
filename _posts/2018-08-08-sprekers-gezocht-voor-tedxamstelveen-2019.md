@@ -7,7 +7,7 @@ tags:
 - '2018'
 - TEDxAmstelveen
 - sprekers
-- 'Once Upon a Time'
+- 'Once_Upon_a_Time'
 author: nielsverhaest
 name: Niels Verhaest
 description: Na het succes van de uitverkochte eerste editie in maart 2018 staat Amstelveen definitief op de TEDx kaart. De organisatie voor het vervolg in 2019 is al in volle gang en wij zijn ervan overtuigd dat we de volgende editie naar een nóg hoger niveau kunnen tillen. TEDxAmstelveen 2019 wordt niet alleen groter, maar vooral ook grootser. En daar kun jij als spreker aan bijdragen!
