@@ -7,8 +7,8 @@ tags: '2019 '
 author: nielsverhaest
 name: Niels Verhaest
 description: TEDx op 14 april 2019 in de Schouwburg Amstelveen
-width: ''
-height: ''
+width: 150
+height: 150
 assets: ''
 hits: ''
 
