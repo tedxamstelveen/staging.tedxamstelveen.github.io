@@ -19,4 +19,4 @@ Wij kunnen in ieder geval niet wachten om het succes van TEDxAmstelveen 2018 een
 
 Intussen is de selectieprocedure voor sprekers op het evenement in volle gang. Wij zijn overweldigd door het grote aantal aanmeldingen dat we hebben ontvangen en kunnen ieder geval alvast verklappen dat er zeer veelbelovende sprekers tussen zitten. Hierover later meer!
 
-Blijf op de hoogte via de berichtgeving van onze mediapartner [AmstelveenZ](https://www.amstelveenz.nl/) en volg TEDxAmstelveen op [Facebook](https://www.facebook.com/TEDxAmstelveen/) en [Linkedin](https://www.linkedin.com/company/tedx-amstelveen/) om niets te missen over sprekers, kaartverkoop en ander nieuws.
+Blijf op de hoogte via de berichtgeving van onze mediapartner [Amstelveenz](https://www.amstelveenz.nl/index.html) en volg TEDxAmstelveen op [Facebook](https://www.facebook.com/TEDxAmstelveen/) en [Linkedin](https://www.linkedin.com/company/tedx-amstelveen/) om niets te missen over sprekers, kaartverkoop en ander nieuws.
