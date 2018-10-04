@@ -54,7 +54,7 @@ fields:
 - type: text
   name: assets
   label: assets
-  description: 'example: "/assets/blog/mijn-foto.jpg" [only small img]'
+  description: 'example: ''/assets/blog/mijn-foto.jpg'' [only small img]'
 - type: number
   name: hits
   label: hits
