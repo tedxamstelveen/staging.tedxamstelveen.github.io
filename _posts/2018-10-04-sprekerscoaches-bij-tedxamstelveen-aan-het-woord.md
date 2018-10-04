@@ -3,7 +3,9 @@ title: Sprekerscoaches bij TEDxAmstelveen aan het woord
 layout: post
 date: 2018-10-03 22:00:00 +0000
 cover: ''
-tags: 2019, TEDxAmstelveen
+tags:
+  - '2019'
+  - TEDxAmstelveen
 author: amberwiznitzer
 name: Amber Wiznitzer
 description: 'TEDx Amstelveen staat of valt bij de kwaliteit van de TED Talks. In
