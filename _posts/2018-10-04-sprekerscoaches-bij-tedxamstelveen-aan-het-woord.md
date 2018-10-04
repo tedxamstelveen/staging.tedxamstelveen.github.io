@@ -19,13 +19,12 @@ assets: ''
 hits: ''
 
 ---
-Samen naar een hoger niveau
-
-_Over de rol en de drijfveren van de sprekerscoach_
-
 TEDx Amstelveen staat of valt bij de kwaliteit van de TED Talks. In eerste instantie dragen de sprekers daar verantwoordelijkheid voor, maar zij worden natuurlijk wel bijgestaan door een bevlogen team van vrijwilligers. Van die vrijwilligers zijn het de zogeheten ‘sprekerscoaches’ die het meest direct betrokken zijn bij het tot stand komen van de TED Talks. Op welke manier gaan zij te werk om de sprekers te helpen tot een ideale presentatie te komen? In deze blog bespreken we samen met twee sprekerscoaches uit het team van TEDx Amstelveen, Mandy en Maarten, hoe zij invulling geven aan hun rol als coach en wat hen drijft om dit werk te doen. Lees vooral verder als je wil weten wat je ongeveer te wachten staat als potentiële spreker, maar ook gewoon als je nieuwsgierig bent naar het wordingsproces van een TED Talk.
 
-**Wat doet een sprekerscoach?**
+***Samen naar een hoger niveau***
+_Over de rol en de drijfveren van de sprekerscoach_
+
+***Wat doet een sprekerscoach?***
 
 Een sprekerscoach ondersteunt een spreker in het creëren van een zo goed mogelijke TED Talk. Mandy benadrukt dat het daarbij gaat om meer dan de inhoud van het verhaal alleen: naast het feit dat de kern van elke Talk een _idea worth spreading_ dient te zijn, telt ook de manier waarop het verhaal wordt gebracht zwaar mee in het succes van de presentatie. In dat kader is het de taak van een sprekerscoach om aandacht te besteden aan onder meer de opbouw van de presentatie, manieren om het verhaal overtuigend te vertellen en het belang van non-verbale communicatie. Ook weet Mandy uit eigen ervaring dat sprekerscoaches sprekers kunnen helpen om hun eventuele spreekangst te overwinnen. Maarten voegt daaraan toe dat een sprekerscoach vooral – door feedback te geven op het gebied van de inhoud, scherpte en stijl van het verhaal – de spreker het hogere niveau helpt te bereiken waarop hij of zij wil belanden. Van iedere samenwerking is het beoogde eindresultaat dat een spreker, met hulp van de sprekerscoach en ongeacht het startpunt, is klaargestoomd om een sprankelende en overtuigende TED Talk af te leveren.
 
