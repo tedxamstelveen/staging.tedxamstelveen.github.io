@@ -60,6 +60,7 @@ fields:
   label: hits
   hidden: true
 pages:
+- _posts/tedx-14-april-2019-in-de-schouwburg-amstelveen.md
 - _posts/tedxamstelveen-op-14-april-2019-in-de-schouwburg-amstelveen.md
 - _posts/samen-naar-een-hoger-niveau-over-de-rol-en-de-drijfveren-van-de-sprekerscoach.md
 - _posts/nieuwe-tedxamstelveen-website-live.md
