@@ -1,11 +1,11 @@
 ---
 title: TEDx 14 april 2019 in de Schouwburg Amstelveen
 layout: post
-date: 2018-10-03 22:00:00 +0000
-cover: 'assets/blog/tedxamstelveen-schouwburg.jpg'
+date: 2018-10-05 22:00:00 +0000
+cover: assets/blog/tedxamstelveen-schouwburg.jpg
 tags:
-  - '2019'
-  - TEDxAmstelveen
+- '2019'
+- TEDxAmstelveen
 author: nielsverhaest
 name: Niels Verhaest
 description: 'TEDx heeft met de Schouwburg Amstelveen een absolute toplocatie gevonden
