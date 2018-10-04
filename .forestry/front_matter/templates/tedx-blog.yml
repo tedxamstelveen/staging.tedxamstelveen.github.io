@@ -13,7 +13,7 @@ fields:
 - type: text
   name: cover
   label: cover
-  description: 'example: ''/assets/blog/mijn-foto.jpg'''
+  description: 'example: "assets/blog/mijn-foto.jpg"'
 - type: text
   label: title
   name: title
@@ -54,7 +54,7 @@ fields:
 - type: text
   name: assets
   label: assets
-  description: 'example: ''/assets/blog/mijn-foto.jpg'' [only small img]'
+  description: 'example: "assets/blog/mijn-foto.jpg" [only small img]'
 - type: number
   name: hits
   label: hits
@@ -62,4 +62,3 @@ fields:
 pages:
 - _posts/2018-10-04-tedx-14-april-2019-in-de-schouwburg-amstelveen.md
 - _posts/2018-10-04-sprekerscoaches-bij-tedxamstelveen-aan-het-woord.md
-- _posts/nieuwe-tedxamstelveen-website-live.md
