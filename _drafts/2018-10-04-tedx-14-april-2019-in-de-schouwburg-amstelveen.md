@@ -1,7 +1,7 @@
 ---
 title: TEDx 14 april 2019 in de Schouwburg Amstelveen
 layout: post
-date: 2018-10-05 22:00:00 +0000
+date: 2018-10-06 07:00:00 +0000
 cover: assets/blog/tedxamstelveen-schouwburg.jpg
 tags:
 - '2019'
