@@ -2,7 +2,7 @@
 title: Pitch sessies voor TEDxAmstelveen 2019
 layout: post
 date: 2018-10-17 00:00:00 +0000
-cover: ''
+cover: assets/blog/pitch1.jpg
 tags: []
 author: nielsverhaest
 name: Niels Verhaest
