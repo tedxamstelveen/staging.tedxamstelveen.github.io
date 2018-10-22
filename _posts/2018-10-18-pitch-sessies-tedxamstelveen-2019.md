@@ -16,7 +16,7 @@ assets: ''
 hits: ''
 
 ---
-Hoe kiezen wij nou de beste **TEDx sprekers** met de meest inspirerende ideeën? Aan de organisatie van TEDxAmstelveen de eervolle (maar o zo lastige) taak om de beste **TEDx sprekers** te selecteren die op 14 april 2019 ons podium gaan bestijgen.
+Hoe kiezen wij nou de beste **TEDx sprekers** met de meest inspirerende ideeën? Aan de organisatie van **TEDxAmstelveen** de eervolle (maar o zo lastige) taak om de beste **TEDx sprekers** te selecteren die op 14 april 2019 ons podium gaan bestijgen.
 
 Tot onze aangename verbazing is er veelvuldig gereageerd op onze oproep  voor TEDx sprekers. Amstelveen bruist blijkbaar van de inspirerende ideeën! Bovendien is er volop animo om deze te delen met een breder publiek. Dat is hoe dan ook goed nieuws voor de stad. Maar het betekent tegelijkertijd een flinke uitdaging voor ons als organisatie om uit al deze ideeën de beste acht te selecteren.
 
