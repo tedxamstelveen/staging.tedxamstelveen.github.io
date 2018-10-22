@@ -6,6 +6,8 @@ cover: ''
 tags:
 - '2019'
 - TEDxAmstelveen
+- 'Once_Upon_a_Time'
+- sprekerscoach
 author: amberwiznitzer
 name: Amber Wiznitzer
 description: 'TEDx Amstelveen staat of valt bij de kwaliteit van de TED Talks. In

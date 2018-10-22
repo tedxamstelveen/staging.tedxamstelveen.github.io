@@ -2,9 +2,12 @@
 title: Pitch sessies TEDxAmstelveen 2019
 layout: post
 date: 2018-10-18 00:00:00 +0000
-cover: assets/blog/pitch.JPG
+cover: assets/blog/tedx-sprekers-pitch.jpg
 tags:
 - '2019'
+- TEDxAmstelveen
+- 'Once_Upon_a_Time'
+- tedx sprekers
 author: nielsverhaest
 name: Niels Verhaest
 description: Aan de organisatie van TEDxAmstelveen de eervolle (maar o zo lastige)
