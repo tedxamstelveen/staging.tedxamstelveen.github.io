@@ -41,3 +41,4 @@ amp.html
 .jekyll-metadata
 .bundle
 docker-compose.yml
+_config_dev.yml
