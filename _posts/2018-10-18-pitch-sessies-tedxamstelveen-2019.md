@@ -6,7 +6,7 @@ cover: assets/blog/tedx-sprekers-pitch.jpg
 tags:
 - '2019'
 - TEDxAmstelveen
-- 'Once_Upon_a_Time'
+- Once_Upon_a_Time
 - tedx sprekers
 author: nielsverhaest
 name: Niels Verhaest
@@ -21,7 +21,7 @@ hits: ''
 ---
 Hoe kiezen wij nou de beste **TEDx sprekers** met de meest inspirerende ideeën? Aan de organisatie van **TEDxAmstelveen** de eervolle (maar o zo lastige) taak om de beste **TEDx sprekers** te selecteren die op 14 april 2019 ons podium gaan bestijgen.
 
-Tot onze aangename verbazing is er veelvuldig gereageerd op onze oproep  voor TEDx sprekers. Amstelveen bruist blijkbaar van de inspirerende ideeën! Bovendien is er volop animo om deze te delen met een breder publiek. Dat is hoe dan ook goed nieuws voor de stad. Maar het betekent tegelijkertijd een flinke uitdaging voor ons als organisatie om uit al deze ideeën de beste acht te selecteren.
+Tot onze aangename verbazing is er veelvuldig gereageerd op onze oproep  voor TEDx sprekers. Amstelveen bruist blijkbaar van de inspirerende ideeën! Bovendien is er volop animo om deze te delen met een breder publiek. Dat is hoe dan ook goed nieuws voor de stad. Maar het betekent tegelijkertijd een flinke uitdaging voor ons als organisatie om uit al deze ideeën de beste  te selecteren.
 
 Wel een ontzettend leuke uitdaging trouwens! Want na het doornemen van alle aanmeldingen die via onze website zijn binnengekomen, hebben wij de 22 meest aansprekende kandidaten uitgenodigd om hun idee live te komen pitchen tijdens één van de twee sessies hoog bovenin de ANNA kerk. Daar kreeg iedere deelnemer 3 minuten om een enthousiast maar kritisch publiek van TEDx vrijwilligers te overtuigen van zijn of haar idee. Hierbij hebben wij uiteraard gelet op relevantie met het thema **Once Upon A Time**, maar vooral ook of een idee vernieuwend is en of wij denken dat het ons publiek kan inspireren.
 
