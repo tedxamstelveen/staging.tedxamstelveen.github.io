@@ -5,6 +5,8 @@ date: 2018-11-01 00:00:00 +0000
 cover: ''
 tags:
 - '2019'
+- TEDxAmstelveen
+- Once_Upon_a_Time
 author: nielsverhaest
 name: Niels Verhaest
 description: TED komt vanuit het niets binnen op nummer 1 in de jaarlijks gepubliceerde
