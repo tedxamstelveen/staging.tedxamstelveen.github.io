@@ -70,10 +70,83 @@
   video: U5CY4zEAbEA
   status: active
 
-- name: Ray Bogman
-  description: Ray Bogman
-  url: /sprekers/ray-bogman/
-  pic: ray-bogman
+- name: Tijs Koedam
+  description: Tijs Koedam
+  url: "/sprekers/tijs-koedam/"
+  pic: tijs-koedam
+  social: tijs-koedam
   year: '2019'
-  video: U5CY4zEAbEA
+  video:
+  status: active
+
+- name: Sabine Pinedo
+  description: Sabine Pinedo
+  url: "/sprekers/sabine-pinedo/"
+  pic: sabine-pinedo
+  social: sabine-pinedo
+  year: '2019'
+  video:
+  status: inactive
+
+- name: Nissrine Aissati
+  description: Nissrine Aissati
+  url: "/sprekers/nissrine-aissati/"
+  pic: nissrine-aissati
+  social: nissrine-aissati
+  year: '2019'
+  video:
+  status: inactive
+
+- name: Niels van Buren
+  description: Niels van Buren
+  url: "/sprekers/niels-van-buren/"
+  pic: niels-van-buren
+  social: niels-van-buren
+  year: '2019'
+  video:
+  status: inactive
+
+- name: Marieke Lips
+  description: Marieke Lips
+  url: "/sprekers/marieke-lips/"
+  pic: marieke-lips
+  social: marieke-lips
+  year: '2019'
+  video:
+  status: inactive
+
+- name: Margo Rijerkerk
+  description: Margo Rijerkerk
+  url: "/sprekers/margo-rijerkerk/"
+  pic: margo-rijerkerk
+  social: margo-rijerkerk
+  year: '2019'
+  video:
+  status: inactive
+
+- name: Karen Walthuis
+  description: Karen Walthuis
+  url: "/sprekers/karen-walthuis/"
+  pic: karen-walthuis
+  social: karen-walthuis
+  year: '2019'
+  video:
+  status: inactive
+
+- name: Karen Hamaker Zondag
+  description: Karen Hamaker Zondag
+  url: "/sprekers/karen-hamaker-zondag/"
+  pic: karen-hamaker-zondag
+  social: karen-hamaker-zondag
+  year: '2019'
+  video:
+  status: inactive
+
+- name: Hans van Tellingen
+  description: Hans van Tellingen
+  url: "/sprekers/hans-van-tellingen/"
+  pic: hans-van-tellingen
+  social: hans-van-tellingen
+  year: '2019'
+  video:
   status: inactive
