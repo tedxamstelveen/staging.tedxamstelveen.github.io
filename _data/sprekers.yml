@@ -6,6 +6,7 @@
   year: 2018
   video: HICThvHmZZ4
   status: active
+
 - name: Kitty Nijmeijer
   description: Kitty Nijmeijer
   url: "/sprekers/kitty-mijmeijer/"
@@ -14,6 +15,7 @@
   year: 2018
   video: 6F64nC6M_XA
   status: active
+
 - name: Vincent Wever
   description: Vincent Wever
   url: "/sprekers/vincent-wever/"
@@ -22,6 +24,7 @@
   year: 2018
   video: wRGmMKEtUYg
   status: active
+
 - name: Rinie Hoeks
   description: Rinie Hoeks
   url: "/sprekers/rinie-hoeks/"
@@ -30,6 +33,7 @@
   year: 2018
   video: h__zTrjkd60
   status: active
+
 - name: Aleid Offerhaus
   description: Aleid Offerhaus
   url: "/sprekers/aleid-offerhaus/"
@@ -38,6 +42,7 @@
   year: 2018
   video: dtBw2E1lNYw
   status: active
+
 - name: Pim Giel
   description: Pim Giel
   url: "/sprekers/pim-giel/"
@@ -46,6 +51,7 @@
   year: 2018
   video: l5wluIFd5s0
   status: active
+
 - name: Jeroen de Graaf
   description: Jeroen de Graaf
   url: "/sprekers/jeroen-de-graaf/"
@@ -54,6 +60,7 @@
   year: 2018
   video: nqYVCJ8jMxA
   status: active
+
 - name: Ritika Mehra
   description: Ritika Mehra
   url: "/sprekers/ritika-mehra/"
@@ -62,6 +69,7 @@
   year: 2018
   video: _KG4tWA0R5I
   status: active
+
 - name: Jennifer van Balkom
   description: Jennifer van Balkom
   url: "/sprekers/jennifer-van-balkom/"
@@ -70,6 +78,7 @@
   year: 2018
   video: U5CY4zEAbEA
   status: active
+
 - name: Tijs Koedam
   description: Tijs Koedam
   url: "/sprekers/tijs-koedam/"
@@ -78,6 +87,7 @@
   year: 2019
   video:
   status: inactive
+
 - name: Sabine Pinedo
   description: Sabine Pinedo
   url: "/sprekers/sabine-pinedo/"
@@ -86,6 +96,7 @@
   year: 2019
   video:
   status: inactive
+
 - name: Nissrine Aissati
   description: Nissrine Aissati
   url: "/sprekers/nissrine-aissati/"
@@ -94,6 +105,7 @@
   year: 2019
   video:
   status: inactive
+
 - name: Niels van Buren
   description: Niels van Buren
   url: "/sprekers/niels-van-buren/"
@@ -102,6 +114,7 @@
   year: 2019
   video:
   status: inactive
+
 - name: Marieke Lips
   description: Marieke Lips
   url: "/sprekers/marieke-lips/"
@@ -110,6 +123,7 @@
   year: 2019
   video:
   status: inactive
+
 - name: Margo Rijerkerk
   description: Margo Rijerkerk
   url: "/sprekers/margo-rijerkerk/"
@@ -118,6 +132,7 @@
   year: 2019
   video:
   status: inactive
+
 - name: Karen Walthuis
   description: Karen Walthuis
   url: "/sprekers/karen-walthuis/"
@@ -126,6 +141,7 @@
   year: 2019
   video:
   status: inactive
+
 - name: Karen Hamaker Zondag
   description: Karen Hamaker Zondag
   url: "/sprekers/karen-hamaker-zondag/"
@@ -134,6 +150,7 @@
   year: 2019
   video:
   status: inactive
+
 - name: Hans van Tellingen
   description: Hans van Tellingen
   url: "/sprekers/hans-van-tellingen/"
