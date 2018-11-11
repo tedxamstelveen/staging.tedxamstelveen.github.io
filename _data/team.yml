@@ -52,7 +52,7 @@
   url: /team/niels-verhaest
   pic: niels-verhaest
   position: 8
-  status: active
+  status: inactive
 
 - name: Jennifer van Balkom
   description: Sprekerscoach
@@ -136,4 +136,4 @@
   url: /team/amber-wiznitzer
   pic: amber-wiznitzer
   position: 20
-  status: active
+  status: inactive
