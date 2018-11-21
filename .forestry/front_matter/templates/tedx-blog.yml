@@ -58,6 +58,7 @@ fields:
   label: hits
   hidden: true
 pages:
+- sprekers/margo-rijerkerk.md
 - sprekers/sabine-pinedo.md
 - sprekers/niels-van-buren.md
 - _posts/bekendmaking-tedx-sprekers-2019.md
