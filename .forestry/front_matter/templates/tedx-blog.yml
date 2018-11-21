@@ -58,6 +58,7 @@ fields:
   label: hits
   hidden: true
 pages:
+- sprekers/marieke-lips.md
 - sprekers/margo-rijerkerk.md
 - sprekers/sabine-pinedo.md
 - sprekers/niels-van-buren.md
