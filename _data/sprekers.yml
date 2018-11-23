@@ -142,6 +142,15 @@
   video:
   status: inactive
 
+- name: Hilde Latour
+  description: Hilde Latour
+  url: "/sprekers/hilde-latour/"
+  pic: hilde-latour
+  social: hilde-latour
+  year: '2019'
+  video:
+  status: inactive
+
 - name: Hans van Tellingen
   description: Hans van Tellingen
   url: "/sprekers/hans-van-tellingen/"
