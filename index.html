@@ -4,6 +4,7 @@ title:
 description:
 video: O5ERrI1vyKQ
 assets:
+cover: tedxamstelveen-once-upon-a-time-cover.jpg
 redirect_from:
   - /talks/
   - /nieuws/
@@ -15,8 +16,8 @@ redirect_from:
     <amp-video src="/assets/cover/{{ page.assets }}" width="404" height="720" layout="responsive" controls autoplay loop media="(max-width: 415px)"></amp-video>
     <amp-video src="/assets/cover/{{ page.assets }}" layout="fixed-height" height="720" controls autoplay loop media="(min-width: 416px)"></amp-video>
     {% else %}
-    <amp-img width="404" height="720" alt="Cover" layout="responsive" src="{{ site.url }}/{{ site.cover }}" media="(max-width: 415px)"></amp-img>
-    <amp-img height="720" alt="Cover" layout="fixed-height" src="{{ site.url }}/{{ site.cover }}" media="(min-width: 416px)"></amp-img>
+    <amp-img width="404" height="720" alt="Cover" layout="responsive" src="/assets/cover/{{ page.cover }}" media="(max-width: 415px)"></amp-img>
+    <amp-img height="720" alt="Cover" layout="fixed-height" src="/assets/cover/{{ page.cover }}" media="(min-width: 416px)"></amp-img>
     {% endif %}
     <figcaption class="absolute top-0 right-0 bottom-0 left-0">
       <header class="p0">
