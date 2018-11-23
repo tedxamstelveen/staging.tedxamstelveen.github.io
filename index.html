@@ -3,7 +3,7 @@ layout: default
 title:
 description:
 video: O5ERrI1vyKQ
-assets: ''
+assets:
 redirect_from:
   - /talks/
   - /nieuws/
@@ -11,7 +11,7 @@ redirect_from:
   - /logo/
 ---
   <figure class="ampstart-image-fullpage-hero m0 relative mb4">
-    {% if page.video == null %}
+    {% if page.video == blank %}
     <amp-video src="/assets/cover/{{ page.assets }}" width="404" height="720" layout="responsive" controls autoplay loop media="(max-width: 415px)"></amp-video>
     <amp-video src="/assets/cover/{{ page.assets }}" layout="fixed-height" height="720" controls autoplay loop media="(min-width: 416px)"></amp-video>
     {% else %}
