@@ -35,6 +35,6 @@ Komend jaar zullen bij ons op de rode stip staan:
 * Sabine Pinedo - Praktiserend internist en ondernemer
 * Tijs Koedam - Wellbeing expert
 
-Onder elke spreker staat een linkje met de mogelijkheid je in te schrijven voor de voorverkoop. We zullen je in aanloop naar 14 april als eerste laten weten wanneer de TEDTickets verkrijgbaar zijn.
+Bij elke spreker staat een linkje met de mogelijkheid je in te schrijven voor de voorverkoop begin 2019. We zullen je in aanloop naar 14 april als eerste laten weten wanneer onder andere de TED tickets verkrijgbaar zijn.
 
 Interesse om je hier als bedrijf aan te verbinden komend jaar? [hallo@tedxamstelveen.com](mailto:hallo@tedxamstelveen.com)
