@@ -1,21 +1,27 @@
 ---
 layout: post
-cover: "assets/blog/sprekers-gezocht-voor-tedxamstelveen-2019.jpg"
+cover: assets/blog/sprekers-gezocht-voor-tedxamstelveen-2019.jpg
 title: Sprekers gezocht voor TEDxAmstelveen 2019
 date: 2018-07-08 00:00:00 +0000
 tags:
 - '2018'
 - TEDxAmstelveen
 - sprekers
-- 'Once_Upon_a_Time'
+- Once_Upon_a_Time
 author: nielsverhaest
 name: Niels Verhaest
-description: Na het succes van de uitverkochte eerste editie in maart 2018 staat Amstelveen definitief op de TEDx kaart. De organisatie voor het vervolg in 2019 is al in volle gang en wij zijn ervan overtuigd dat we de volgende editie naar een nóg hoger niveau kunnen tillen. TEDxAmstelveen 2019 wordt niet alleen groter, maar vooral ook grootser. En daar kun jij als spreker aan bijdragen!
+description: Na het succes van de uitverkochte eerste editie in maart 2018 staat Amstelveen
+  definitief op de TEDx kaart. De organisatie voor het vervolg in 2019 is al in volle
+  gang en wij zijn ervan overtuigd dat we de volgende editie naar een nóg hoger niveau
+  kunnen tillen. TEDxAmstelveen 2019 wordt niet alleen groter, maar vooral ook grootser.
+  En daar kun jij als spreker aan bijdragen!
 height: 150
 width: 150
-assets:  
+assets: 
 hits: 1
+
 ---
+(inschrijvingen zijn gesloten)
 
 Na het succes van de uitverkochte eerste editie in maart 2018 staat Amstelveen definitief op de TEDx kaart. De organisatie voor het vervolg in 2019 is al in volle gang en wij zijn ervan overtuigd dat we de volgende editie naar een nóg hoger niveau kunnen tillen. TEDxAmstelveen 2019 wordt niet alleen groter, maar vooral ook grootser. En daar kun jij als spreker aan bijdragen!
 Het succes van elk TEDx event valt of staat namelijk met inspirerende TED talks. Die zullen we dan ook zeer streng en zorgvuldig selecteren. Hierbij letten we onder meer op originaliteit en relevantie met de regio en het thema.
@@ -35,7 +41,6 @@ Dat je een inspirerend idee hebt, om te beginnen. En dat je ons én het publiek 
 ### Wat kun je van ons verwachten?
 
 Wij gaan er een waanzinnig mooi evenement van maken, waarop alles tot in de puntjes klopt. Jouw succes is ook ons succes, en andersom. Dus wij zullen je bij de voorbereiding van je TED talk intensief begeleiden. Dit doen we onder meer tijdens een aantal avonden en middagen waarop onze ervaren sprekerscoaches je bijstaan met tips en tricks.
-
 
 ### Wat gebeurt er na je aanmelding?
 
