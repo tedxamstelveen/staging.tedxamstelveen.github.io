@@ -2,10 +2,13 @@
 title: Once Upon a Time - Thema 2019
 layout: post
 date: 2018-11-25 13:18:40 +0000
-cover: ''
+cover: https://tedxamstelveen.com
 tags:
-- thema
 - TEDxAmstelveen
+- Thema
+- '2019'
+- TEDx
+- TEDTalks
 author: ollievrijmoed
 name: Ollie Vrijmoed
 description: Thema TEDx 2019
