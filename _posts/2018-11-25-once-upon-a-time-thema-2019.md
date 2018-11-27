@@ -5,11 +5,8 @@ date: 2018-11-25 13:18:40 +0000
 cover: assets/blog/tedxamstelveen-once-upon-a-time-cover.jpg
 tags:
 - TEDxAmstelveen
-- Thema
 - '2019'
-- TEDx
-- TEDTalks
-- Once Upon a Time
+- Once_Upon_a_Time
 author: ollievrijmoed
 name: Ollie Vrijmoed
 description: Thema TEDx 2019
