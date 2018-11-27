@@ -13,8 +13,8 @@ tags:
 author: ollievrijmoed
 name: Ollie Vrijmoed
 description: Thema TEDx 2019
-width: ''
-height: ''
+width: 150
+height: 150
 assets: assets/blog/once-upon-a-time.png
 hits: ''
 
