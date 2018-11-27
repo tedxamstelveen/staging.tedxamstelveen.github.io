@@ -14,8 +14,8 @@ email: hallo@tedxamstelveen.com
 fb_app_id: 144786006139437
 paginate:	5 # The number of posts to show per page on your homepage
 
-# Voorinschrijving
-form: https://goo.gl/kC3HNp
+# Voorinschrijving - https://goo.gl/kC3HNp
+form:
 formlogo: assets/blog/TEDx_Voorinschrijving.svg
 
 # Social
