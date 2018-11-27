@@ -14,6 +14,10 @@ email: hallo@tedxamstelveen.com
 fb_app_id: 144786006139437
 paginate:	5 # The number of posts to show per page on your homepage
 
+# Aanmelden
+form: https://goo.gl/kC3HNp
+formlogo: assets/logos/TEDx_Amstelveen-logo.svg
+
 # Social
 facebook: tedxamstelveen
 instagram: tedxamstelveen
