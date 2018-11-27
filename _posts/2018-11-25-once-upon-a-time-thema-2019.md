@@ -15,7 +15,7 @@ name: Ollie Vrijmoed
 description: Thema TEDx 2019
 width: ''
 height: ''
-assets: ''
+assets: '"assets/blog/tedxamstelveen-once-upon-a-time-cover.jpg"'
 hits: ''
 
 ---
