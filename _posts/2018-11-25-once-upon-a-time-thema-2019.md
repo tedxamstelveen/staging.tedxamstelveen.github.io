@@ -19,8 +19,6 @@ assets: '"assets/blog/once-upon-a-time.png"'
 hits: ''
 
 ---
-Once Upon a Time
-
 Het thema van TEDxAmstelveen op 14 april 2019 is 'Once Upon a Time'. Voor ons gaat dit over een toekomst waarin niets onmogelijk is, idealen voor een betere wereld en nieuwe technologie die we ons nu nog niet kunnen voorstellen.   
 Onze sprekers gaan het hebben over dromen die werkelijkheid worden, of al zijn geworden.   
 Ze geven ons waardevolle lessen mee uit het verleden, de uitdagingen van nu en oplossingen voor de toekomst.   
