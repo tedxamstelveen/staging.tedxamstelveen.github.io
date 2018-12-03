@@ -3,7 +3,7 @@ layout: default
 ---
   {% if page.cover %}
   <figure class="ampstart-image-fullpage-hero m0 relative mb4">
-    {% if page.video !== blank %}
+    {% if page.video != blank %}
     <amp-video src="{{ page.video }}" width="404" height="720" layout="responsive" controls autoplay loop media="(max-width: 415px)"></amp-video>
     <amp-video src="{{ page.video }}" layout="fixed-height" height="720" controls autoplay loop media="(min-width: 416px)"></amp-video>
     {% else %}
