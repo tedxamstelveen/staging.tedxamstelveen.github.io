@@ -2,7 +2,7 @@
 title: Bekendmaking TEDx sprekers 2019
 layout: post
 date: 2018-11-21 19:47:22 +0000
-cover: ''
+cover: assets/sprekers/social/tedxamstelveen-sprekers-2019.mp4
 tags:
 - TEDxAmstelveen
 - Sprekers
@@ -31,7 +31,7 @@ Komend jaar zullen bij ons op de rode stip staan:
 * Niels van Buren - Sociaal ondernemer
 * Nissrine Aissati - Trainer
 * Marieke Lips - Kindbehartiger
-* Margo Rijerkerk - Samenbrenger en rasoptimist 
+* Margo Rijerkerk - Samenbrenger en rasoptimist
 * Sabine Pinedo - Praktiserend internist en ondernemer
 * Tijs Koedam - Wellbeing expert
 
