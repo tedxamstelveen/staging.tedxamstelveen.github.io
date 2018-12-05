@@ -26,7 +26,7 @@ Samen brengen ze een prachtig en gevarieerd perspectief over het leven, de toeko
 Komend jaar zullen bij ons op de rode stip staan:
 
 * Hilde Latour - Initiator
-* Hans van Tellingen - Winkelcentrum onderzoeker
+* Hans van Tellingen - Directeur winkelcentrum onderzoek
 * Karen Hamaker-Zondag - Symbolisch therapeut
 * Karen Walthuis - Filosofisch psycholoog
 * Niels van Buren - Sociaal ondernemer
