@@ -27,9 +27,9 @@ Komend jaar zullen bij ons op de rode stip staan:
 
 * Hilde Latour - [Initiator](https://tedxamstelveen.com/sprekers/hilde-latour/ "Hilde")
 * Hans van Tellingen - [Directeur winkelcentrum onderzoek](https://tedxamstelveen.com/sprekers/hans-van-tellingen/ "Hans")
-* Karen Hamaker-Zondag - Symbolisch therapeut
+* Karen Hamaker-Zondag - [Symbolisch therapeut](https://tedxamstelveen.com/sprekers/karen-hamaker-zondag/ "Karen")
 * Karen Walthuis - [Filosofisch psycholoog](https://tedxamstelveen.com/sprekers/karen-walthuis/ "Karen")
-* Niels van Buren - Sociaal ondernemer
+* Niels van Buren - [Sociaal ondernemer](https://tedxamstelveen.com/sprekers/niels-van-buren/ "Niels")
 * Nissrine Aissati -[ Trainer](https://tedxamstelveen.com/sprekers/nissrine-aissati/ "Nissrine")
 * Marieke Lips - [Kindbehartiger](https://tedxamstelveen.com/sprekers/marieke-lips/ "Marieke")
 * Margo Rijerkerk - [Samenbrenger en rasoptimist](https://tedxamstelveen.com/sprekers/margo-rijerkerk/ "Margo")
