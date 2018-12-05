@@ -25,16 +25,16 @@ Samen brengen ze een prachtig en gevarieerd perspectief over het leven, de toeko
 
 Komend jaar zullen bij ons op de rode stip staan:
 
-* Hilde Latour - Initiator
-* Hans van Tellingen - Directeur winkelcentrum onderzoek
+* Hilde Latour - [Initiator](https://tedxamstelveen.com/sprekers/hilde-latour/ "Hilde")
+* Hans van Tellingen - [Directeur winkelcentrum onderzoek](https://tedxamstelveen.com/sprekers/hans-van-tellingen/ "Hans")
 * Karen Hamaker-Zondag - Symbolisch therapeut
 * Karen Walthuis - Filosofisch psycholoog
 * Niels van Buren - Sociaal ondernemer
 * Nissrine Aissati - Trainer
 * Marieke Lips - Kindbehartiger
-* Margo Rijerkerk - Samenbrenger en rasoptimist
-* Sabine Pinedo - Praktiserend internist en ondernemer
-* Tijs Koedam - Wellbeing expert
+* Margo Rijerkerk - [Samenbrenger en rasoptimist](https://tedxamstelveen.com/sprekers/margo-rijerkerk/ "Margo")
+* Sabine Pinedo - [Praktiserend internist en ondernemer](https://tedxamstelveen.com/sprekers/sabine-pinedo/ "Sabine")
+* Tijs Koedam - [Wellbeing expert](https://tedxamstelveen.com/sprekers/tijs-koedam/ "Tijs")
 
 Bij elke spreker staat een linkje met de mogelijkheid je in te schrijven voor de voorverkoop begin 2019. We zullen je in aanloop naar 14 april als eerste laten weten wanneer onder andere de TED tickets verkrijgbaar zijn.
 
