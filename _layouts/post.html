@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-  {% if page.cover %}
+  {% if page.cover or page.video %}
   <figure class="ampstart-image-fullpage-hero m0 relative mb4">
     {% if page.video != blank %}
     <amp-video src="{{ site.url }}/{{ page.video }}" width="404" height="720" layout="responsive" controls autoplay loop media="(max-width: 415px)"></amp-video>
