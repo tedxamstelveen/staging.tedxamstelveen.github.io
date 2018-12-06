@@ -77,7 +77,7 @@
   social: tijs-koedam
   year: '2019'
   video:
-  status: inactive
+  status: active
 
 - name: Sabine Pinedo
   description: Sabine Pinedo
@@ -86,7 +86,7 @@
   social: sabine-pinedo
   year: '2019'
   video:
-  status: inactive
+  status: active
 
 - name: Nissrine Aissati
   description: Nissrine Aissati
@@ -95,7 +95,7 @@
   social: nissrine-aissati
   year: '2019'
   video:
-  status: inactive
+  status: active
 
 - name: Niels van Buren
   description: Niels van Buren
@@ -104,7 +104,7 @@
   social: niels-van-buren
   year: '2019'
   video:
-  status: inactive
+  status: active
 
 - name: Marieke Lips
   description: Marieke Lips
@@ -113,7 +113,7 @@
   social: marieke-lips
   year: '2019'
   video:
-  status: inactive
+  status: active
 
 - name: Margo Rijerkerk
   description: Margo Rijerkerk
@@ -122,7 +122,7 @@
   social: margo-rijerkerk
   year: '2019'
   video:
-  status: inactive
+  status: active
 
 - name: Karen Walthuis
   description: Karen Walthuis
@@ -131,7 +131,7 @@
   social: karen-walthuis
   year: '2019'
   video:
-  status: inactive
+  status: active
 
 - name: Karen Hamaker Zondag
   description: Karen Hamaker Zondag
@@ -140,7 +140,7 @@
   social: karen-hamaker-zondag
   year: '2019'
   video:
-  status: inactive
+  status: active
 
 - name: Hilde Latour
   description: Hilde Latour
@@ -149,7 +149,7 @@
   social: hilde-latour
   year: '2019'
   video:
-  status: inactive
+  status: active
 
 - name: Hans van Tellingen
   description: Hans van Tellingen
@@ -158,4 +158,4 @@
   social: hans-van-tellingen
   year: '2019'
   video:
-  status: inactive
+  status: active
