@@ -8,13 +8,6 @@ layout: default
     <amp-video src="{{ site.url }}/{{ page.cover }}" layout="fixed-height" height="720" controls autoplay loop media="(min-width: 416px)"></amp-video>
 
     <figcaption class="absolute top-0 right-0 bottom-0 left-0">
-      <header class="p0">
-        <h1 class="ampstart-fullpage-hero-heading mb0 herocover">
-          <span class="ampstart-fullpage-hero-heading-text title">
-            {{ page.title }}
-          </span>
-        </h1>
-      </header>
       <footer class="absolute left-0 right-0 bottom-0">
         <a class="ampstart-readmore py3 caps line-height-2 text-decoration-none center block h5" href="#content"><span class="ampstart-readmore-text px1">Lees verder</span></a>
       </footer>
@@ -24,6 +17,7 @@ layout: default
   <main id="content" role="main" class="content">
     <article class="post">
       <div class="post-meta">
+        <h1 class="post-title">{{ page.title }}</h1>
         <time class="post" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
 
         {% if page.tags.size > 0 %}
