@@ -17,12 +17,12 @@ assets: ''
 hits: ''
 
 ---
-De sprekers voor TEDxAmstelveen 2019 zijn bekend. Het programma op 14 april zal bestaan uit tien zeer unieke TEDxTalks.   
-Samen brengen ze een prachtig en gevarieerd perspectief over het leven, de toekomst en het vermogen om te kunnen veranderen. Dit sluit naadloos aan op ons nieuwe thema ‘Once Upon a Time’, over dromen die werkelijkheid worden en tijden die veranderen. Waardevolle lessen uit het verleden, uitdagingen van nu en een toekomst waarin niets onmogelijk is.
+De sprekers voor **TEDxAmstelveen** 2019 zijn bekend. Het programma op 14 april zal bestaan uit tien zeer unieke TEDxTalks.   
+Samen brengen ze een prachtig en gevarieerd perspectief over het leven, de toekomst en het vermogen om te kunnen veranderen. Dit sluit naadloos aan op ons nieuwe thema **‘Once Upon a Time’**, over dromen die werkelijkheid worden en tijden die veranderen. Waardevolle lessen uit het verleden, uitdagingen van nu en een toekomst waarin niets onmogelijk is.
 
 TEDxAmstelveen is zoveel mogelijk een podium voor sprekers uit de regio en daarom zijn vijf van de sprekers uit Amstelveen. De line-up bevat onderzoekers, medici, ondernemers, ontdekkingsreizigers en wereldverbeteraars. Allen met de verscheidenheid van verhalen die, in lijn met [TED.com](http://ted.com/), ’Ideas Worth Spreading’ zullen zijn.
 
-Maak kennis met onze sprekers en hun idee; 
+Maak kennis met onze sprekers en hun idee;
 
 * Hilde Latour - [Initiator](https://tedxamstelveen.com/sprekers/hilde-latour/ "Hilde Latour")
 
