@@ -856,8 +856,11 @@ hr:after{
       line-height: normal
 }
 
-.mx-right {
-      position: absolute;
-      right: 100px;
-      border: 2px solid red
+.formlogo {
+  position: absolute;
+  right: 40px;
+  width: 275px;
+  border: 2px solid #e62b1e;
+  padding: 5px;
+  margin-top: 60px;
 }
