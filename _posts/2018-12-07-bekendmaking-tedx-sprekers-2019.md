@@ -55,4 +55,4 @@ Maak kennis met onze sprekers en hun idee;
 
   Druk, druk, druk is het huidige statussymbool, maar hoe gaan we dit volhouden als we straks 130 jaar oud worden? Tijs vertelt hoe het anders kan.
 
-Op de website is er vanaf vandaag de mogelijkheid je in te schrijven als je graag aanwezig wilt zijn op 14 april in de Schouwburg Amstelveen. Op basis van deze voorinschrijving krijg je straks de gelegenheid om begin 2019 een kaart te kopen.
+Op de website is er vanaf vandaag de mogelijkheid je in te schrijven als je graag aanwezig wilt zijn op 14 april in de Schouwburg Amstelveen. Op basis van deze **voorinschrijving** krijg je straks de gelegenheid om begin 2019 een kaart te kopen.
