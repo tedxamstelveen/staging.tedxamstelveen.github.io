@@ -3,7 +3,7 @@ title: Bekendmaking TEDxAmstelveen sprekers 2019
 layout: post-video
 date: 2018-12-07 19:47:22 +0000
 cover: ''
-video: assets/sprekers/social/tedxamstelveen-sprekers-2019.mp4
+video: assets/sprekers/social/tedxamstelveen-sprekers-2019-1.mp4
 tags:
 - TEDxAmstelveen
 - Sprekers
