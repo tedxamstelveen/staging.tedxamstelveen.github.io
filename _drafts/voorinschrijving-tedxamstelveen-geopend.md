@@ -25,7 +25,7 @@ Hierbij alle informatie nog even op een rijtje;
 
 * Zondag 14 april, van 13:00 tot 18:00 uur in Schouwburg Amstelveen
 * Het thema voor 2019; Once Upon a Time. Het zal gaan over een toekomst waarin niets onmogelijk is. Sprekers zullen je meenemen in dromen die werkelijkheid kunnen worden en waardevolle lessen uit het verleden.
-* 9 of 10 TEDx sprekers op het podium. Waarvan de helft direct uit de regio Amstelveen, bestaande uit ontdekkingsreizigers, ondernemers, medici en onderzoekers. Bekijk onze sprekerspagina voor alle informatie.
+* 9 of 10 [TEDx sprekers](https://tedxamstelveen.com/sprekers/ "TEDx sprekers") op het podium. Waarvan de helft direct uit de regio Amstelveen, bestaande uit ontdekkingsreizigers, ondernemers, medici en onderzoekers. Bekijk onze sprekerspagina voor alle informatie.
 
 We hopen je te kunnen verwelkomen op 14 april 2019!
 
