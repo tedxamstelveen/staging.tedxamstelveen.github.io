@@ -17,7 +17,7 @@ assets: ''
 hits: ''
 
 ---
-De sprekers voor **TEDxAmstelveen** 2019 zijn bekend. Het programma op 14 april zal bestaan uit tien zeer unieke TEDxTalks.   
+De sprekers voor **TEDxAmstelveen** 2019 zijn bekend. Het programma op 14 april zal bestaan uit negen zeer unieke TEDxTalks.   
 Samen brengen ze een prachtig en gevarieerd perspectief over het leven, de toekomst en het vermogen om te kunnen veranderen. Dit sluit naadloos aan op ons nieuwe thema **‘Once Upon a Time’**, over dromen die werkelijkheid worden en tijden die veranderen. Waardevolle lessen uit het verleden, uitdagingen van nu en een toekomst waarin niets onmogelijk is.
 
 TEDxAmstelveen is zoveel mogelijk een podium voor sprekers uit de regio en daarom zijn vijf van de sprekers uit Amstelveen. De line-up bevat onderzoekers, medici, ondernemers, ontdekkingsreizigers en wereldverbeteraars. Allen met de verscheidenheid van verhalen die, in lijn met [TED.com](http://ted.com/), ’Ideas Worth Spreading’ zullen zijn.
@@ -27,9 +27,6 @@ Maak kennis met onze sprekers en hun idee;
 * Hilde Latour - [Initiator](https://tedxamstelveen.com/sprekers/hilde-latour/ "Hilde Latour")
 
   Hilde onthult hoe blockchain een stabiele basis voor ons inkomen van morgen garandeert. Maak van de armoedegrens een stevig fundament.
-* Hans van Tellingen - [Directeur winkelcentrum onderzoek](https://tedxamstelveen.com/sprekers/hans-van-tellingen/ "Hans van Tellingen")
-
-  Worden winkels in de toekomst vervangen door webwinkels? Onderzoek wijst uit dat de toekomst voor fysieke winkels juist bijzonder rooskleurig is.
 * Karen Hamaker-Zondag - [Symbolisch therapeut](https://tedxamstelveen.com/sprekers/karen-hamaker-zondag/ "Karen Hamaker-Zondag")
 
   Mannelijk of vrouwelijk leiderschap? Liever geen van beide... Maar wat dan wel? Karen vertelt het ons.
