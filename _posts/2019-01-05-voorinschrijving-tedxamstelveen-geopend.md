@@ -14,7 +14,7 @@ name: Mette Reitsma
 description: Opening voorinschrijving januari 2019
 width: ''
 height: ''
-assets: ''
+assets: '"assets/blog/TEDxAmstelveen-voorinschrijving-2019.jpg"'
 hits: ''
 
 ---
