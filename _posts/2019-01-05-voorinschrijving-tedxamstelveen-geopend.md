@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: ''
+cover: assets/blog/tedxamstelveen-once-upon-a-time-cover.jpg
 title: Voorinschrijving TEDxAmstelveen geopend
 date: 2019-01-05 23:00:00 +0000
 tags:
@@ -9,12 +9,14 @@ tags:
 - Sprekers
 - TED
 - Voorinschrijving
+- Once_Upon_a_Time
+- '2019'
 author: mettereitsma
 name: Mette Reitsma
-description: Opening voorinschrijving januari 2019
+description: Opening voorinschrijving TEDxAmstelveen - Once Upon a Time - 2019
 width: ''
 height: ''
-assets: '"assets/blog/TEDxAmstelveen-voorinschrijving-2019.jpg"'
+assets: assets/blog/TEDxAmstelveen-voorinschrijving-2019.jpg
 hits: ''
 
 ---
