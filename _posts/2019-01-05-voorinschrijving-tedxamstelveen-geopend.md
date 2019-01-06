@@ -14,7 +14,7 @@ tags:
 author: mettereitsma
 name: Mette Reitsma
 description: Opening voorinschrijving TEDxAmstelveen - Once Upon a Time - 2019
-width: ''
+width: '700'
 height: ''
 assets: assets/blog/TEDxAmstelveen-voorinschrijving-2019.jpg
 hits: ''
