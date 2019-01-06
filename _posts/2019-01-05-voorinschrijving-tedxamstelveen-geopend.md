@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/blog/tedxamstelveen-once-upon-a-time-cover.jpg
+cover: assets/blog/TEDxAmstelveen-voorinschrijving-2019-1.jpg
 title: Voorinschrijving TEDxAmstelveen geopend
 date: 2019-01-05 23:00:00 +0000
 tags:
