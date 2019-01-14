@@ -16,8 +16,10 @@ Ons succes hebben wij voor een groot deel te danken aan onze partners, die wij v
 <p>Benieuwd wat er mogelijk is? Neem voor meer informatie contact op met <a title="Yigael van der Hoeven" href="http://tedxamstelveen.com/team/yigael-van-der-hoeven/">Yigael van der Hoeven</a> op telefoonnummer <a href="tel:06-15649815">06-15649815</a> of via e-mail <a href="mailto:hallo@tedxamstelveen.com?subject=Contact%20TEDxAmstelveen" title="TEDxAmstelveen Contact">hallo@tedxamstelveen.com</a></p>
 
 <div class="card-container">
-  {% for member in site.data.sponsors %}
+  {% for member in site.data.partners %}
     {% if member.status == 'active' %}
+
+      {% if member.level == 'gold' %}
       <div class="card">
         <div class="card__image">
           <a title="{{ member.name }}" href="{{ member.url }}">
@@ -25,6 +27,28 @@ Ons succes hebben wij voor een groot deel te danken aan onze partners, die wij v
           </a>
         </div>
       </div>
+      {% endif %}
+
+      {% if member.level == 'silver' %}
+      <div class="card">
+        <div class="card__image">
+          <a title="{{ member.name }}" href="{{ member.url }}">
+            <amp-img src="{{ site.url }}/assets/sponsors/{{ member.pic }}.jpg" width="250" height="100" layout="responsive" alt="{{ member.name }}" class="mb3"></amp-img>
+          </a>
+        </div>
+      </div>
+      {% endif %}
+
+      {% if member.level == 'bronze' %}
+      <div class="card">
+        <div class="card__image">
+          <a title="{{ member.name }}" href="{{ member.url }}">
+            <amp-img src="{{ site.url }}/assets/sponsors/{{ member.pic }}.jpg" width="200" height="100" layout="responsive" alt="{{ member.name }}" class="mb3"></amp-img>
+          </a>
+        </div>
+      </div>
+      {% endif %}
+
     {% endif %}
   {% endfor %}
 </div>

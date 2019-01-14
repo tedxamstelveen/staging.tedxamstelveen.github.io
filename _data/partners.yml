@@ -1,0 +1,104 @@
+- name: Rabobank
+  level: gold
+  pic: rabobank
+  url: https://www.rabobank.nl/lokale-bank/amstel-en-vecht/
+  position: 1
+  status: active
+
+- name: Han Schooneman
+  level: gold
+  pic: han-schooneman
+  url: https://www.schoonemandesign.nl/
+  position: 4
+  status: active
+
+- name: Loogman
+  level: gold
+  pic: loogman
+  url: http://www.loogman.nl/
+  position: 6
+  status: active
+
+- name: Studio Stipt
+  level: silver
+  pic: studiostipt
+  url: http://www.studiostipt.nl/
+  position: 2
+  status: active
+
+- name: ANNA Amstelveen
+  level: silver
+  pic: anna-amstelveen
+  url: https://www.anna-amstelveen.nl/
+  position: 5
+  status: active
+
+- name: No Worries Film Productions
+  level: silver
+  pic: noworries
+  url: https://www.linkedin.com/in/stephan-prive-danser-704987a/
+  position: 9
+  status: active
+
+- name: Fun Factory
+  level: silver
+  pic: fun-factory
+  url:
+  position: 9
+  status: active
+
+- name: Asko Schoonmaak
+  level: silver
+  pic: asko-schoonmaak
+  url: https://asko-schoonmaak.nl/
+  position: 9
+  status: active
+
+- name: WinWinwerkt
+  level: silver
+  pic: winwinwerkt
+  url: https://www.winwinwerkt.nl/
+  position: 9
+  status: active
+
+- name: Meiancoaching
+  level: silver
+  pic: meiancoaching
+  url: http://www.meian.nl/
+  position: 9
+  status: active
+
+- name: Rotary Amstelveen
+  level: silver
+  pic: rotary-amstelveen
+  url: https://www.rotary.nl/amstelveen/
+  position: 9
+  status: active
+
+- name: Cinemjuze
+  level: silver
+  pic: cinemjuze
+  url: http://cinemjuze.nl/
+  position: 10
+  status: active
+
+- name: Jumpstart
+  level: gold
+  pic: jumpstart
+  url: http://www.jumpstart.nl/
+  position: 7
+  status: inactive
+
+- name: Gemeente Amstelveen
+  level: silver
+  pic: gemeente-amstelveen
+  url: https://www.amstelveen.nl/
+  position: 8
+  status: inactive
+
+- name: Van Schouten
+  level: silver
+  pic: michel-van-schouten
+  url: http://www.van-schouten.nl/
+  position: 3
+  status: inactive
