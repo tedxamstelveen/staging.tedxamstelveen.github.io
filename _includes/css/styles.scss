@@ -750,7 +750,6 @@ hr:after{
     -ms-flex: 0 0 calc(30% - 0px);
     flex: 0 0 calc(30% - 0px);
     -ms-flex-preferred-size: calc(30% - 0px);
-    flex-basis: calc(30% - 0px);
     height: 90%;
     margin: 10px 5px;
     padding: 10px;
@@ -761,11 +760,15 @@ hr:after{
     transition: transform 0.3s, box-shadow 0.3s, -webkit-transform 0.3s
 }
 
-.card .four {
+.gold {
+    flex-basis: calc(30% - 0px);
+}
+
+.silver {
     flex-basis: calc(23% - 0px)
 }
 
-.card .five {
+.bronze {
     flex-basis: calc(18% - 0px)
 }
 
