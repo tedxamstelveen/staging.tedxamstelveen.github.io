@@ -761,6 +761,14 @@ hr:after{
     transition: transform 0.3s, box-shadow 0.3s, -webkit-transform 0.3s
 }
 
+.card 23 {
+    flex-basis: calc(23% - 0px);
+}
+
+.card 18 {
+    flex-basis: calc(18% - 0px);
+}
+
 .card::before {
     background: -webkit-linear-gradient(left, #f50404, #f50404);
     background: linear-gradient(to right, #f50404, #f50404);
