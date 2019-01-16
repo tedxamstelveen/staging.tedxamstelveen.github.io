@@ -40,10 +40,10 @@
   position: 9
   status: active
 
-- name: Fun Factory
+- name: Super Fan Factory
   level: silver
-  pic: fun-factory
-  url:
+  pic: super-fan-factory
+  url: https://superfanfactory.nl/
   position: 9
   status: active
 
