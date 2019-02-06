@@ -1,9 +1,11 @@
 ---
 - title: Home
-  url: 
+  url:
 - title: Partners
   url: "/partners/"
 - title: Sprekers
   url: "/sprekers/"
 - title: Team
   url: "/team/"
+- title: Event
+  url: "/event/"  
