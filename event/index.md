@@ -13,7 +13,7 @@ Heb je je al inschreven? Dan ben jij waarschijnlijk een van de gelukkigen die al
 
 Wees er snel bij, er zijn slechts 200 kaarten beschikbaar!
 
-De tweede editie kent weer een sprankelend en actief programma, waarbij we de bezoekers met het thema ['Once Upon A Time'](https://tedxamstelveen.com/once-upon-a-time-thema-2019/ "Once Apon A Time") kennis laten maken. Voor een actueel overzicht van onze sprekers kun je kijken op [onze website](https://tedxamstelveen.com/sprekers/).
+De tweede editie kent weer een sprankelend en actief programma, waarbij we de bezoekers met het thema ['Once Upon A Time'](https://tedxamstelveen.com/once-upon-a-time-thema-2019/ "Once Apon A Time") kennis laten maken. Voor een actueel overzicht van onze sprekers kun je [hier](https://tedxamstelveen.com/sprekers/ "Sprekers") kijken.
 
 Bezoekers worden niet alleen geïnspireerd met woorden, maar er zal er ook veel muziek, zang en dans op het programma staan. We hebben een aantal prachtige artiesten gevonden. Meer hierover in de komende weken
 
