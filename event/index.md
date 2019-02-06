@@ -30,3 +30,5 @@ Nog even wat praktische informatie op een rij:
   Een middag <span class="redx">"ideas worth spreading!"</span>
 
   NB: Per ontvangen bevestiging op je email-adres kun je maximaal 1 kaart bestellen
+
+  ![](/assets/TEDxAmstelveen schouwburg.jpg)
