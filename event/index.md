@@ -23,7 +23,7 @@ Nog even wat praktische informatie op een rij:
 * Starttijd: 13:00 tot 18:00 uur
 * Lokatie: Schouwburg Amstelveen, Stadsplein 100
 * Kosten: Ticket €37,- excl. administratiekosten
-  * Korting: Ben je tussen de 15-25 jaar? Dan betaal je maar €15,- excl.
+  * Korting: Ben je tussen de 15-25 jaar? Dan betaal je maar €15,- excl. op vertoon van je studentenkaart
 * TEDTalks: Nederlands en Engels (Only a small part of the TEDxTalks will be in English)
 * Informatie: hallo@tedxamstelveen.com
 
