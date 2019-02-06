@@ -21,7 +21,7 @@ nav: event
 
 <p>Nog even wat praktische informatie op een rij:<p>
 
-* Datum: zondag 14 april 2019
+* Datum: <span class="redx">Zondag 14 april</span>
 * Starttijd: 13:00 tot 18:00 uur
 * Lokatie: Schouwburg Amstelveen, Stadsplein 100
 * Kosten: Ticket €37,- excl. administratiekosten
