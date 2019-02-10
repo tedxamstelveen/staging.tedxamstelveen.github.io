@@ -7,7 +7,7 @@
       <amp-img src="{{site.url}}/{{site.logo}}" width="250" height="75" layout="fixed" class="my0 mx-auto" alt="{{ site.title }}"></amp-img>
     </a>
     {% endif %}
-    {% if site.form %}
+    {% if site.form and post.nav == home %}
     <div class="formlogo">
       <a href="{{site.form}}" title="{{site.title}} - Voorinschrijving">
         <amp-img src="{{site.url}}/{{site.formlogo}}" width="250" height="25" layout="fixed" class="my0 mx-right" alt="{{ site.title }} - Voorinschrijving"></amp-img>
