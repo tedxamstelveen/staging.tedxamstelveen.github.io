@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: ''
+cover: assets/blog/TEDxAmstelveen aankondiging2.jpg
 title: Voorinschrijving TEDxAmstelveen gesloten
 date: 2019-02-12 23:00:00 +0000
 tags:
