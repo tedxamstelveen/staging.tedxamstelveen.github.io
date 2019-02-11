@@ -11,7 +11,9 @@ tags:
 - Kaartverkoop
 author: ollievrijmoed
 name: Ollie Vrijmoed
-description: Voorinschrijving TEDxAmstelveen gesloten
+description: 'De voorinschrijving voor TEDxAmstelveen is gesloten. Vanaf deze week
+  gaan alle voorinschrijvingen een bericht ontvangen waar ze kaarten kunnen bestellen.
+  Te laat? Laat je gegevens achter op de ''wachtlijst''. '
 width: ''
 height: ''
 assets: ''
