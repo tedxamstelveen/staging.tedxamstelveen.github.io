@@ -19,6 +19,6 @@ hits: ''
 
 ---
 Een mooi en inspirerende tweede <span class="redx">TEDxAmstelveen</span> editie is wat we eerder aan jullie hebben beloofd. We zijn nu een paar maanden verder, vele coaching sessies met [onze sprekers](https://tedxamstelveen.com/sprekers/ "Sprekers"), een mooie lokatie in [Hartje Amstelveen](https://tedxamstelveen.com/event/ "Events") en vooral heel veel voorinschrijvingen. Hartelijk dank voor de positieve en overtuigende motivaties.  
-Was je te laat met je voorinschrijving? We geven vanaf nu iedereen de mogelijkheid zich op de TEDxAmstelveen reserve lijst te zetten, want dan krijg je als eerste het bericht dat er kaarten vrij komen in april.
+Was je te laat met je voorinschrijving? We geven vanaf nu iedereen de mogelijkheid zich op de TEDxAmstelveen reserve lijst te zetten, want dan krijg je als eerste het bericht als er kaarten vrij komen.
 
-Wil je alvast wat informatie over 14 april? We geven via [deze pagina](https://tedxamstelveen.com/event/ "Events") steeds meer informatie over het programma.
+Wil je meer informatie over 14 april? We houden je via [deze pagina](https://tedxamstelveen.com/event/ "Events") op de hoogte over het programma.
