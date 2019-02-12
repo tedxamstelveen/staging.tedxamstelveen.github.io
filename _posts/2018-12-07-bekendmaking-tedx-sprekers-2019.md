@@ -8,6 +8,7 @@ tags:
 - TEDxAmstelveen
 - Sprekers
 - Amstelveen
+- '2019'
 author: ollievrijmoed
 name: Ollie Vrijmoed
 description: Bekendmaking TEDxAmstelveen sprekers 2019

@@ -7,6 +7,7 @@ tags:
 - Dagvoorzitter
 - TEDxAmstelveen
 - Mandy
+- '2019'
 author: ollievrijmoed
 name: Ollie Vrijmoed
 description: TEDxAmstelveen presenteert dagvoorzitter Mandy Phoa. Op 14 april worden
