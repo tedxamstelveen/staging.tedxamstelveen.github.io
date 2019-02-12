@@ -9,9 +9,9 @@ tags:
 - Mandy
 author: ollievrijmoed
 name: Ollie Vrijmoed
-description: TEDxAmstelveen presenteert dagvoorzitter <span class="redx">Mandy Phoa</span>  Op
-  14 april worden onze gasten welkom geheten door Mandy Phoa. Zij neemt onze gasten
-  mee tijdens deze tweede TEDxAmstelveen editie.
+description: TEDxAmstelveen presenteert dagvoorzitter Mandy Phoa. Op 14 april worden
+  onze gasten welkom geheten door Mandy Phoa. Zij neemt onze gasten mee tijdens deze
+  tweede TEDxAmstelveen editie.
 width: ''
 height: ''
 assets: ''
