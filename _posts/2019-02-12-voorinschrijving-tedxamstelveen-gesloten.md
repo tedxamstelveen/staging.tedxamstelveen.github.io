@@ -9,6 +9,7 @@ tags:
 - TED
 - Amstelveen
 - Kaartverkoop
+- '2019'
 author: ollievrijmoed
 name: Ollie Vrijmoed
 description: 'De voorinschrijving voor TEDxAmstelveen is gesloten. Vanaf deze week
