@@ -18,9 +18,7 @@ assets: ''
 hits: ''
 
 ---
-TEDxAmstelveen presenteert dagvoorzitter <span class="redx">Mandy Phoa</span>
-
-Op 14 april worden onze gasten welkom geheten door [Mandy Phoa](https://tedxamstelveen.com/team/mandy-phoa/ "Dagvoorzitter"). Zij neemt onze gasten mee tijdens deze tweede TEDxAmstelveen editie.
+TEDxAmstelveen presenteert dagvoorzitter <span class="redx">Mandy Phoa</span>Op 14 april worden onze gasten welkom geheten door [Mandy Phoa](https://tedxamstelveen.com/team/mandy-phoa/ "Dagvoorzitter"). Zij neemt onze gasten mee tijdens deze tweede TEDxAmstelveen editie.
 
 Binnen het TEDxAmstelveen team is zij voor het tweede jaar op rij een van onze coaches voor [de sprekers](https://tedxamstelveen.com/sprekers/ "Sprekers TEDx"). Met een enorme drive en aanstekelijke energie weet zij het beste uit het team en onze sprekers te halen. En dit jaar dus ook als onze dagvoorzitter!
 
