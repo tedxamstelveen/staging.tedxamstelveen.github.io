@@ -7,7 +7,7 @@ permalink: "/event/"
 nav: event
 
 ---
-Op 14 april 2019 vindt de tweede editie van <span class="redx">TEDxAmstelveen</span> plaats. De kaartverkoop verloopt enkel via voorinschrijving, welke op 10 februari wordt gesloten. Vanaf dat moment is het enkel mogelijk je op de reservelijst te plaatsen via [deze link](https://docs.google.com/forms/d/17Hpx15shsRtoXZnYLfXnLKYxo3ONit2CpRWXmLM9qcY/viewform?edit_requested=true "Voorinschrijving")
+Op 14 april 2019 vindt de tweede editie van <span class="redx">TEDxAmstelveen</span> plaats. De kaartverkoop verloopt enkel via voorinschrijving, welke op 10 februari wordt gesloten. Vanaf dat moment is het enkel mogelijk je op de reservelijst te plaatsen via deze link
 
 Heb je je al inschreven? Dan ben jij waarschijnlijk een van de gelukkigen die als eerste kaarten voor TEDxAmstelveen kan bestellen. Je ontvangt hier automatisch bericht over in je mailbox.
 
@@ -30,5 +30,3 @@ Nog even wat praktische informatie op een rij:
   Een middag <span class="redx">"ideas worth spreading!"</span>
 
   NB: Per ontvangen bevestiging op je email-adres kun je maximaal 1 kaart bestellen
-
-  ![](/assets/TEDxAmstelveen schouwburg.jpg)
