@@ -27,6 +27,7 @@ Nog even wat praktische informatie op een rij:
 * TEDTalks: Nederlands en Engels (Only a small part of the TEDxTalks will be in English)
 * Informatie: hallo@tedxamstelveen.com
 
-  Een middag <span class="redx">"ideas worth spreading!"</span>
+  
+Een middag <span class="redx">"ideas worth spreading!"</span>
 
-  NB: Per ontvangen bevestiging op je email-adres kun je maximaal 1 kaart bestellen
+NB: Per ontvangen bevestiging op je email-adres kun je maximaal 1 kaart bestellen
