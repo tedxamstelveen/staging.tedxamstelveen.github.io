@@ -23,8 +23,8 @@
   },
   "image": {
     "@type": "ImageObject",
-    "url": "{{site.url}}/{{site.logo-png}}",
-    "height": "250",
-    "width": "38"
+    "url": "{{site.url}}/{{site.logo1200-png}}",
+    "height": "1200",
+    "width": "181"
   }
 }
