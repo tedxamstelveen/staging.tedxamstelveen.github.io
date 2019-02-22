@@ -6,7 +6,7 @@ description: TEDx Amstelveen - 2019 - 'Once Upon a Time...'
 cover: assets/cover/tedxamstelveen-once-upon-a-time-full.jpg
 logo: assets/logos/TEDx_Amstelveen-logo.svg
 logo-png: assets/logos/TEDx_Amstelveen-logo.png
-logo1200-png: assets/logos/TEDx_Amstelveen-logo-1200.png
+logo1280-png: assets/logos/TEDx_Amstelveen-logo-1280.png
 favicon: assets/icons/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://tedxamstelveen.com" # the base hostname & protocol for your site
