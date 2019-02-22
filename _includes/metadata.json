@@ -24,7 +24,7 @@
   "image": {
     "@type": "ImageObject",
     "url": "{{site.url}}/{{site.logo1280-png}}",
-    "height": "1200",
-    "width": "181"
+    "height": "1280",
+    "width": "720"
   }
 }
