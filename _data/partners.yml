@@ -87,7 +87,7 @@
   pic: jumpstart
   url: http://www.jumpstart.nl/
   position: 7
-  status: inactive
+  status: active
 
 - name: Gemeente Amstelveen
   level: silver
