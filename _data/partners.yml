@@ -1,5 +1,5 @@
 - name: Rabobank
-  level: gold
+  level: silver
   pic: rabobank
   url: https://www.rabobank.nl/lokale-bank/amstel-en-vecht/
   position: 1
@@ -17,7 +17,7 @@
   pic: loogman
   url: http://www.loogman.nl/
   position: 6
-  status: active
+  status: inactive
 
 - name: Studio Stipt
   level: silver
