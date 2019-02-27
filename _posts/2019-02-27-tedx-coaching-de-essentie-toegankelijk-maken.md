@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: assets/blog/tedxamstelveen-once-upon-a-time-cover.jpg
-title: TEDx coaching "De essentie toegankelijk maken."
+title: TEDx coaching - De essentie toegankelijk maken
 date: 2019-02-27 07:00:00 +0000
 tags:
 - TEDx
