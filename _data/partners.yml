@@ -102,3 +102,10 @@
   url: http://www.van-schouten.nl/
   position: 3
   status: inactive
+
+- name: Lilian Plas
+  level: silver
+  pic: lilian-plas
+  url: https://www.lilianplas.com/
+  position: 9
+  status: active
