@@ -7,15 +7,15 @@ permalink: "/event/"
 nav: event
 
 ---
-Op 14 april 2019 vindt de tweede editie van <span class="redx">TEDxAmstelveen</span> plaats. De kaartverkoop verloopt enkel via voorinschrijving, welke op 10 februari wordt gesloten. Vanaf dat moment is het enkel mogelijk je op de reservelijst te plaatsen via deze link
+Op 14 april 2019 vindt de tweede editie van <span class="redx">TEDxAmstelveen</span> plaats. De kaartverkoop verloopt enkel via voorinschrijving, welke op 10 februari werd gesloten. Vanaf nu is het enkel mogelijk je op de reservelijst te plaatsen via [deze link](https://docs.google.com/forms/d/17Hpx15shsRtoXZnYLfXnLKYxo3ONit2CpRWXmLM9qcY/viewform?edit_requested=true "wachtlijst")
 
-Heb je je al inschreven? Dan ben jij waarschijnlijk een van de gelukkigen die als eerste kaarten voor TEDxAmstelveen kan bestellen. Je ontvangt hier automatisch bericht over in je mailbox.
+Heb je je al inschreven? Dan ben jij waarschijnlijk een van de gelukkigen die als eerste kaarten voor TEDxAmstelveen heeft kunnen bestellen. 
 
-Wees er snel bij, er zijn slechts 200 kaarten beschikbaar!
+We zijn reeds uitverkocht, maar volg ons via social en zie als eerste de updates en TEDxTalks op ons [Youtube](https://www.youtube.com/channel/UC7pmtwbW_kN0ipHYpjgdAzA "YouTube TEDxAmstelveen") kanaal.
 
 De tweede editie kent weer een sprankelend en actief programma, waarbij we de bezoekers met het thema ['Once Upon A Time'](https://tedxamstelveen.com/once-upon-a-time-thema-2019/ "Once Apon A Time") kennis laten maken. Voor een actueel overzicht van onze sprekers kun je [hier](https://tedxamstelveen.com/sprekers/ "Sprekers") kijken.
 
-Bezoekers worden niet alleen geïnspireerd met woorden, maar er zal er ook veel muziek, zang en dans op het programma staan. We hebben een aantal prachtige artiesten gevonden. Meer hierover in de komende weken.
+Bezoekers worden niet alleen geïnspireerd met woorden, maar er zal er ook veel muziek, zang en dans op het programma staan. We hebben een aantal prachtige artiesten gevonden.
 
 Nog even wat praktische informatie op een rij:
 
@@ -27,7 +27,6 @@ Nog even wat praktische informatie op een rij:
 * TEDTalks: Nederlands en Engels (Only a small part of the TEDxTalks will be in English)
 * Informatie: hallo@tedxamstelveen.com
 
-  
 Een middag <span class="redx">"ideas worth spreading!"</span>
 
 NB: Per ontvangen bevestiging op je email-adres kun je maximaal 1 kaart bestellen
