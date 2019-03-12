@@ -21,4 +21,4 @@ Onze sprekers gaan het hebben over dromen die werkelijkheid worden, of al zijn g
 Ze geven ons waardevolle lessen mee uit het verleden, de uitdagingen van nu en oplossingen voor de toekomst.   
 Binnen het thema 'Once Upon a Time' zullen er meerdere sprekers op het podium staan die in 10 tot 15 minuten hun verhaal met ons zullen delen.
 
-Houd ons op [social](https://www.facebook.com/TEDxAmstelveen "Facebook") en website in de gaten, want op 7 december gaan we onze [sprekers](https://tedxamstelveen.com/sprekers/ "Sprekers") aankondigen en de voorinschrijvingen openen.
+Houd ons op [social](https://www.facebook.com/TEDxAmstelveen "Facebook") en website in de gaten.
