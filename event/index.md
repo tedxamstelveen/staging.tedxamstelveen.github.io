@@ -7,9 +7,7 @@ permalink: "/event/"
 nav: event
 
 ---
-Op 14 april 2019 vindt de tweede editie van <span class="redx">TEDxAmstelveen</span> plaats. De kaartverkoop verloopt enkel via voorinschrijving, welke op 10 februari werd gesloten. Vanaf nu is het enkel mogelijk je op de reservelijst te plaatsen via [deze link](https://docs.google.com/forms/d/17Hpx15shsRtoXZnYLfXnLKYxo3ONit2CpRWXmLM9qcY/viewform?edit_requested=true "wachtlijst")
-
-Heb je je al inschreven? Dan ben jij waarschijnlijk een van de gelukkigen die als eerste kaarten voor TEDxAmstelveen heeft kunnen bestellen.
+Op 14 april 2019 vindt de tweede editie van <span class="redx">TEDxAmstelveen</span> plaats. Vanaf nu is het enkel mogelijk je op de reservelijst te plaatsen via [deze link](https://docs.google.com/forms/d/17Hpx15shsRtoXZnYLfXnLKYxo3ONit2CpRWXmLM9qcY/viewform?edit_requested=true "wachtlijst")
 
 We zijn reeds uitverkocht, maar volg ons via social en zie als eerste de updates en TEDxTalks op ons [Youtube](https://www.youtube.com/channel/UC7pmtwbW_kN0ipHYpjgdAzA "YouTube TEDxAmstelveen") kanaal.
 
@@ -34,7 +32,7 @@ Een middag <span class="redx">"ideas worth spreading!"</span>
 * Op en rond Schouwburg Amstelveen ben je verplicht aanwijzingen te volgen van de organisatie en haar medewerkers.
 * Het is verboden te roken in de schouwburg.
 * De organisatie aanvaardt geen aansprakelijkheid voor de producten van haar deelnemers.
-* Huisdieren ((m.u.v. van hulphonden op vertoon van medische verklaring) zijn niet toegestaan.
+* Huisdieren (m.u.v. van hulphonden op vertoon van medische verklaring) zijn niet toegestaan.
 * De toegangskaart of controlestrook dient de hele dag op verzoek van de organisatie getoond te kunnen worden.
 * Zonder geldige accreditatie is het verboden om te fotograferen, filmen en het maken van (andere) geluids-, en/ of beeldopnamen van TEDxAmstelveen. De organisatie zal op straffe hiervan de apparatuur in beslagnemen en aanvaardt voor het in bewaring nemen hiervan geen enkele aansprakelijkheid.
 * De organisatie is niet aansprakelijk voor verlies en/of diefstal en enige vorm van schade aan eigendommen en/of gekochte goederen van de bezoekers.
