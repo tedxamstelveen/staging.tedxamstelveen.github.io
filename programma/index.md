@@ -13,25 +13,25 @@ Programma <span class="redx">TEDxAmstelveen</span> 2019
   * Mandy Phoa - Dagvoorzitter
 * Openingsact - Delusion, Amstelveens danstalent
 * Act: Pascale Lefebvre - live artist
-* TEDxTalk 1: Karen Walthuis - Filosofisch psycholoog
+* TEDxTalk 1: Karen Walthuis - [Filosofisch psycholoog](https://tedxamstelveen.com/sprekers/karen-walthuis/ "Karen W")
 * TEDxTalk 2: Sabine Pinedo - [Praktiserend internist & ondernemer](https://tedxamstelveen.com/sprekers/sabine-pinedo/ "Sabine")
-* TEDxTalk 3: Niels van Buren - Sociaal ondernemer
+* TEDxTalk 3: Niels van Buren - [Sociaal ondernemer](https://tedxamstelveen.com/sprekers/niels-van-buren/ "Niels")
 * Tamar Neter - Robotwise
 
-  Pauze 1
-* TEDxTalk 4: Hillebrand Breuker - Grass2Grit
-* TEDxTalk 5: Hilde Latour - Initiator
+  **Pauze 1**
+* TEDxTalk 4: Hillebrand Breuker - Projectmanager Groene Innovatie
+* TEDxTalk 5: Hilde Latour - [Initiator](https://tedxamstelveen.com/sprekers/hilde-latour/ "Hilde")
 * Act: Anna, Noor & Nicky, Jong Amstelveens talent
-* TEDxTalk 6: Marieke Lips - Kindbehartiger
+* TEDxTalk 6: Marieke Lips - [Kindbehartiger](https://tedxamstelveen.com/sprekers/marieke-lips/ "Marieke")
 * TEDxTalk 7: Nissrine Aissati - [Trainer](https://tedxamstelveen.com/sprekers/nissrine-aissati/ "Nissrine")
 
-  Pauze 2
-* TEDxTalk 8: Margo Rijerkerk - Samenbrenger & Rasoptimist
-* TEDxTalk 9: Karen Hamaker Zondag - Symbolisch therapeut
+  **Pauze 2**
+* TEDxTalk 8: Margo Rijerkerk - [Samenbrenger & Rasoptimist](https://tedxamstelveen.com/sprekers/margo-rijerkerk/ "Margo")
+* TEDxTalk 9: Karen Hamaker Zondag - [Symbolisch therapeut](https://tedxamstelveen.com/sprekers/karen-hamaker-zondag/ "Karen H")
 * Act: Demi Baltus - Slam Poetry
 * TEDxTalk 10: Tijs Koedam - [Wellbeing Expert](https://tedxamstelveen.com/sprekers/tijs-koedam/ "Tijs")
 
-  17:00 Drinks & Bites
+  17:00 Drinks & Bites - Foyer Schouwburg Amstelveen
 
   Sluiting TEDxAmstelveen
 
