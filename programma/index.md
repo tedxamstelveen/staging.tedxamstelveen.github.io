@@ -10,7 +10,7 @@ nav: event
 Programma <span class="redx">TEDxAmstelveen</span> 2019
 
 * 13.00 Opening TEDxAmstelveen
-  * Mandy Phoa - Dagvoorzitter
+  * Mandy Phoa - [Dagvoorzitter](https://tedxamstelveen.com/tedxamstelveen-presenteert-dagvoorzitter-mandy-phoa/ "Mandy")
 * Openingsact - Delusion, Amstelveens danstalent
 * Act: Pascale Lefebvre - live artist
 * TEDxTalk 1: Karen Walthuis - [Filosofisch psycholoog](https://tedxamstelveen.com/sprekers/karen-walthuis/ "Karen W")
