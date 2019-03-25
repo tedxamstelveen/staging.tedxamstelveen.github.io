@@ -7,9 +7,9 @@ permalink: "/event/"
 nav: event
 
 ---
-Op 14 april 2019 vindt de tweede editie van <span class="redx">TEDxAmstelveen</span> plaats. Vanaf nu is het enkel mogelijk je op de reservelijst te plaatsen via [deze link](https://docs.google.com/forms/d/17Hpx15shsRtoXZnYLfXnLKYxo3ONit2CpRWXmLM9qcY/viewform?edit_requested=true "wachtlijst")
+Op 14 april 2019 vindt de tweede editie van <span class="redx">TEDxAmstelveen</span> plaats. 
 
-We zijn reeds uitverkocht, maar volg ons via social en zie als eerste de updates en TEDxTalks op ons [Youtube](https://www.youtube.com/channel/UC7pmtwbW_kN0ipHYpjgdAzA "YouTube TEDxAmstelveen") kanaal.
+We zijn reeds uitverkocht, maar volg ons via social en zie als eerste de updates en TEDxTalks op ons [Youtube](https://www.youtube.com/channel/UC7pmtwbW_kN0ipHYpjgdAzA "YouTube TEDxAmstelveen") kanaal. Mocht je wel een kaartje hebben maar helaas niet kunnen komen, geef dit dan zsm aan bij de organisatie zodat wij iemand anders blij kunnen maken met jouw kaartje.
 
 De tweede editie kent weer een sprankelend en actief programma, waarbij we de bezoekers met het thema ['Once Upon A Time'](https://tedxamstelveen.com/once-upon-a-time-thema-2019/ "Once Apon A Time") kennis laten maken. Voor een actueel overzicht van onze sprekers kun je [hier](https://tedxamstelveen.com/sprekers/ "Sprekers") kijken.
 
@@ -18,6 +18,7 @@ Bezoekers worden niet alleen geïnspireerd met woorden, maar er zal er ook veel 
 Nog even wat praktische informatie op een rij:
 
 * Datum: <span class="redx">Zondag 14 april</span>
+* Inloop 12:30 uur
 * Starttijd: 13:00 tot 18:00 uur
 * Lokatie: Schouwburg Amstelveen, Stadsplein 100
 * Badges: Alle bezoekers ontvangen een gepersonaliseerde badge. Controleer je gegevens in Eventbrite, dit kan worden aangepast tot 1 april
