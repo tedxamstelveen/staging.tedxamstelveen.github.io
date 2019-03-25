@@ -38,3 +38,5 @@ Programma <span class="redx">TEDxAmstelveen</span> 2019
 TEDxAmstelveen; een middag <span class="redx">Ideas Worth Spreading</span>
 
 Volg ons op [Facebook](https://www.facebook.com/TEDxAmstelveen/ "Facebook") - [LinkedIn](https://www.linkedin.com/company/18366663/admin/ "LinkedIn") & [Instagram](https://www.instagram.com/tedxamstelveen/ "Instagram") 
+
+![](/assets/TEDxAmstelveen aankondiging2.jpg)
