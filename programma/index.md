@@ -33,7 +33,7 @@ Programma <span class="redx">TEDxAmstelveen</span> 2019
 
   17:00 Drinks & Bites - Foyer Schouwburg Amstelveen
 
-  Sluiting <span class="redx">"TEDxAmstelveen"</span>
+  Sluiting <span class="redx">TEDxAmstelveen</span>
 
 TEDxAmstelveen; een middag <span class="redx">Ideas Worth Spreading</span>
 
