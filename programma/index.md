@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TEDxAmstelveen programma Zondag 14 April 2019
+title: TEDxAmstelveen programma
 description: Programma overzicht van TEDxAmstelveen
 comments: false
 permalink: "/programma/"
