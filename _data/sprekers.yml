@@ -159,3 +159,12 @@
   year: '2019'
   video:
   status: inactive
+
+- name: Hillebrand Breuker
+  description: Hillebrand Breuker
+  url: "/sprekers/hillebrand-breuker/"
+  pic: hillebrand-breuker
+  social: hillebrand-breuker
+  year: '2019'
+  video:
+  status: active
