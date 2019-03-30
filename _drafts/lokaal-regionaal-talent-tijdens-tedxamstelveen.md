@@ -33,4 +33,6 @@ Mottoportrait: we herinneren iemand niet enkel aan zijn of haar gezicht. (eigen)
 
 <span class="redx">"Demi Baltus"</span> verwoordt eerlijk en oprecht wat wordt gedacht, maar niet wordt gezegd. Ze droeg eerder al voor op o.a. Onbederf’lijk Vers en het Wintertuinfestival. Leerde slammen van de groten en ging met de Poëziebus mee op tour. In 2017 verscheen haar eerste bundeltje genaamd _Uitgedokterd_. Demi studeert Creative Writing aan de kunstacademie in Arnhem en zal tijdens TEDxAmstelveen een slam poetry act laten zien & horen.
 
+Meer weten: [TEDxAmstelveen](TEDxAmstelveen.com/event "Event")
+
 TEDxAmstelveen - <span class="redx">"Ideas worth spreading"</span>
