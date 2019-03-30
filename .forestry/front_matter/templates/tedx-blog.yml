@@ -57,6 +57,7 @@ fields:
   label: hits
   hidden: true
 pages:
+- _posts/lokaal-regionaal-talent-tijdens-tedxamstelveen.md
 - _posts/2019-02-27-tedx-coaching-de-essentie-toegankelijk-maken.md
 - _posts/2019-02-12-voorinschrijving-tedxamstelveen-gesloten.md
 - _posts/2019-02-10-tedxamstelveen-presenteert-dagvoorzitter-mandy-phoa.md
