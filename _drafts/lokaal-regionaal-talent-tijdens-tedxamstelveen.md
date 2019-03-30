@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: ''
+cover: assets/blog/tedxamstelveen-once-upon-a-time-cover.jpg
 title: Lokaal & Regionaal talent tijdens TEDxAmstelveen
 date: 2019-03-29 23:00:00 +0000
 tags:
@@ -14,7 +14,8 @@ tags:
 - Art
 author: ollievrijmoed
 name: Ollie Vrijmoed
-description: Lokaal & Regionaal talent tijdens TEDxAmstelveen
+description: 'Lokaal & Regionaal talent tijdens TEDxAmstelveen. Op 14 april zullen
+  zal het programma weer gevuld zijn met zang, dans, art & poëzie. '
 width: ''
 height: ''
 assets: ''
