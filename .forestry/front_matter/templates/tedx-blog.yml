@@ -49,9 +49,21 @@ fields:
   name: height
   label: height
 - type: text
-  name: assets
-  label: assets
+  name: assets1
+  label: assets1
   description: 'example: "assets/blog/mijn-foto.jpg" [only small img]'
+- type: text
+  name: assets2
+  label: assets2
+  description: 'example: "assets/blog/mijn-foto.jpg" [only small img]'
+- type: text
+  description: 'example: "assets/blog/mijn-foto.jpg" [only small img]'
+  label: assets3
+  name: assets3
+- type: text
+  description: 'example: "assets/blog/mijn-foto.jpg" [only small img]'
+  label: assets4
+  name: assets4
 - type: number
   name: hits
   label: hits
