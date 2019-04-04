@@ -17,8 +17,8 @@ tags:
 author: ollievrijmoed
 name: Ollie Vrijmoed
 description: 'Lokaal & Regionaal talent tijdens TEDxAmstelveen. Op 14 april zullen zal het programma weer gevuld zijn met zang, dans, art & poëzie. '
-width: ''
-height: ''
+width: 700
+height: 467
 assets1: assets/act/delusion.jpg
 assets2: assets/act/pascale-lefebvre.jpg
 assets3: ''
