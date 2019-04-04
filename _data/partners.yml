@@ -116,3 +116,10 @@
   url: https://www.ladygiovin.nl/
   position: 9
   status: active
+
+- name: HP
+  level: silver
+  pic: hp
+  url: https://www.hp.nl/
+  position: 9
+  status: active
