@@ -16,14 +16,14 @@ name: Mette Reitsma
 description: Opening voorinschrijving TEDxAmstelveen - Once Upon a Time - 2019
 width: 700
 height: 525
-assets: assets/blog/TEDxAmstelveen-voorinschrijving-2019.jpg
+assets1: assets/blog/TEDxAmstelveen-voorinschrijving-2019.jpg
 hits: ''
 
 ---
 We zitten vol ambitie om onze tweede editie op 14 april 2019 nog net iets mooier en inspirerender te maken. We hopen op een divers, actief en betrokken publiek uit de regio Amstelveen. We verwachtten net als vorig jaar weer heel veel belangstelling voor het bijwonen van TEDxAmstelveen en zullen daarom ons publiek gaan selecteren op basis van hun beschreven motivatie. Via onze [website](https://tedxamstelveen.com/) kan je je voorinschrijven om als eerste kans te maken op een van de 200 beschikbare kaarten in de Schouwburg Amstelveen. [Schrijf](https://docs.google.com/forms/d/1Es74rB--j6gnE1CCwLpxoUHtRZk_Fau7Eef-SaNFVMs/viewform?edit_requested=true "Schrijf") je snel in!   
 Na de selectie ontvang je van ons een email waarmee je 1 kaart kunt kopen. Wil je met meerdere mensen komen, schrijf dan individueel in.
 
-{% include img-post.html %}
+{% include img-post1.html %}
 
 Hierbij alle informatie nog even op een rijtje;
 

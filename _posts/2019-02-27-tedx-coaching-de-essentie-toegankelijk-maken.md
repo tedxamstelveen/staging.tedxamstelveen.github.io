@@ -7,6 +7,8 @@ tags:
 - TEDx
 - Coaching
 - TEDxAmstelveen
+- '2019'
+- Once_Upon_a_Time
 author: ollievrijmoed
 name: Ollie Vrijmoed
 description: Een goede TEDx talk geven is niet een kwestie van een pitch sessie in
