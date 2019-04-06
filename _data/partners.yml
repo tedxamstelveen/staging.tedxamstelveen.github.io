@@ -123,3 +123,10 @@
   url: https://www.hp.nl/
   position: 9
   status: active
+
+- name: Robotwise
+  level: silver
+  pic: robotwise
+  url: https://www.robotwise.nl/
+  position: 9
+  status: active
