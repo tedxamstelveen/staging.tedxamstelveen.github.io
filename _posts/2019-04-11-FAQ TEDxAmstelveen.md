@@ -40,7 +40,7 @@ Adres: Schouwburg Amstelveen Stadsplein 100 Amstelveen < [Route](https://goo.gl/
 
 Wat moet ik meenemen?
 
-* Zorg dat je je Eventbrite ticket in print of telefoon bij de hand hebt. Je ontvangt van ons ter plaatse een persoonlijke badge, kaarten en badges zijn niet overdraagbaar.
+* Zorg dat je je Eventbrite ticket in print of op je telefoon bij de hand hebt. Je ontvangt van ons ter plaatse een persoonlijke badge, kaarten en badges zijn niet overdraagbaar.
 
 Deuren gaan open om <span class="redx">"12:15 uur"</span>
 
