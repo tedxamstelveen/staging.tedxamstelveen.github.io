@@ -46,7 +46,7 @@ Wat moet ik meenemen?
 
 **Programma voor 14 april?**
 
-Deuren gaan open om 12:30 uur
+Deuren gaan open om <span class="redx">"12:30 uur"</span>
 
 * Het programma start om 13 uur, zorg dat je op tijd bent. Tijdens de TEDxTalks zijn de deuren gesloten, je kunt pas tijdens de eerst volgende pauze mee naar binnen.
 * Het inhoudelijke programma wordt jullie duidelijk na binnenkomst, we hebben 2 pauzes in het programma.
