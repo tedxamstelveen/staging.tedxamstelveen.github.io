@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: ''
+cover: assets/blog/tedxamstelveen-schouwburg.jpg
 title: FAQ TEDxAmstelveen
 date: 2019-04-11 22:00:00 +0000
 tags:
