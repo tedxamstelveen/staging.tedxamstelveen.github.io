@@ -65,3 +65,9 @@ Kan ik ter plaatse nog kaarten kopen?
 * Maken van video opnames is niet toegestaan
 * Tijdens TEDxAmstelveen worden professionele beeld en geluidopnames gemaakt. Binnen 2 weken ontvangen de bezoekers hiervan persoonlijk bericht.
 * Alle huisregels zijn te vinden op: [https://tedxamstelveen.com/event/](https://tedxamstelveen.com/event/ "https://tedxamstelveen.com/event/")
+
+**Contact**
+
+* hallo@tedxamstelveen.com 
+
+TEDxAmstelveen <span class="redx">"ideas worth spreading"</span>
