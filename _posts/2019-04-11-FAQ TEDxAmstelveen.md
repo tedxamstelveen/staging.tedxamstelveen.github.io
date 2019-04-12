@@ -48,7 +48,7 @@ Wat moet ik meenemen?
 
 Deuren gaan open om <span class="redx">"12:30 uur"</span>
 
-* Het programma start om 13 uur, zorg dat je op tijd bent. Tijdens de TEDxTalks zijn de deuren gesloten, je kunt pas tijdens de eerst volgende pauze mee naar binnen.
+* Het programma start om 13 uur, **zorg dat je op tijd bent**. Tijdens de TEDxTalks zijn de deuren gesloten, je kunt pas tijdens de eerst volgende pauze mee naar binnen.
 * Het inhoudelijke programma wordt jullie duidelijk na binnenkomst, we hebben 2 pauzes in het programma.
 * Het programma is rond 17:15 uur afgelopen, met aansluitend nog een borrel tot 18 uur.
 
