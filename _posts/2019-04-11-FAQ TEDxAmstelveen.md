@@ -25,17 +25,17 @@ hits: ''
 ---
 FAQ - <span class="redx">"TEDxAmstelveen"</span>
 
-Hieronder staan enkele van de veel gestelde vragen die we krijgen richting de dag van het evenement - deze zouden je moeten kunnen helpen met eventuele vragen die jij ook hebt!
+Hieronder staan enkele van de veelgestelde vragen die we krijgen richting de dag van het evenement - deze zouden je moeten kunnen helpen met eventuele vragen die jij ook hebt!
 
-**Vervoer richting TEDxAmstelveen**  
+**Vervoer richting TEDxAmstelveen**
 
-Adres: Schouwburg Amstelveen Stadsplein 100 Amstelveen
+Adres: Schouwburg Amstelveen Stadsplein 100 Amstelveen < [Route](https://goo.gl/maps/8SJVMW6yL5q "Route") > 
 
 * Per auto: Schouwburg Amstelveen ligt direct aan de A9. Neem afslag 5 (Amstelveen Stadshart) en volg de borgen Schouwburggarage of Stadspleingarage
 * Maak gebruik van de handige uitrijkaart die verkrijgbaar is bij de horecabuffetten van de schouwburg. Uitrijkaarten kunnen in de schouwburg worden gekocht voorafgaande aan TEDxAmstelveen.
 * Per bus: De schouwburg is goed bereikbaar met het openbaar vervoer. Direct naast de schouwburg ligt het busstation, welke direct bereikbaar is met de lijnen: 242, 174, 171, 165, 166, 167, 186, 242, 300, 347, 356, 357.
-* Let op; Tram 5 stopt niet dit weekend op halte Binnenhof vanwege werkzaamheden aan de Amstelveenlijn
-* Let op; Metro 51 is komen te vervallen en rijdt niet meer door Amstelveen.
+* Let op; Tram 5 stopt dit weekend **niet** op halte Binnenhof vanwege werkzaamheden aan de Amstelveenlijn
+* Let op; Metro 51 is komen te **vervallen** en rijdt **niet** meer door Amstelveen.
 * Per trein; Vanaf de stations Schiphol, Amsterdam Zuid en Bijlmer zijn directe bus verbindingen met het Amstelveen busstation
 
 **Programma en toegang**
@@ -68,6 +68,6 @@ Kan ik ter plaatse nog kaarten kopen?
 
 **Contact**
 
-* hallo@tedxamstelveen.com 
+* hallo@tedxamstelveen.com
 
 TEDxAmstelveen <span class="redx">"ideas worth spreading"</span>
