@@ -1,7 +1,8 @@
 ---
 layout: post
 cover: assets/blog/tedxamstelveen-schouwburg.jpg
-title: FAQ TEDxAmstelveen
+title: Hierbij enkele veelgestelde vragen die we momenteel krijgen richting het evenement
+  komende zondag. Deze zouden je moeten kunnen helpen met vragen die jij ook hebt.
 date: 2019-04-12 07:00:00 +0000
 tags:
 - FAQ
