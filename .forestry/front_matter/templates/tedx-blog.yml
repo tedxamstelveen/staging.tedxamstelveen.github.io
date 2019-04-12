@@ -69,11 +69,12 @@ fields:
   label: hits
   hidden: true
 pages:
+- _posts/FAQ TEDxAmstelveen.md
+- _posts/2019-01-05-voorinschrijving-tedxamstelveen-geopend.md
 - _posts/2019-03-29-lokaal-regionaal-talent-tijdens-tedxamstelveen.md
 - _posts/2019-02-27-tedx-coaching-de-essentie-toegankelijk-maken.md
 - _posts/2019-02-12-voorinschrijving-tedxamstelveen-gesloten.md
 - _posts/2019-02-10-tedxamstelveen-presenteert-dagvoorzitter-mandy-phoa.md
-- _posts/2019-01-05-voorinschrijving-tedxamstelveen-geopend.md
 - _posts/2018-11-25-once-upon-a-time-thema-2019.md
 - _posts/2018-11-01-ted-meest-inspirerend-volgens-business-professionals.md
 - _posts/2018-10-18-pitch-sessies-tedxamstelveen-2019.md
