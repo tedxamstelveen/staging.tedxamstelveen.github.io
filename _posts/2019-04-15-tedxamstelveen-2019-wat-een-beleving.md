@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: TEDx_Marieke_Lips.jpg
+cover: assets/blog/TEDx_Marieke_Lips.jpg
 title: TEDxAmstelveen 2019; wat een beleving
 date: 2019-04-15 06:00:00 +0000
 tags:
