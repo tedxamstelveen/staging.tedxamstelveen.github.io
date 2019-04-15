@@ -26,6 +26,8 @@ Een speciaal evenement met wel [10 TEDxTalks](https://tedxamstelveen.com/spreker
 
 We willen iedereen die erbij aanwezig was, hartelijk dank voor hun komst. Hopen dat je net zo geïnspireerd en geraakt bent door de TEDxTalks als wij. Binnen 2 weken verwachten we de video's online te hebben staan en kun je op te gemak alles terug kijken en delen met vrienden, familie en collega's.
 
+Veel dank aan onze [partners, sponsoren](https://tedxamstelveen.com/partners/ "Partners & Sponsoren"), dagvoorzitter [Mandy Phoa](https://tedxamstelveen.com/tedxamstelveen-presenteert-dagvoorzitter-mandy-phoa/ "Dagvoorzitter"), alle sprekers en vrijwilligers. 
+
 **Contact**
 
 hallo@tedxamstelveen.com
