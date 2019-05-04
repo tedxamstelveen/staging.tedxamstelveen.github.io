@@ -4,7 +4,7 @@ title:
 description:
 video: O5ERrI1vyKQ
 assets: assets/cover/tedxamstelveen-2019.mp4
-img:
+img: assets/cover/tedxamstelveen-once-upon-a-time-cover.jpg
 cover: assets/cover/tedxamstelveen-once-upon-a-time-full.jpg
 redirect_from:
   - /talks/
@@ -13,7 +13,7 @@ redirect_from:
   - /logo/
 ---
   <figure class="ampstart-image-fullpage-hero m0 relative mb4">
-    {% if page.video == blank %}
+    {% if page.assets !== blank %}
     <amp-video src="/assets/cover/{{ page.assets }}" width="404" height="720" layout="responsive" controls autoplay loop media="(max-width: 415px)"></amp-video>
     <amp-video src="/assets/cover/{{ page.assets }}" layout="fixed-height" height="720" controls autoplay loop media="(min-width: 416px)"></amp-video>
     {% else %}
