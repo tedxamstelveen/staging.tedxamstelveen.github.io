@@ -30,9 +30,9 @@ paginate:	5 # The number of posts to show per page on your homepage
 #fromtitle: Wachtlijst
 
 # Sprekers gezocht
-form: https://bit.ly/2YOP9eI
-formlogo: assets/blog/TEDx_Sprekers.svg
-fromtitle: Sprekers gezocht
+#form: https://bit.ly/2YOP9eI
+#formlogo: assets/blog/TEDx_Sprekers.svg
+#fromtitle: Sprekers gezocht
 
 # Social
 facebook: tedxamstelveen
