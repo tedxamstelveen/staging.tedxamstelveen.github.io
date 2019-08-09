@@ -26,13 +26,9 @@ Na twee succesvolle edities staat TEDx in Amstelveen definitief op de kaart. De 
 
 TED talks zijn ‘Ideas worth spreading’. Niet zomaar een presentatie, maar een sprankelende en inspirerende uiteenzetting van jouw ideeën en inzichten. In maximaal 18 minuten neem je het publiek mee in jouw gedachtewereld en geef je het iets mee om over na te denken. De opnames van de talks zijn achteraf gratis te bekijken online, dus het bereik van een TED talk is enorm.
 
-### Once Upon a Time?
-
-Het thema van 2019 ‘Once Upon a Time’ gaat over dromen die werkelijkheid worden. Over tijden die veranderen, waardevolle lessen uit het verleden, uitdagingen van nu en over oplossingen voor een toekomst waarin niets onmogelijk is.
-
 ### Wat verwachten we van jou?
 
-Dat je een inspirerend idee hebt, om te beginnen. En dat je ons én het publiek daarmee kunt raken. Spreken op een TEDx podium is een onvergetelijke ervaring, maar wel een ervaring die behalve een goed idee ook de nodige moed en een degelijke voorbereiding vereist. Reken op gemiddeld tussen de 40 en 100 uur voor het uitwerken, aanscherpen en oefenen van je talk.
+Dat je een inspirerend idee hebt, om te beginnen. En dat je ons én het publiek daarmee kunt raken. Belangrijk is ook dat je jouw idee kunt onderbouwen met feiten of ervaringen. Spreken op een TEDx podium is een onvergetelijke ervaring, maar wel een ervaring die behalve een goed idee ook de nodige moed en een degelijke voorbereiding vereist. Reken op gemiddeld tussen de 60 en 120 uur voor het uitwerken, aanscherpen en oefenen van je talk.
 
 ### Wat kun je van ons verwachten?
 
@@ -40,7 +36,7 @@ Wij gaan er een waanzinnig mooi evenement van maken, waarop alles tot in de punt
 
 ### Wat gebeurt er na je aanmelding?
 
-Na ontvangst zullen we je aanmelding beoordelen op originaliteit en relevantie met de regio en met het thema. Als jouw idee door deze eerste selectie komt, nodigen we je uit om dit bij ons te komen pitchen. Zijn we er dan nog steeds van overtuigd dat jouw talk een waardevolle bijdrage is voor TEDxAmstelveen 2019, dan stap jij in april op het podium!
+Na ontvangst zullen we je aanmelding beoordelen en afwegen. Als jouw idee door deze eerste selectie komt, nodigen we je uit om dit bij ons te komen pitchen. Zijn we er dan nog steeds van overtuigd dat jouw talk een waardevolle bijdrage is voor TEDxAmstelveen 2020, dan stap jij in mei op het podium!
 
 Benieuwd hoe het er in [2018](https://www.youtube.com/watch?v=O5ERrI1vyKQ) en [2019](https://www.youtube.com/watch?v=Etn6Bi4LISU) aan toe ging? Bekijk de aftermovie van afgelopen jaren.
 
