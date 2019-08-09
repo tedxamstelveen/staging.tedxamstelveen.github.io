@@ -22,9 +22,17 @@ paginate:	5 # The number of posts to show per page on your homepage
 # Voorinschrijven
 #form: https://goo.gl/kC3HNp
 #formlogo: assets/blog/TEDx_Voorinschrijving.svg
+#fromtitle: Voorinschrijving
+
 # Wachtlijst
 #form: https://goo.gl/u568Vk
 #formlogo: assets/blog/TEDx_Wachtlijst.svg
+#fromtitle: Wachtlijst
+
+# Sprekers gezocht
+form: http://bit.ly/2YOP9eI
+formlogo: assets/blog/TEDx_Sprekers.svg
+fromtitle: Sprekers gezocht
 
 # Social
 facebook: tedxamstelveen
