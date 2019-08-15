@@ -11,7 +11,7 @@ Wij zoeken teamleden om **TEDxAmstelveen** 2020 tot een succes te maken. Draag j
 
 Wij zijn TEDxAmstelveen; een organisatie van zeer enthousiaste, professionele vrijwilligers die in 2020 weer een inspirerend event willen neerzetten. Je hebt vast wel eens een TED talk gezien, toch? Wij zorgen er voor dat we hier in Amstelveen ook van die inspirerende talks delen met de rest van de wereld. Onze ambitie daarbij is groot, we willen dat TEDxAmstelveen niet alleen een event is, maar ook een beweging die positieve verandering in gang zet!
 
-# Storyteller
+### Storyteller
 Help ons bij de communicatie voor **TEDxAmstelveen**!
 
 We zoeken een (Amstelveens) talent die ons het komende jaar kan ondersteunen. Je helpt met het vergroten van onze TEDx community door regelmatige online posts. Je bent thuis op Instagram en Facebook en weet bij je berichten het ideale plaatje te vinden of te maken. Je geeft tips over prachtige bestaande TEDx talks en vertelt over de voorbereidingen van het evenement. Soms schrijf je het zelf, soms redigeer je, maar de informatie is in ieder geval altijd foutloos.
@@ -22,7 +22,7 @@ Interesse? Laat ons weten waarom jij niet mag ontbreken in het team van TEDxAmst
 
 Toch nog iets meer weten? [hallo@tedxamstelveen.com](mailto:hallo@tedxamstelveen.com?subject=TEDxAmstelveen vacatures)
 
-# Kernteam member
+### Kernteam member
 Jij in ons TEDxAmstelveen team? TEDxAmstelveen zoekt hulp bij de voorbereiding van TEDxAmstelveen 2020.
 
 Wat zoeken we?
@@ -38,7 +38,7 @@ Voor een groot evenement met 500 bezoekers moet er van alles geregeld worden zoa
 
 Iets voor jou? Laat ons weten waarom jij niet mag ontbreken in het team van TEDxAmstelveen 2020 [hallo@tedxamstelveen.com](mailto:hallo@tedxamstelveen.com?subject=TEDxAmstelveen vacatures)
 
-# Spreker liaison
+### Spreker liaison
 Jij in ons **TEDxAmstelveen** team? TEDxAmstelveen zoekt hulp bij de voorbereiding van TEDxAmstelveen 2020.
 
 Onze sprekers hebben een idea worth sharing en heel veel te vertellen. Jij helpt hen om een krachtig korte TEDx talk neer te zetten. Je wordt enthousiast van TEDx en heb je zin om TEDxAmstelveen 2020 tot een succes te maken! Je zorgt dat je alle tips kent die Chris Anderson geeft over het maken van een TED talk en deelt deze kennis met de sprekers. Je zorgt dat de spreker op tijd helemaal klaar is voor zijn/haar talk op 17 mei 2020.  Dit doen we door middel van coaching en oefen sessies. Je werkt samen met een team van andere spreker coaches.
