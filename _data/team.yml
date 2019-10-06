@@ -16,6 +16,13 @@
   description: Tech Lead
   url: /team/ray-bogman
   pic: ray-bogman
+  position: 3
+  status: active
+
+- name: Mandy Phoa
+  description: Sprekerscoach
+  url: /team/mandy-phoa
+  pic: mandy-phoa
   position: 4
   status: active
 
@@ -25,27 +32,6 @@
   pic: jan-koers
   position: 5
   status: active
-
-- name: Maarten Oosterhoff
-  description: Sprekerscoach
-  url: /team/maarten-oosterhoff
-  pic: maarten-oosterhoff
-  position: 99
-  status: active
-
-- name: Edward Stronach Hardy
-  description: Sprekerscoach
-  url: /team/edward-stronach-hardy
-  pic: edward-stronach-hardy
-  position: 99
-  status: active
-
-- name: Niels Verhaest
-  description: Copywriter
-  url: /team/niels-verhaest
-  pic: niels-verhaest
-  position: 99
-  status: inactive
 
 - name: Jennifer van Balkom
   description: Sprekerscoach
@@ -72,21 +58,21 @@
   description: Sprekerscoach
   url: /team/michiel-bloem
   pic: michiel-bloem
-  position: 13
+  position: 12
   status: active
 
 - name: Stephan Danser
   description:
   url: /team/stephan-danser
   pic: stephan-danser
-  position: 15
+  position: 13
   status: active
 
 - name: Manolo Barten
   description:
   url: /team/manolo-barten
   pic: manolo-barten
-  position: 16
+  position: 14
   status: active
 
 - name: Marjolein Bronsvoort
@@ -124,18 +110,25 @@
   position: 99
   status: active
 
-- name: Mandy Phoa
+- name: Maarten Oosterhoff
   description: Sprekerscoach
-  url: /team/mandy-phoa
-  pic: mandy-phoa
-  position: 13
+  url: /team/maarten-oosterhoff
+  pic: maarten-oosterhoff
+  position: 99
   status: active
 
-- name: Amber Wiznitzer
-  description:
-  url: /team/amber-wiznitzer
-  pic: amber-wiznitzer
-  position: 20
+- name: Edward Stronach Hardy
+  description: Sprekerscoach
+  url: /team/edward-stronach-hardy
+  pic: edward-stronach-hardy
+  position: 99
+  status: active
+
+- name: Niels Verhaest
+  description: Copywriter
+  url: /team/niels-verhaest
+  pic: niels-verhaest
+  position: 99
   status: inactive
 
 - name: Yigael van der Hoeven
@@ -143,4 +136,11 @@
   url: /team/yigael-van-der-hoeven
   pic: yigael-van-der-hoeven
   position: 99
+  status: inactive
+
+- name: Amber Wiznitzer
+  description:
+  url: /team/amber-wiznitzer
+  pic: amber-wiznitzer
+  position: 20
   status: inactive
