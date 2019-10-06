@@ -5,18 +5,11 @@
   position: 1
   status: active
 
-- name: Merel Funke
-  description: Event planner
-  url: /team/merel-funke
-  pic: merel-funke
+- name: Anouk Boering
+  description: Sprekerscoach
+  url: /team/anouk-boering
+  pic: anouk-boering
   position: 2
-  status: active
-
-- name: Ollie Vrijmoed
-  description: Marketing & Communicatie Manager
-  url: /team/ollie-vrijmoed
-  pic: ollie-vrijmoed
-  position: 3
   status: active
 
 - name: Ray Bogman
@@ -26,10 +19,10 @@
   position: 4
   status: active
 
-- name: Mandy Phoa
+- name: Jan Koers
   description: Sprekerscoach
-  url: /team/mandy-phoa
-  pic: mandy-phoa
+  url: /team/jankoers
+  pic: jan-koers
   position: 5
   status: active
 
@@ -37,21 +30,21 @@
   description: Sprekerscoach
   url: /team/maarten-oosterhoff
   pic: maarten-oosterhoff
-  position: 6
+  position: 99
   status: active
 
 - name: Edward Stronach Hardy
   description: Sprekerscoach
   url: /team/edward-stronach-hardy
   pic: edward-stronach-hardy
-  position: 7
+  position: 99
   status: active
 
 - name: Niels Verhaest
   description: Copywriter
   url: /team/niels-verhaest
   pic: niels-verhaest
-  position: 8
+  position: 99
   status: inactive
 
 - name: Jennifer van Balkom
@@ -75,25 +68,11 @@
   position: 11
   status: active
 
-- name: Anouk Boering
-  description: Sprekerscoach
-  url: /team/anouk-boering
-  pic: anouk-boering
-  position: 12
-  status: active
-
 - name: Michiel Bloem
   description: Sprekerscoach
   url: /team/michiel-bloem
   pic: michiel-bloem
   position: 13
-  status: active
-
-- name: Yigael van der Hoeven
-  description:
-  url: /team/yigael-van-der-hoeven
-  pic: yigael-van-der-hoeven
-  position: 14
   status: active
 
 - name: Stephan Danser
@@ -114,7 +93,7 @@
   description:
   url: /team/marjolein-bronsvoort
   pic: marjolein-bronsvoort
-  position: 17
+  position: 99
   status: active
 
 - name: Margot Snelders
@@ -131,9 +110,37 @@
   position: 19
   status: active
 
+- name: Merel Funke
+  description: Event planner
+  url: /team/merel-funke
+  pic: merel-funke
+  position: 99
+  status: active
+
+- name: Ollie Vrijmoed
+  description: Marketing & Communicatie Manager
+  url: /team/ollie-vrijmoed
+  pic: ollie-vrijmoed
+  position: 99
+  status: active
+
+- name: Mandy Phoa
+  description: Sprekerscoach
+  url: /team/mandy-phoa
+  pic: mandy-phoa
+  position: 13
+  status: active
+
 - name: Amber Wiznitzer
   description:
   url: /team/amber-wiznitzer
   pic: amber-wiznitzer
   position: 20
+  status: inactive
+
+- name: Yigael van der Hoeven
+  description:
+  url: /team/yigael-van-der-hoeven
+  pic: yigael-van-der-hoeven
+  position: 99
   status: inactive
