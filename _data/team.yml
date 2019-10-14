@@ -75,6 +75,13 @@
   position: 14
   status: active
 
+- name: Michelle van der Meer
+  description:
+  url: /team/michelle-van-der-meer
+  pic: michelle-van-der-meer
+  position: 99
+  status: active
+
 - name: Marjolein Bronsvoort
   description:
   url: /team/marjolein-bronsvoort
