@@ -75,6 +75,13 @@
   position: 14
   status: active
 
+- name: Bas de Haan
+  description:
+  url: /team/bas-de-haan
+  pic: bas-de-haan
+  position: 99
+  status: active
+
 - name: Michelle van der Meer
   description:
   url: /team/michelle-van-der-meer
