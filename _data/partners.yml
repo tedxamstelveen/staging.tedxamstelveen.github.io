@@ -1,16 +1,114 @@
+- name: Jumpstart
+  level: gold
+  pic: jumpstart
+  url: http://www.jumpstart.nl/
+  position: 1
+  status: active
+
+- name: Gemeente Amstelveen
+  level: gold
+  pic: gemeente-amstelveen
+  url: https://www.amstelveen.nl/
+  position: 2
+  status: active
+
+- name: Han Schooneman
+  level: silver
+  pic: han-schooneman
+  url: https://www.schoonemandesign.nl/
+  position: 3
+  status: active
+
+- name: No Worries Film Productions
+  level: silver
+  pic: noworries
+  url: https://www.linkedin.com/in/stephan-prive-danser-704987a/
+  position: 4
+  status: active
+
+- name: Super Fan Factory
+  level: silver
+  pic: super-fan-factory
+  url: https://superfanfactory.nl/
+  position: 4
+  status: active
+
+- name: Asko Schoonmaak
+  level: silver
+  pic: asko-schoonmaak
+  url: https://asko-schoonmaak.nl/
+  position: 5
+  status: active
+
+- name: WinWinwerkt
+  level: silver
+  pic: winwinwerkt
+  url: https://www.winwinwerkt.nl/
+  position: 7
+  status: active
+
+- name: Rotary Amstelveen
+  level: silver
+  pic: rotary-amstelveen
+  url: https://www.rotary.nl/amstelveen/
+  position: 8
+  status: active
+
+- name: Cinemjuze
+  level: silver
+  pic: cinemjuze
+  url: http://cinemjuze.nl/
+  position: 9
+  status: active
+
+- name: Lilian Plas
+  level: silver
+  pic: lilian-plas
+  url: https://www.lilianplas.com/
+  position: 10
+  status: active
+
+- name: Lady Giovin
+  level: silver
+  pic: ladygiovin
+  url: https://www.ladygiovin.nl/
+  position: 11
+  status: active
+
+- name: HP
+  level: silver
+  pic: hp
+  url: https://www.hp.nl/
+  position: 9
+  status: inactive
+
+- name: Robotwise
+  level: silver
+  pic: robotwise
+  url: https://www.robotwise.nl/
+  position: 9
+  status: inactive
+
 - name: Rabobank
   level: silver
   pic: rabobank
   url: https://www.rabobank.nl/lokale-bank/amstel-en-vecht/
   position: 1
-  status: active
+  status: inactive
 
-- name: Han Schooneman
-  level: gold
-  pic: han-schooneman
-  url: https://www.schoonemandesign.nl/
-  position: 4
-  status: active
+- name: Van Schouten
+  level: silver
+  pic: michel-van-schouten
+  url: http://www.van-schouten.nl/
+  position: 3
+  status: inactive
+
+- name: Meiancoaching
+  level: silver
+  pic: meiancoaching
+  url: http://www.meian.nl/
+  position: 9
+  status: inactive
 
 - name: Loogman
   level: gold
@@ -24,109 +122,11 @@
   pic: studiostipt
   url: http://www.studiostipt.nl/
   position: 2
-  status: active
+  status: inactive
 
 - name: ANNA Amstelveen
   level: silver
   pic: anna-amstelveen
   url: https://www.anna-amstelveen.nl/
   position: 5
-  status: active
-
-- name: No Worries Film Productions
-  level: silver
-  pic: noworries
-  url: https://www.linkedin.com/in/stephan-prive-danser-704987a/
-  position: 9
-  status: active
-
-- name: Super Fan Factory
-  level: silver
-  pic: super-fan-factory
-  url: https://superfanfactory.nl/
-  position: 9
-  status: active
-
-- name: Asko Schoonmaak
-  level: silver
-  pic: asko-schoonmaak
-  url: https://asko-schoonmaak.nl/
-  position: 9
-  status: active
-
-- name: WinWinwerkt
-  level: silver
-  pic: winwinwerkt
-  url: https://www.winwinwerkt.nl/
-  position: 9
-  status: active
-
-- name: Meiancoaching
-  level: silver
-  pic: meiancoaching
-  url: http://www.meian.nl/
-  position: 9
-  status: active
-
-- name: Rotary Amstelveen
-  level: silver
-  pic: rotary-amstelveen
-  url: https://www.rotary.nl/amstelveen/
-  position: 9
-  status: active
-
-- name: Cinemjuze
-  level: silver
-  pic: cinemjuze
-  url: http://cinemjuze.nl/
-  position: 10
-  status: active
-
-- name: Jumpstart
-  level: gold
-  pic: jumpstart
-  url: http://www.jumpstart.nl/
-  position: 7
-  status: active
-
-- name: Gemeente Amstelveen
-  level: silver
-  pic: gemeente-amstelveen
-  url: https://www.amstelveen.nl/
-  position: 8
   status: inactive
-
-- name: Van Schouten
-  level: silver
-  pic: michel-van-schouten
-  url: http://www.van-schouten.nl/
-  position: 3
-  status: inactive
-
-- name: Lilian Plas
-  level: silver
-  pic: lilian-plas
-  url: https://www.lilianplas.com/
-  position: 9
-  status: active
-
-- name: Lady Giovin
-  level: silver
-  pic: ladygiovin
-  url: https://www.ladygiovin.nl/
-  position: 9
-  status: active
-
-- name: HP
-  level: silver
-  pic: hp
-  url: https://www.hp.nl/
-  position: 9
-  status: active
-
-- name: Robotwise
-  level: silver
-  pic: robotwise
-  url: https://www.robotwise.nl/
-  position: 9
-  status: active
