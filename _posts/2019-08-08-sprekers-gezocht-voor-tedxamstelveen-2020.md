@@ -40,7 +40,4 @@ Na ontvangst zullen we je aanmelding beoordelen en afwegen. Als jouw idee door d
 
 Benieuwd hoe het er in [2018](https://www.youtube.com/watch?v=O5ERrI1vyKQ) en [2019](https://www.youtube.com/watch?v=Etn6Bi4LISU) aan toe ging? Bekijk de aftermovie van afgelopen jaren.
 
-<div class="flex flex-column mb2 items-center super-big">
-<button class="ampstart-btn"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf7EhhZezL1VxaIhLz8vKaMvSxcBlDi4EQCYsu4HNtEQoyKSg/viewform" title="Inschrijven TEDxAmstelveen 2020">Schrijf je hier in!</a>
-</button>
-</div>
+Momenteel zijn de inschrijvingen voor 2020 gesloten.
