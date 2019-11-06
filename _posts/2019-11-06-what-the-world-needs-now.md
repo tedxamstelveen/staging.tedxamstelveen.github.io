@@ -2,7 +2,7 @@
 layout: post
 cover: assets/blog/what-the-world-needs-now.jpg
 title: Thema What the world needs NOW...
-date: 2019-11-07 00:00:00 +0000
+date: 2019-11-06 00:00:00 +0000
 tags:
 - '2020'
 - TEDxAmstelveen
@@ -25,6 +25,7 @@ Het antwoord hierop krijg je tijdens TEDxAmstelveen 2020 dat in
 het teken staat van het thema:
 
 <center>“What the world need NOW…”</center>
+
 
 TEDxAmstelveen zal je een dag inspireren zoals alleen TEDx dat
 kan, zet zondag 17 mei 2020 daarom snel in je agenda. Houd onze
