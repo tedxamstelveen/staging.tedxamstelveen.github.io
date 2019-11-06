@@ -89,6 +89,13 @@
   position: 99
   status: active
 
+- name: Karim Hashem
+  description:
+  url: /team/karim-hashem
+  pic: karim-hashem
+  position: 99
+  status: active
+
 - name: Marjolein Bronsvoort
   description:
   url: /team/marjolein-bronsvoort
