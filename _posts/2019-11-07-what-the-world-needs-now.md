@@ -1,7 +1,7 @@
 ---
 layout: post
-cover: assets/blog/sprekers-gezocht-voor-tedxamstelveen-2020.jpg
-title: What the world needs now
+cover: assets/blog/what-the-world-needs-now.jpg
+title: What the world needs NOW...
 date: 2019-08-08 00:00:00 +0000
 tags:
 - '2019'
