@@ -24,8 +24,7 @@ ontspanner, liever en gewoon een beetje mooier maken?
 Het antwoord hierop krijg je tijdens TEDxAmstelveen 2020 dat in
 het teken staat van het thema:
 
-<center>“What the world need NOW…”</center>
-
+“What the world need NOW…”
 
 TEDxAmstelveen zal je een dag inspireren zoals alleen TEDx dat
 kan, zet zondag 17 mei 2020 daarom snel in je agenda. Houd onze
