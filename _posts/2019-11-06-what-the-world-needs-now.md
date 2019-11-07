@@ -11,7 +11,7 @@ author: mettereitsma
 name: Mette Reitsma
 description: Hoe kunnen we nu onze wereld duurzamer, gezonder, effectiever,
 ontspanner, liever en gewoon een beetje mooier maken? Het antwoord hierop krijg je tijdens TEDxAmstelveen 2020 dat in
-het teken staat van het thema; What the world need NOW…
+het teken staat van het thema - What the world need NOW…
 height: 150
 width: 150
 assets:
