@@ -5,7 +5,7 @@ domain: TEDxAmstelveen
 description: TEDx Amstelveen - 2020 - 'What the world needs NOW…'
 datum: 17 mei
 
-cover: tedxamstelveen-what-the-world-needs-now-full.jpg
+cover: assets/cover/tedxamstelveen-what-the-world-needs-now-full.jpg
 #cover: assets/cover/tedxamstelveen-2019.mp4
 
 logo: assets/logos/TEDx_Amstelveen-logo.svg
