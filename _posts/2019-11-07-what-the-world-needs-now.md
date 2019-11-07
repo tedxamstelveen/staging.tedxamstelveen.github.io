@@ -4,9 +4,9 @@ cover: assets/blog/what-the-world-needs-now.jpg
 title: What the world needs NOW...
 date: 2019-11-07 00:00:00 +0000
 tags:
-- '2019'
+- '2020'
 - TEDxAmstelveen
-- sprekers
+- What_the_world_needs_now
 author: mettereitsma
 name: Mette Reitsma
 description: Hoe kunnen we nu onze wereld duurzamer, gezonder, effectiever, ontspanner, liever en gewoon een beetje mooier maken? Het antwoord hierop krijg je tijdens TEDxAmstelveen 2020 dat in het teken staat van het thema - What the world need NOW…
