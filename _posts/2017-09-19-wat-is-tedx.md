@@ -14,7 +14,7 @@ description: TED is een wereldwijde organisatie van vrijwilligers en partners di
 height: 150
 width: 150
 assets: assets/blog/placeholder.png
-hits: 99
+hits: ''
 redirect_from: "/2017/09/19/wat-is-tedx/"
 ---
 

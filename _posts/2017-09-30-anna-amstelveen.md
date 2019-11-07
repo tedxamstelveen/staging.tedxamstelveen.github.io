@@ -15,7 +15,7 @@ description: ANNA wordt de locatie voor onze eerste TEDxAmstelveen 2017. De voor
 height: 150
 width: 150
 assets: assets/blog/annakerk.jpg
-hits: 99
+hits: ''
 redirect_from: "/2017/09/30/anna-amstelveen/"
 ---
 

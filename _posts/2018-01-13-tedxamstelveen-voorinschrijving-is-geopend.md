@@ -16,7 +16,7 @@ description: Wil jij er graag bij zijn op 16 maart 2018? Door je nu in te schrij
 height: 150
 width: 150
 assets: assets/blog/tedxamstelveen-inschrijving.png
-hits: 99
+hits: ''
 redirect_from: "/2018/01/13/tedxamstelveen-voorinschrijving-is-geopend/"
 ---
 

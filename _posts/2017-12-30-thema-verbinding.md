@@ -14,7 +14,7 @@ description: Het thema voor TEDxAmstelveen 2018 is Verbinding. Hoe verbinden we 
 height: 150
 width: 150
 assets: assets/blog/thema-verbinding.png
-hits: 99
+hits: ''
 ---
 
 Het thema voor TEDxAmstelveen 2018 is **Verbinding**. Wat doen we om verbinding te maken met onszelf, naasten, collega’s en buren. Hoe verbinden we ons met de wereld om ons heen? Kennis overbrengen van docent naar leerling vraagt de juiste verbinding. Welke route kiezen we voor onze reis?

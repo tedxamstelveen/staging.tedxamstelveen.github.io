@@ -14,7 +14,7 @@ description: Hoe breng je ernstig maatschappelijke thema’s op een frisse manie
 height: 150
 width: 150
 assets: assets/sprekers/pim-giel.png
-hits: 99
+hits: ''
 redirect_from: "/2018/02/01/tedxamstelveen-presenteert-spreker-pim-giel/"
 ---
 

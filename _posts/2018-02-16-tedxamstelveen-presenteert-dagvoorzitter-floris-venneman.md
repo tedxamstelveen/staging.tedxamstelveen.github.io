@@ -15,7 +15,7 @@ description: Op 16 maart worden onze gasten welkom geheten door Floris Venneman.
 height: 150
 width: 150
 assets: assets/sprekers/floris-venneman.png
-hits: 99
+hits: ''
 ---
 
 Op 16 maart worden onze gasten welkom geheten door Floris Venneman. Hij neemt onze gasten mee in deze eerste TEDxAmstelveen ervaring.   

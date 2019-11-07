@@ -16,7 +16,7 @@ description: Rinie werkt als adviseur dyslexie en vreemde talen. Ze geeft cursus
 height: 150
 width: 150
 assets: assets/sprekers/rinie-hoeks.png
-hits: 99
+hits: ''
 redirect_from: "/2018/01/16/tedxamstelveen-presenteert-spreker-rinie-hoeks/"
 ---
 

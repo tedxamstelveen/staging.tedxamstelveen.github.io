@@ -18,7 +18,7 @@ description: Evi De Jean, zangeres en stemcoach, groeide op in Bermuda, Israël 
 height: 150
 width: 150
 assets:  
-hits: 4
+hits: ''
 redirect_from: "/2018/02/25/tedxamstelveen-presenteert-zangeres-evi-de-jean/"
 ---
 

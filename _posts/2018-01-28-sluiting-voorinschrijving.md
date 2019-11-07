@@ -15,7 +15,7 @@ description: De voorinschrijving is gesloten. We zijn blij met zoveel belangstel
 height: 150
 width: 150
 assets: assets/blog/tedxamstelveen-wachtlijst.jpg
-hits: 99
+hits: ''
 ---
 
 De voorinschrijving is gesloten. We zijn blij met zoveel belangstelling voor TEDxAmstelveen. Binnen een week hadden we al meer dan 100 inschrijvingen. Iedereen die zich heeft ingeschreven ontvangt binnenkort een persoonlijke e-mail waarmee een toegangskaart kan worden aangeschaft. Wil je er heel graag bij zijn op 16 maart dan kun je je registreren voor de wachtlijst. We nemen dan contact met je op als er een kaart vrijkomt.

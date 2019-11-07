@@ -17,8 +17,8 @@ description: Na het succes van de uitverkochte eerste editie in maart 2018 staat
   En daar kun jij als spreker aan bijdragen!
 height: 150
 width: 150
-assets: 
-hits: 1
+assets:
+hits: ''
 
 ---
 (inschrijvingen zijn gesloten)

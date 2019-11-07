@@ -15,7 +15,7 @@ description: Vincent Wever is hoofdredacteur van OV-Magazine, platform voor prof
 height: 150
 width: 150
 assets: assets/sprekers/vincent-wever.png
-hits: 99
+hits: ''
 redirect_from: "/2018/01/11/tedxamstelveen-presenteert-spreker-vincent-wever/"
 ---
 

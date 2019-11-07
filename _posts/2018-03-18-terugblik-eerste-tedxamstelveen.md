@@ -16,7 +16,7 @@ description: De eerste TEDxAmstelveen zit er op! Afgelopen vrijdag hebben 100 be
 height: 150
 width: 150
 assets:  
-hits: 1
+hits: ''
 redirect_from: "/2018/03/18/terugblik-eerste-tedxamstelveen/"
 ---
 

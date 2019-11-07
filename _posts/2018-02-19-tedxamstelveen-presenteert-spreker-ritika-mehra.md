@@ -17,7 +17,7 @@ description: Wisten jullie dat er ruim 4000 mensen met Indiase afkomst in Amstel
 height: 150
 width: 150
 assets: assets/sprekers/ritika-mehra.png
-hits: 99
+hits: ''
 redirect_from: "/2018/02/19/tedxamstelveen-presenteert-spreker-ritika-mehra/"
 ---
 

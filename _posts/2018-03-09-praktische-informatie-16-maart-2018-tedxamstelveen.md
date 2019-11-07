@@ -16,7 +16,7 @@ description: Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We 
 height: 150
 width: 150
 assets:  
-hits: 3
+hits: ''
 ---
 
 Over een week is het zover, tijd voor de eerste TEDxAmstelveen. We zijn compleet uitverkocht. Het heeft geen zin om naar de ANNA te komen zonder geldig toegangsbewijs.

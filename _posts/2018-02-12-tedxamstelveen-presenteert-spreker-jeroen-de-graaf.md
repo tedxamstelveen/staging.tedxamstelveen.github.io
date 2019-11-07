@@ -14,7 +14,7 @@ description: Wat we niet weten, kunnen we ook niet zien. Lichaamstaal of ook wel
 height: 150
 width: 150
 assets: assets/sprekers/jeroen-de-graaf.png
-hits: 99
+hits: ''
 redirect_from: "/2018/02/12/tedxamstelveen-presenteert-spreker-jeroen-de-graaf/"
 ---
 

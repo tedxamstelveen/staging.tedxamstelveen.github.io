@@ -17,7 +17,7 @@ description: Na het succes van een uitverkochte tweede editie in april 2019 staa
 height: 150
 width: 150
 assets:
-hits: 1
+hits: ''
 
 ---
 Na twee succesvolle edities staat TEDx in Amstelveen definitief op de kaart. De organisatie is inmiddels begonnen met de organisatie van een volgende editie die gepland is op zondag 17 mei 2020. Het plan is om het evenement naar een nóg hoger niveau te tillen. TEDxAmstelveen 2020 wordt niet alleen groter namelijk voor 500 bezoekers, maar vooral ook grootser qua inhoud. En daar kun jij als spreker aan bijdragen! Het succes van elk TEDx event valt of staat namelijk met inspirerende TED talks. Die zullen we dan ook zeer streng en zorgvuldig selecteren. Hierbij letten we onder meer op originaliteit, actualiteit en relevantie. We willen ook graag een lokaal podium zijn dus willen vooral sprekers uit Amstelveen, Aalsmeer, Ouderkerk en Uithoorn oproepen om deze kans te grijpen.

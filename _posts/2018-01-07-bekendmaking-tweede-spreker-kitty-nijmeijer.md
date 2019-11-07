@@ -15,7 +15,7 @@ description: Ze was eerder al te gast bij de DWDD en bij de Universiteit van Ned
 height: 150
 width: 150
 assets: assets/sprekers/kitty-nijmeijer.png
-hits: 99
+hits: ''
 redirect_from: "/2018/01/07/bekendmaking-tweede-spreker-kitty-nijmeijer/"
 ---
 

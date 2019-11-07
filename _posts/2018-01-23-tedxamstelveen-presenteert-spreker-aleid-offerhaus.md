@@ -14,7 +14,7 @@ description: Aleid Offerhaus is gecertificeerd natuurgids en geeft rondleidingen
 height: 150
 width: 150
 assets: assets/sprekers/aleid-offerhaus.png
-hits: 99
+hits: ''
 redirect_from: "/2018/01/23/tedxamstelveen-presenteert-spreker-aleid-offerhaus/"
 ---
 

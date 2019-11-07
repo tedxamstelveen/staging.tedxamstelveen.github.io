@@ -14,7 +14,7 @@ description: Om het evenement toegankelijk en laagdrempelig te houden doen we ee
 height: 150
 width: 150
 assets: assets/blog/partners-gezocht.png
-hits: 99
+hits: ''
 ---
 
 Om het evenement toegankelijk en laagdrempelig te houden doen we een beroep op sponsoren om ons evenement kostendekkend uit te voeren. We zoeken zoveel mogelijk naar sponsoren in Amstelveen of met een verbinding met Amstelveen.

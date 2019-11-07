@@ -14,7 +14,7 @@ description: Vorige week is de kaartverkoop gestart voor iedereen die zich van t
 height: 150
 width: 150
 assets: assets/blog/tedxamstelveen-uitverkocht.jpg
-hits: 99
+hits: ''
 
 ---
 
