@@ -883,10 +883,10 @@ hr:after{
   font-size: x-large
 }
 
-.ampstart-headerbar header {
+header.ampstart-headerbar  {
   border-bottom: 10px $tedx-color solid;
 }
 
-.ampstart-headerbar footer {
+footer.ampstart-headerbar {
   border-top: 10px $tedx-color solid;
 }
