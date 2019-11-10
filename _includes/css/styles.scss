@@ -3,7 +3,7 @@
 
 $grey-color:  #828282;
 $theme-color: #000000;
-$tedx-color:  #e62b1e;
+$tedx-color:  $tedx-color;
 
 .icon {
 
@@ -872,14 +872,14 @@ hr:after{
   position: absolute;
   right: 80px;
   width: 275px;
-  border: 2px solid #e62b1e;
+  border: 2px solid $tedx-color;
   padding: 5px;
   margin-top: 50px;
   background: #000
 }
 
 .redx {
-  color: #e62b1e;
+  color: $tedx-color;
   font-size: x-large
 }
 
