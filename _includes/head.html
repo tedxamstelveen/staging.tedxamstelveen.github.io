@@ -7,7 +7,7 @@
   <link rel="manifest" href="{{ site.url }}/manifest.json">
   <link rel="shortcut icon" href="{{ site.url }}/{{ site.favicon }}" type="image/png" />
 
-  <title>{% if page.intro %}{{ page.intro | escape }}{% else %}{{ site.intro | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.intro | escape }}{% endif %}</title>
 
   <meta name="description" content="{% if page.description %}{{ page.description | truncate: 320 }}{% else %}{{ site.description | truncate: 320 }}{% endif %}">
   <meta name="theme-color" content="#000000">
