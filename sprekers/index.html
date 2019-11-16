@@ -1,9 +1,9 @@
 ---
 layout: page-video
-video: assets/sprekers/social/tedxamstelveen-sprekers-2019-1.mp4
-social: assets/sprekers/social/tedxamstelveen-sprekers-2019-1.gif
-title: Sprekers TEDxAmstelveen 2019
-description: TEDxAmstelveen sprekers 2019. Tijs Koedam, Hans van Tellingen, Hilde Latour, Karen Hamaker Zondag, Margo Rijerkerk, Marieke Lips, Niels van Buren, Nissrine Aissati, Sabine Pinedo.
+#video: assets/sprekers/social/tedxamstelveen-sprekers-2019-1.mp4
+#social: assets/sprekers/social/tedxamstelveen-sprekers-2019-1.gif
+title: Sprekers TEDxAmstelveen 2020
+description: TEDxAmstelveen sprekers 2020.
 comments: false
 permalink: /sprekers/
 nav: sprekers
@@ -11,7 +11,7 @@ nav: sprekers
 
 <div class="card-container">
   {% for member in site.data.sprekers %}
-    {% if member.status == 'active' and member.year == '2019' %}
+    {% if member.status == 'active' and member.year == '2020' %}
     <div class="author-section mb4">
       <a title="{{ member.name }}" href="{{ member.url }}">
         <amp-img src="{{ site.url }}/assets/sprekers/{{ member.pic }}.jpg" width="100" height="100" layout="responsive" alt="{{ member.name }}" class="author-thumb-post"></amp-img>
