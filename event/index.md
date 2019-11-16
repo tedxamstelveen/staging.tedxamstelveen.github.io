@@ -7,21 +7,21 @@ permalink: "/event/"
 nav: event
 
 ---
-Op 17 mei 2020 vindt de derde editie van <span class="redx">TEDxAmstelveen</span> plaats.
+Op 17 mei 2020 vindt de derde editie van <span class="redx">TEDxAmstelveen</span> plaats. 
 
+We zijn ongelooflijk enthousiast en trots om te kunnen melden dat we, nadat we dit jaar gebruik maakten van de Kleine Zaal, komend jaar naar de Grote Zaal van de Schouwburg Amstelveen zullen gaan. Na een snel uitverkochte editie in 2019 kunnen we nu plaats bieden aan nog meer TEDx-fans.
 
-We zijn ongelooflijk enthousiast en trots om te kunnen melden dat we, nadat we dit jaar gebruik maakte van de Kleine Zaal, komend jaar naar de Grote Zaal van de Schouwburg Amstelveen zullen gaan. Na een snel uitverkochte editie in 2019 kunnen we nu plaats bieden aan nog meer TedX-fans.
-
-Op dit moment zijn we alweer druk bezig om voor de derde editie een sprankelend en actief programma samen te stellen. De eerste aspirant sprekers hebben zich inmiddels aangemeld en een selectie daarvan heeft een uitnodiging ontvangen om hun Idea Worth Sharing te presenteren middels een 3-minuten pitch. Eind november krijgen de gekozen sprekers te horen dat ze op de Rode Stip mogen en zullen zij onder begeleiding van een team van sprekerscoaches gaan werken om hun Talk klaar te hebben voor het podium. En dit alles onder het gekozen thema  **‘What the World needs now...’**.
+Op dit moment zijn we alweer druk bezig om voor de derde editie een sprankelend en actief programma samen te stellen. In januari zullen we de eerste sprekers voor 2020 bekend gaan maken.
 
 Bezoekers zullen niet alleen geïnspireerd worden met woorden, maar er zal er ook muziek, zang en dans op het programma staan. We zijn op zoek naar prachtige artiesten, die Amstelveen op bijzondere wijze zullen vertegenwoordigen.
 
 Nog even wat praktische informatie op een rij:
 
 * Datum: <span class="redx">Zondag 17 mei 2020</span>
-* Tijdstip: volgt zo snel mogelijk
+* Kaartverkoop start op 18 november 2019
+* Tijdstip: 11:00-17:00
 * Lokatie: Schouwburg Amstelveen, Stadsplein 100
-* TEDTalks: Nederlands en Engels (Only a small part of the TEDxTalks will be in English)
+* TEDxTalks in het Nederlands en Engels (Only a small part of the TEDxTalks will be in English)
 * Informatie: hallo@tedxamstelveen.com
 
 Een middag <span class="redx">"ideas worth spreading!"</span>

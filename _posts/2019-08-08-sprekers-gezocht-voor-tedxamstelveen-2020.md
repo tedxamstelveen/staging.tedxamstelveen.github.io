@@ -1,25 +1,27 @@
 ---
 layout: post
 cover: assets/blog/sprekers-gezocht-voor-tedxamstelveen-2020.jpg
-title: Sprekers gezocht voor TEDxAmstelveen 2020
-date: 2019-08-08 00:00:00 +0000
+title: Sprekers gezocht voor TEDxAmstelveen 2020-GESLOTEN
+date: 2019-08-08T00:00:00.000+00:00
 tags:
 - '2019'
 - TEDxAmstelveen
 - sprekers
 author: mettereitsma
 name: Mette Reitsma
-description: Na het succes van een uitverkochte tweede editie in april 2019 staat Amstelveen
-  definitief op de TEDx kaart. De organisatie voor het vervolg in 2020 is al in volle
-  gang en wij zijn ervan overtuigd dat we de volgende editie naar een nóg hoger niveau
-  kunnen tillen. TEDxAmstelveen 2020 wordt niet alleen groter, maar vooral ook grootser.
-  En daar kun jij als spreker aan bijdragen!
-height: 150
-width: 150
-assets:
+description: Na het succes van een uitverkochte tweede editie in april 2019 staat
+  Amstelveen definitief op de TEDx kaart. De organisatie voor het vervolg in 2020
+  is al in volle gang en wij zijn ervan overtuigd dat we de volgende editie naar een
+  nóg hoger niveau kunnen tillen. TEDxAmstelveen 2020 wordt niet alleen groter, maar
+  vooral ook grootser. En daar kun jij als spreker aan bijdragen!
+height: "150"
+width: "150"
+assets: 
 hits: ''
 
 ---
+UPDATE: De inschrijvingen voor 2020 zijn inmiddels gesloten
+
 Na twee succesvolle edities staat TEDx in Amstelveen definitief op de kaart. De organisatie is inmiddels begonnen met de organisatie van een volgende editie die gepland is op zondag 17 mei 2020. Het plan is om het evenement naar een nóg hoger niveau te tillen. TEDxAmstelveen 2020 wordt niet alleen groter namelijk voor 500 bezoekers, maar vooral ook grootser qua inhoud. En daar kun jij als spreker aan bijdragen! Het succes van elk TEDx event valt of staat namelijk met inspirerende TED talks. Die zullen we dan ook zeer streng en zorgvuldig selecteren. Hierbij letten we onder meer op originaliteit, actualiteit en relevantie. We willen ook graag een lokaal podium zijn dus willen vooral sprekers uit Amstelveen, Aalsmeer, Ouderkerk en Uithoorn oproepen om deze kans te grijpen.
 
 ### Wat is een TED talk?
