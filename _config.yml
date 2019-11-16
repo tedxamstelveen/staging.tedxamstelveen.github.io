@@ -27,8 +27,8 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 # Bestellen
 form: http://bit.ly/TEDxAmstelveen-2020
-formlogo: assets/blog/TEDx_Bestel.svg
-fromtitle: Bestel
+formlogo: assets/blog/TEDx_2020_Tickets.svg
+fromtitle: TEDxAmstelveen 2020 Tickets
 
 # Wachtlijst
 #form: https://goo.gl/u568Vk
