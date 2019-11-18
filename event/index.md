@@ -7,7 +7,7 @@ permalink: "/event/"
 nav: event
 
 ---
-Op 17 mei 2020 vindt de derde editie van <span class="redx">TEDxAmstelveen</span> plaats. 
+Op 17 mei 2020 vindt de derde editie van <span class="redx">TEDxAmstelveen</span> plaats.
 
 We zijn ongelooflijk enthousiast en trots om te kunnen melden dat we, nadat we dit jaar gebruik maakten van de Kleine Zaal, komend jaar naar de Grote Zaal van de Schouwburg Amstelveen zullen gaan. Na een snel uitverkochte editie in 2019 kunnen we nu plaats bieden aan nog meer TEDx-fans.
 
@@ -25,6 +25,13 @@ Nog even wat praktische informatie op een rij:
 * Informatie: hallo@tedxamstelveen.com
 
 Een middag <span class="redx">"ideas worth spreading!"</span>
+
+Prijzen: 
+
+* Normaal ticket 44,25 euro (Early Bird korting van 5 euro)
+* Scholieren/studenten 26,75 euro (15-25 jaar)
+* Houders Amstelveenpas 26,75 euro
+* Transactiekosten 1,75 per transactie. Maximaal 4 tickets per transactie.
 
 **HUISREGELS** <span class="redx">TEDxAmstelveen</span> **2020**
 
