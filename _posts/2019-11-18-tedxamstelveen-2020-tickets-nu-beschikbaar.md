@@ -17,8 +17,8 @@ assets:
 hits: ''
 
 ---
-Vanaf vandaag is de kaartverkoop voor **TEDxAmstelveen 2020** - "What the world need NOW…" gestart. Snelle beslissers kunnen de eerste twee weken gebruik maken van een aantrekkelijke <span class="redx">"Early bird</span> aanbieding. In januari 2020 zullen de eerste sprekers bekend gemaakt gaan worden, maar we kunnen nu al verklappen dat ze erg goed zijn. Na twee uitverkochte edities zitten we dit jaar in de grote zaal zodat we nog meer ruimte kunnen bieden aan alle TEDx fans.
+Vanaf vandaag is de kaartverkoop voor **TEDxAmstelveen 2020** - "What the world need NOW…" gestart. Snelle beslissers kunnen de eerste twee weken gebruik maken van een aantrekkelijke <span class="redx">Early bird</span> aanbieding. In januari 2020 zullen de eerste sprekers bekend gemaakt gaan worden, maar we kunnen nu al verklappen dat ze erg goed zijn. Na twee uitverkochte edities zitten we dit jaar in de grote zaal zodat we nog meer ruimte kunnen bieden aan alle TEDx fans.
 
 Omdat we op zoek zijn naar een zo gevarieerd mogelijk publiek hebben we korting speciaal voor scholieren en studenten tussen de 15 en 25 jaar en voor houders van een [Amstelveenpas](https://amstelveenpas.nl/)
 
-Dus ben jij nieuwsgierig en leergierig koop dan nu [hier](http://bit.ly/TEDxAmstelveen-2020) een kaartje voor **TEDxAmstelveen 2020**!
+Dus ben jij nieuwsgierig en leergierig koop dan nu <span class="redx">[hier](http://bit.ly/TEDxAmstelveen-2020)</span> een kaartje voor **TEDxAmstelveen 2020**!
