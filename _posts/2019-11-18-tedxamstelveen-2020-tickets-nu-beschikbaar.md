@@ -10,8 +10,8 @@ tags:
 - Amstelveenpas
 author: mettereitsma
 name: Mette Reitsma
-description: Vanaf vandaag is de kaartverkoop voor TEDxAmstelveen 2020 - "What the
-  world need NOW…" gestart. Snelle beslissers kunnen de eerste twee weken gebruik
+description: Vanaf vandaag is de kaartverkoop voor TEDxAmstelveen 2020 - What the
+  world need NOW… gestart. Snelle beslissers kunnen de eerste twee weken gebruik
   maken van een aantrekkelijke Early bird aanbieding.
 height: "150"
 width: "150"
