@@ -11,10 +11,11 @@ before_install:
 #  - chmod +x ./script/cibuild
   - npm install -g @lhci/cli@0.3.x # install LHCI
 #  - echo $LHCI_GITHUB_APP_TOKEN
-#install:
+install:
+  - true
 #  - bundle install
-script:
-  - npm test
+#script:
+#  - npm test
 #  - ./script/cibuild
 after_success:
 #  - lhci autorun --upload.target=temporary-public-storage # run lighthouse CI against your static site
