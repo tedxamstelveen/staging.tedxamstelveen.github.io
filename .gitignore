@@ -46,3 +46,4 @@ _config-dev.yml
 .travis.yml.old
 lhci
 heroku
+.lighthouseci
