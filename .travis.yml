@@ -13,8 +13,8 @@ before_install:
 #  - echo $LHCI_GITHUB_APP_TOKEN
 #install:
 #  - bundle install
-#script:
+script:
 #  - ./script/cibuild
-after_success:
+#after_success:
 #  - lhci autorun --upload.target=temporary-public-storage # run lighthouse CI against your static site
   - lhci autorun
