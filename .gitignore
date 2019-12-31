@@ -43,3 +43,6 @@ amp.html
 docker-compose.yml
 _config-dev.yml
 .sass-cache
+.travis.yml.old
+lhci
+heroku

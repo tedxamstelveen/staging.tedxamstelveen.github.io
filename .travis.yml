@@ -1,25 +1,20 @@
-language: java
-sudo: required
-jdk:
-  - oraclejdk8
-
-branches:
-  only:
-  - master
-
-install:
-  - pip install --user html5validator
-
-before_script:
- -  chmod +x ./assets/dev/build
-
-script:
-  - ./assets/dev/build
-  - html5validator --root _site/ --log DEBUG --ignore-re '⚡' 'custom-element' 'amp-boilerplate' 'amp-custom' 'on'
-
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-
+  language:
+  - node_js # Node 10 LTS or later required
+#  - ruby
+#rvm:
+#  - 2.6.3
+node_js:
+  - '10'
+addons:
+  chrome: stable # make Chrome available
 before_install:
-  - sudo update-ca-certificates
+#  - chmod +x ./script/cibuild
+  - npm install -g @lhci/cli@0.3.x # install LHCI
+#  - echo $LHCI_GITHUB_APP_TOKEN
+#install:
+#  - bundle install
+#script:
+#  - ./script/cibuild
+after_success:
+#  - lhci autorun --upload.target=temporary-public-storage # run lighthouse CI against your static site
+  - lhci autorun
