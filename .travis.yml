@@ -14,7 +14,8 @@ before_install:
 #install:
 #  - bundle install
 script:
+  - npm test
 #  - ./script/cibuild
-#after_success:
+after_success:
 #  - lhci autorun --upload.target=temporary-public-storage # run lighthouse CI against your static site
   - lhci autorun
