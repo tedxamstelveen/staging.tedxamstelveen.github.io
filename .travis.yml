@@ -1,21 +1,13 @@
 language:
   - node_js # Node 10 LTS or later required
-#  - ruby
-#rvm:
-#  - 2.6.3
 node_js:
   - '10'
 addons:
   chrome: stable # make Chrome available
 before_install:
-#  - chmod +x ./script/cibuild
   - npm install -g @lhci/cli@0.3.x # install LHCI
-#  - echo $LHCI_GITHUB_APP_TOKEN
-#install:
-#  - bundle install
 script:
-  - echo "Notice - no test specified" 
-#  - ./script/cibuild
+  - echo "Notice - no test specified" # skip 'npm test' and run LHCI
 after_success:
 #  - lhci autorun --upload.target=temporary-public-storage # run lighthouse CI against your static site
   - lhci autorun
