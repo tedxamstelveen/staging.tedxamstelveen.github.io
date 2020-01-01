@@ -168,3 +168,12 @@
   year: '2019'
   video:
   status: active
+
+- name: Piet Sprengers
+  description: Piet Sprengers
+  url: "/sprekers/piet-sprengers/"
+  pic: piet-sprengers
+  social: piet-sprengers
+  year: '2020'
+  video:
+  status: active
