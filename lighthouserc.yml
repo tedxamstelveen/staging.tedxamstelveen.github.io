@@ -4,14 +4,6 @@ ci:
     additive: true
     url:
       - https://tedxamstelveen.com/
-      - https://tedxamstelveen.com/partners/
-      - https://tedxamstelveen.com/sprekers/
-      - https://tedxamstelveen.com/team/
-      - https://tedxamstelveen.com/team/mette-reitsma/
-      - https://tedxamstelveen.com/event/
-      - https://tedxamstelveen.com/sprekers/roy-groot/
-      - https://tedxamstelveen.com/wat-is-tedx/
-      - https://tedxamstelveen.com/about-ted/
   assert:
     lighthouse: all
     assertions:
