@@ -1,4 +1,4 @@
-  language:
+language:
   - node_js # Node 10 LTS or later required
 #  - ruby
 #rvm:
