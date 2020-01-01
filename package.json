@@ -1,0 +1,15 @@
+{
+  "name": "TEDxAmstelveen",
+  "version": "1.0.0",
+  "description": "TEDxAmstelveen",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedxamstelveen/tedxamstelveen.github.io.git"
+  },
+  "author": "Ray Bogman",
+  "license": "MIT"
+}
