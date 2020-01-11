@@ -1,8 +1,6 @@
-{% for member in site.data.sprekers %}
-  {% if member.year == '2020' %}
-    <p>Klik hieronder om jouw vrienden te vertellen dat deze spreker op {{ site.datum }} op TEDxAmstelveen staat:</p>
-    <div class="ampstart-social-box mb4">
-      {% include social-share.html %}
-    </div>
-  {% endif %}
-{% endfor %}
+{% if site.data.sprekers[year] == '2020' %}
+  <p>Klik hieronder om jouw vrienden te vertellen dat deze spreker op {{ site.datum }} op TEDxAmstelveen staat:</p>
+{% endif %}
+<div class="ampstart-social-box mb4">
+  {% include social-share.html %}
+</div>
