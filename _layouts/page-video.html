@@ -28,12 +28,7 @@ layout: default
         {% include social-facebook.html %}
         {% include social-twitter.html %}
         {% include social-website.html %}
-        {% if page.nav == 'members' %}
-        <p>Klik hieronder om jouw vrienden te vertellen dat deze spreker op {{ site.datum }} op TEDxAmstelveen staat:</p>
-        <div class="ampstart-social-box mb4">
-          {% include social-share.html %}
-        </div>
-        {% endif %}
+        {% include social-date.html %}
         {% include tedx-youtube-video.html %}
     </section>
   </article>
