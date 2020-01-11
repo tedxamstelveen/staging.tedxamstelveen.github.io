@@ -177,3 +177,111 @@
   year: '2020'
   video:
   status: active
+
+- name: Arnold van Woerkom
+  description: Arnold van Woerkom
+  url: "/sprekers/arnold-van-woerkom/"
+  pic: arnold-van-woerkom
+  social: arnold-van-woerkom
+  year: '2020'
+  video:
+  status: active
+
+- name: Mariëlle Vermeulen
+  description: Mariëlle Vermeulen
+  url: "/sprekers/marielle-vermeulen/"
+  pic: marielle-vermeulen
+  social: marielle-vermeulen
+  year: '2020'
+  video:
+  status: active
+
+- name: Tim Kanis
+  description: Tim Kanis
+  url: "/sprekers/tim-kanis/"
+  pic: tim-kanis
+  social: tim-kanis
+  year: '2020'
+  video:
+  status: inactive
+
+- name: Joost Baltussen
+  description: Joost Baltussen
+  url: "/sprekers/joost-baltussen/"
+  pic: joost-baltussen
+  social: joost-baltussen
+  year: '2020'
+  video:
+  status: inactive
+
+- name: Tania Mulder
+  description: Tania Mulder
+  url: "/sprekers/tania-mulder/"
+  pic: tania-mulder
+  social: tania-mulder
+  year: '2020'
+  video:
+  status: inactive
+
+- name: Jeannette den Boer
+  description: Jeannette den Boer
+  url: "/sprekers/jeannette-den-boer/"
+  pic: jeannette-den-boer
+  social: jeannette-den-boer
+  year: '2020'
+  video:
+  status: inactive
+
+- name: Peter Vink
+  description: Prof. Dr. Peter Vink
+  url: "/sprekers/peter-vink/"
+  pic: peter-vink
+  social: peter-vink
+  year: '2020'
+  video:
+  status: inactive
+
+- name: Pauline de Wilde
+  description: Pauline de Wilde
+  url: "/sprekers/pauline-de-wilde/"
+  pic: pauline-de-wilde
+  social: pauline-de-wilde
+  year: '2020'
+  video:
+  status: inactive
+
+- name: Melissa Goudswaard
+  description: Melissa Goudswaard
+  url: "/sprekers/melissa-goudswaard/"
+  pic: melissa-goudswaard
+  social: melissa-goudswaard
+  year: '2020'
+  video:
+  status: inactive
+
+- name: Herman Chow
+  description: Herman Chow
+  url: "/sprekers/herman-chow/"
+  pic: herman-chow
+  social: herman-chow
+  year: '2020'
+  video:
+  status: inactive
+
+- name: David Gardenier
+  description: David Gardenier
+  url: "/sprekers/david-gardenier/"
+  pic: david-gardenier
+  social: david-gardenier
+  year: '2020'
+  video:
+  status: inactive
+
+- name: Daniel Zijl
+  description: Daniel Zijl
+  url: "/sprekers/daniel-zijl/"
+  pic: daniel-zijl
+  social: daniel-zijl
+  year: '2020'
+  video:
+  status: inactive
