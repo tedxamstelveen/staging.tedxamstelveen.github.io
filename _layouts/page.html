@@ -36,7 +36,7 @@ layout: default
         {% include social-twitter.html %}
         {% include social-website.html %}
 
-        {% if page.banner == 'yes' %}
+        {% if page.banner != null %}
           <p>Klik hieronder om jouw vrienden te vertellen dat deze spreker op {{ site.datum }} op TEDxAmstelveen staat:</p>
         {% endif %}
 
