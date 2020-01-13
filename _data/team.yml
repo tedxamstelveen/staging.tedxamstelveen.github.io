@@ -89,6 +89,13 @@
   position: 99
   status: active
 
+- name: Sonja Meskanen
+  description:
+  url: /team/sonja-meskanen
+  pic: sonja-meskanen
+  position: 99
+  status: active
+
 - name: Karim Hashem
   description:
   url: /team/karim-hashem
