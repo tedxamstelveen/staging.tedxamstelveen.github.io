@@ -17,3 +17,4 @@ assets4: ''
 hits: 
 
 ---
+Afgelopen week is de eerste spreker bekend gemaakt die op 17 mei op de rode stip zal staan. Het gaat om Piet Sprengers, hoofd Duurzaamheid bij de ASN Bank die ons iets gaat vertellen over het maken van duurzame keuzes. Komende weken zullen we langzaam alle 13 sprekers bekend gaan maken. Man en vrouw, jong en oud, van dichtbij en ver weg, hoog opgeleid en uit de praktijk, kortom zo veel mogelijk diversiteit. 
