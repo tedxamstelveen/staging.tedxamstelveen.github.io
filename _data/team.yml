@@ -124,7 +124,7 @@
   url: "/team/maarten-oosterhoff"
   pic: maarten-oosterhoff
   position: "99"
-  status: active
+  status: inactive
 - name: Edward Stronach Hardy
   description: Sprekerscoach
   url: "/team/edward-stronach-hardy"
