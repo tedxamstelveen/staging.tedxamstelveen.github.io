@@ -1,174 +1,151 @@
+---
 - name: Mette Reitsma
   description: Initiator en teammanager
-  url: /team/mette-reitsma
+  url: "/team/mette-reitsma"
   pic: mette-reitsma
-  position: 1
+  position: "1"
   status: active
-
 - name: Anouk Boering
   description: Sprekerscoach
-  url: /team/anouk-boering
+  url: "/team/anouk-boering"
   pic: anouk-boering
-  position: 2
+  position: "2"
   status: active
-
 - name: Ray Bogman
   description: Tech Lead
-  url: /team/ray-bogman
+  url: "/team/ray-bogman"
   pic: ray-bogman
-  position: 3
+  position: "3"
   status: active
-
 - name: Mandy Phoa
   description: Sprekerscoach
-  url: /team/mandy-phoa
+  url: "/team/mandy-phoa"
   pic: mandy-phoa
-  position: 4
+  position: "4"
   status: active
-
 - name: Jan Koers
   description: Sprekerscoach
-  url: /team/jan-koers
+  url: "/team/jan-koers"
   pic: jan-koers
-  position: 5
+  position: "5"
   status: active
-
 - name: Jennifer van Balkom
   description: Sprekerscoach
-  url: /team/jennifer-van-balkom
+  url: "/team/jennifer-van-balkom"
   pic: jennifer-van-balkom
-  position: 9
+  position: "9"
   status: active
-
 - name: Bas Koppelman
   description: Adviseur en voorzitter bestuur
-  url: /team/bas-koppelman
+  url: "/team/bas-koppelman"
   pic: bas-koppelman
-  position: 10
+  position: "10"
   status: active
-
 - name: Marianne van der Meer
   description: Bestuurslid
-  url: /team/marianne-van-der-meer
+  url: "/team/marianne-van-der-meer"
   pic: marianne-van-der-meer
-  position: 11
+  position: "11"
   status: active
-
 - name: Michiel Bloem
   description: Sprekerscoach
-  url: /team/michiel-bloem
+  url: "/team/michiel-bloem"
   pic: michiel-bloem
-  position: 12
+  position: "12"
   status: active
-
 - name: Stephan Danser
-  description:
-  url: /team/stephan-danser
+  description: 
+  url: "/team/stephan-danser"
   pic: stephan-danser
-  position: 13
+  position: "13"
   status: active
-
 - name: Manolo Barten
-  description:
-  url: /team/manolo-barten
+  description: 
+  url: "/team/manolo-barten"
   pic: manolo-barten
-  position: 14
+  position: "14"
   status: active
-
 - name: Bas de Haan
-  description:
-  url: /team/bas-de-haan
+  description: 
+  url: "/team/bas-de-haan"
   pic: bas-de-haan
-  position: 99
+  position: "99"
   status: active
-
 - name: Michelle van der Meer
-  description:
-  url: /team/michelle-van-der-meer
+  description: 
+  url: "/team/michelle-van-der-meer"
   pic: michelle-van-der-meer
-  position: 99
+  position: "99"
   status: active
-
 - name: Sonja Meskanen
-  description:
-  url: /team/sonja-meskanen
+  description: 
+  url: "/team/sonja-meskanen"
   pic: sonja-meskanen
-  position: 99
+  position: "99"
   status: active
-
 - name: Karim Hashem
-  description:
-  url: /team/karim-hashem
+  description: 
+  url: "/team/karim-hashem"
   pic: karim-hashem
-  position: 99
+  position: "99"
   status: active
-
 - name: Marjolein Bronsvoort
-  description:
-  url: /team/marjolein-bronsvoort
+  description: 
+  url: "/team/marjolein-bronsvoort"
   pic: marjolein-bronsvoort
-  position: 99
-  status: active
-
+  position: "99"
+  status: inactive
 - name: Margot Snelders
-  description:
-  url: /team/margot-snelders
+  description: 
+  url: "/team/margot-snelders"
   pic: margot-snelders
-  position: 18
+  position: "18"
   status: active
-
 - name: Jacobien Vermande
-  description:
-  url: /team/jacobien-vermande
+  description: 
+  url: "/team/jacobien-vermande"
   pic: jacobien-vermande
-  position: 19
+  position: "19"
   status: active
-
 - name: Merel Funke
   description: Event planner
-  url: /team/merel-funke
+  url: "/team/merel-funke"
   pic: merel-funke
-  position: 99
+  position: "99"
   status: active
-
 - name: Ollie Vrijmoed
   description: Marketing & Communicatie Manager
-  url: /team/ollie-vrijmoed
+  url: "/team/ollie-vrijmoed"
   pic: ollie-vrijmoed
-  position: 99
+  position: "99"
   status: active
-
 - name: Maarten Oosterhoff
   description: Sprekerscoach
-  url: /team/maarten-oosterhoff
+  url: "/team/maarten-oosterhoff"
   pic: maarten-oosterhoff
-  position: 99
+  position: "99"
   status: active
-
 - name: Edward Stronach Hardy
   description: Sprekerscoach
-  url: /team/edward-stronach-hardy
+  url: "/team/edward-stronach-hardy"
   pic: edward-stronach-hardy
-  position: 99
+  position: "99"
   status: active
-
 - name: Niels Verhaest
   description: Copywriter
-  url: /team/niels-verhaest
+  url: "/team/niels-verhaest"
   pic: niels-verhaest
-  position: 99
+  position: "99"
   status: inactive
-
 - name: Yigael van der Hoeven
-  description:
-  url: /team/yigael-van-der-hoeven
+  description: 
+  url: "/team/yigael-van-der-hoeven"
   pic: yigael-van-der-hoeven
-  position: 99
+  position: "99"
   status: inactive
-
 - name: Amber Wiznitzer
-  description:
-  url: /team/amber-wiznitzer
+  description: 
+  url: "/team/amber-wiznitzer"
   pic: amber-wiznitzer
-  position: 20
+  position: "20"
   status: inactive
