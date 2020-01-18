@@ -39,7 +39,7 @@
   description: Adviseur en voorzitter bestuur
   url: "/team/bas-koppelman"
   pic: bas-koppelman
-  position: "99"
+  position: "98"
   status: active
 - name: Marianne van der Meer
   description: Bestuurslid
@@ -81,7 +81,7 @@
   description: 
   url: "/team/sonja-meskanen"
   pic: sonja-meskanen
-  position: "99"
+  position: "20"
   status: active
 - name: Karim Hashem
   description: 
