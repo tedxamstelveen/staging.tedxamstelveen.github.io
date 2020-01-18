@@ -130,7 +130,7 @@
   url: "/team/edward-stronach-hardy"
   pic: edward-stronach-hardy
   position: "99"
-  status: active
+  status: inactive
 - name: Niels Verhaest
   description: Copywriter
   url: "/team/niels-verhaest"
