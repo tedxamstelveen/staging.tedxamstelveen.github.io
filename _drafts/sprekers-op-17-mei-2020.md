@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: ''
-title: Bekendmaking sprekers die 17 mei 2020 op rode stip zullen staan.
+title: Bekendmaking sprekers die 17 mei 2020 op rode stip zullen staan
 date: 2020-01-27 23:00:00 +0000
 tags: []
 author: Mette Reitsma
