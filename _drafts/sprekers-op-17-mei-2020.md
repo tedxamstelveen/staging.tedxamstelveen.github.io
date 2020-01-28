@@ -24,8 +24,7 @@ Afgelopen weken zijn de eerste 5 sprekers bekend gemaakt die op 17 mei op de rod
 * Mariëlle Vermeulen heeft TOS, een Taalontwikkelingsstoornis en vertelt dat taal helemaal niet zo vanzelfsprekend is.
 * Tania Mulder, intimiteitscoach met bruikbare tips voor een gezond liefdesleven
 * Joost Baltussen, osteopaat over het trainen van onze organen.
-   
 
-Komende weken zullen we langzaam alle sprekers bekend gaan maken. Man en vrouw, jong en oud, van dichtbij en ver weg, hoog opgeleid en uit de praktijk, kortom zo veel mogelijk diversiteit.
+Komende weken zullen we langzaam alle sprekers bekend gaan maken. Je kunt hen vinden op onze [sprekerspagina](https://tedxamstelveen.com/sprekers/ "Sprekers 2020"). Man en vrouw, jong en oud, van dichtbij en ver weg, hoog opgeleid en uit de praktijk, kortom zo veel mogelijk diversiteit.
 
 Naast de TEDx talks op het podium is er volop ruimte om na te praten samen met de andere bezoekers van TEDxAmstelveen. Ook is er muziek en ander entertainment. Wil je er bij zijn? Koop dan snel een ticket!
