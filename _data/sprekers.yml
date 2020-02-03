@@ -230,7 +230,7 @@
   social: jeannette-den-boer
   year: '2020'
   video:
-  status: inactive
+  status: active
 
 - name: Peter Vink
   description: Prof. Dr. Peter Vink
@@ -239,7 +239,7 @@
   social: peter-vink
   year: '2020'
   video:
-  status: inactive
+  status: active
 
 - name: Pauline de Wilde
   description: Pauline de Wilde
@@ -284,4 +284,4 @@
   social: daniel-zijl
   year: '2020'
   video:
-  status: inactive
+  status: active
