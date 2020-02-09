@@ -266,7 +266,7 @@
   social: herman-chow
   year: '2020'
   video:
-  status: inactive
+  status: active
 
 - name: David Gardenier
   description: David Gardenier
@@ -275,13 +275,22 @@
   social: david-gardenier
   year: '2020'
   video:
-  status: inactive
+  status: active
 
 - name: Daniel Zijl
   description: Daniel Zijl
   url: "/sprekers/daniel-zijl/"
   pic: daniel-zijl
   social: daniel-zijl
+  year: '2020'
+  video:
+  status: active
+
+- name: Surprise Act
+  description: Surprise Act
+  url: "/sprekers/surprise-act/"
+  pic: surprise-act
+  social: surprise-act
   year: '2020'
   video:
   status: active
