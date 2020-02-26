@@ -11,15 +11,15 @@ tags:
 author: mettereitsma
 name: Mette Reitsma
 description: Vanaf vandaag is de kaartverkoop voor TEDxAmstelveen 2020 - What the
-  world need NOW… gestart. Snelle beslissers kunnen de eerste twee weken gebruik
-  maken van een aantrekkelijke Early bird aanbieding.
+  world need NOW… gestart. Snelle beslissers kunnen de eerste twee weken gebruik maken
+  van een aantrekkelijke Early bird aanbieding.
 height: "150"
 width: "150"
 assets: 
 hits: ''
 
 ---
-Vanaf vandaag is de kaartverkoop voor **TEDxAmstelveen 2020** - "What the world need NOW…" gestart. Snelle beslissers kunnen de eerste twee weken gebruik maken van een aantrekkelijke <span class="redx">Early bird</span> aanbieding. De tickets kosten nu maar 39,25 euro in plaats van 44,25 euro. In januari 2020 zullen de eerste sprekers bekend gemaakt gaan worden, maar we kunnen nu al verklappen dat ze erg goed zijn. Na twee uitverkochte edities zitten we dit jaar in de grote zaal zodat we nog meer ruimte kunnen bieden aan alle TEDx fans.
+Vanaf vandaag is de kaartverkoop voor **TEDxAmstelveen 2020** - "What the world need NOW…" gestart. Snelle beslissers konden de eerste twee weken gebruik maken van een aantrekkelijke <span class="redx">Early bird</span> aanbieding. De tickets kosten nu 44,25 euro. Het programma is inmiddels bekend gemaakt en we hebben een heel gevarieerd programma met een grote diversiteit aan sprekers. 
 
 Omdat we op zoek zijn naar een zo gevarieerd mogelijk publiek hebben we korting speciaal voor scholieren en studenten tussen de 15 en 25 jaar en voor houders van een [Amstelveenpas](https://amstelveenpas.nl/). Zij betalen maar 26,75 euro voor een kaartje.
 
