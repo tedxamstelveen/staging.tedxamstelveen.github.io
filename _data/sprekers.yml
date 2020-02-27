@@ -286,6 +286,15 @@
   video:
   status: active
 
+- name: Anja de Die
+  description: Anja de Die
+  url: "/sprekers/anja-de-die/"
+  pic: anja-de-die
+  social: anja-de-die
+  year: '2020'
+  video:
+  status: active
+
 - name: Surprise Act
   description: Surprise Act
   url: "/sprekers/surprise-act/"
