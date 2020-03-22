@@ -45,5 +45,5 @@ _config-dev.yml
 .sass-cache
 .travis.yml.old
 lhci
-heroku
 .lighthouseci
+Gemfile.lock
