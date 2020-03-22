@@ -30,22 +30,22 @@ layout: default
     <section class="post-excerpt">
       <a name="topofpage"></a>
         {{content}}
-        {% include social-linkedin.html %}
-        {% include social-instagram.html %}
-        {% include social-facebook.html %}
-        {% include social-twitter.html %}
-        {% include social-website.html %}
+        {% include_cached social-linkedin.html %}
+        {% include_cached social-instagram.html %}
+        {% include_cached social-facebook.html %}
+        {% include_cached social-twitter.html %}
+        {% include_cached social-website.html %}
 
         {% if page.banner != null %}
           <p>Klik hieronder om jouw vrienden te vertellen dat deze spreker op {{ site.datum }} op TEDxAmstelveen staat:</p>
         {% endif %}
 
         <div class="ampstart-social-box mb4">
-          {% include social-share.html %}
+          {% include_cached social-share.html %}
         </div>
-        {% include tedx-youtube-video.html %}
+        {% include_cached tedx-youtube-video.html %}
     </section>
   </article>
 </main>
 
-{% include footer.html %}
+{% include_cached footer.html %}
