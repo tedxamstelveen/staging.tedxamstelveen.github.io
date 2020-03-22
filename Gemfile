@@ -1,11 +1,18 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'github-pages'
-gem 'github-markdown'
-gem 'jekyll-seo-tag'
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'html-proofer'
-gem 'jekyll-sitemap'
-gem 'jekyll-compose', group: [:jekyll_plugins]
-gem 'jekyll-email-protect'
+gem "jekyll", github: "jekyll/jekyll"
+gem "minima", "~> 2.0"
+gem "liquid-c"
+
+group :jekyll_plugins do
+  gem 'jekyll-feed'
+  gem 'jekyll-include-cache'
+  gem "jekyll-paginate"
+  gem 'jekyll-tagging'
+  gem 'jekyll-archives'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-webp'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-email-protect'
+  gem 'jekyll-sitemap'
+end
