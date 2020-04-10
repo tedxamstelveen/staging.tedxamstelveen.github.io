@@ -9,7 +9,7 @@ name: Mette
 description: TEDxAmstelveen 2020 verplaatst naar zondag 8 november
 width: "150"
 height: "150"
-assets1: ''
+assets1: assets/blog/what-the-world-needs-now.jpg
 assets2: ''
 assets3: ''
 assets4: ''
