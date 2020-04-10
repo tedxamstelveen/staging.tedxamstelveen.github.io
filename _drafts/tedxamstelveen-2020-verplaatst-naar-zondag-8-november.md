@@ -3,7 +3,16 @@ layout: post
 cover: assets/blog/what-the-world-needs-now.jpg
 title: TEDxAmstelveen 2020 verplaatst naar zondag 8 november
 date: 2020-04-09 22:00:00 +0000
-tags: []
+tags:
+- staysafe
+- corona
+- blijfthuis
+- tedxamstelveen2020
+- tedx
+- tedxamstelveen
+- whattheworldneedsnow
+- verplaats
+- ideasworthspreading
 author: Mette Reitsma
 name: Mette
 description: TEDxAmstelveen 2020 verplaatst naar zondag 8 november
