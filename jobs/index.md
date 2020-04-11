@@ -41,7 +41,7 @@ Iets voor jou? Laat ons weten waarom jij niet mag ontbreken in het team van TEDx
 ### Spreker liaison
 Jij in ons **TEDxAmstelveen** team? TEDxAmstelveen zoekt hulp bij de voorbereiding van TEDxAmstelveen 2020.
 
-Onze sprekers hebben een idea worth sharing en heel veel te vertellen. Jij helpt hen om een krachtig korte TEDx talk neer te zetten. Je wordt enthousiast van TEDx en heb je zin om TEDxAmstelveen 2020 tot een succes te maken! Je zorgt dat je alle tips kent die Chris Anderson geeft over het maken van een TED talk en deelt deze kennis met de sprekers. Je zorgt dat de spreker op tijd helemaal klaar is voor zijn/haar talk op </del>17 mei 2020</del> 8 november 2020.  Dit doen we door middel van coaching en oefen sessies. Je werkt samen met een team van andere spreker coaches.
+Onze sprekers hebben een idea worth sharing en heel veel te vertellen. Jij helpt hen om een krachtig korte TEDx talk neer te zetten. Je wordt enthousiast van TEDx en heb je zin om TEDxAmstelveen 2020 tot een succes te maken! Je zorgt dat je alle tips kent die Chris Anderson geeft over het maken van een TED talk en deelt deze kennis met de sprekers. Je zorgt dat de spreker op tijd helemaal klaar is voor zijn/haar talk op <del>17 mei 2020</del> 8 november 2020.  Dit doen we door middel van coaching en oefen sessies. Je werkt samen met een team van andere spreker coaches.
 
 Je bent er gemiddeld maandelijks 6 uur aan kwijt.  Naarmate het event dichterbij komt, zal dat iets meer zijn.
 
