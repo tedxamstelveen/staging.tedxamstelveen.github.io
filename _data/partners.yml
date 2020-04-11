@@ -1,7 +1,7 @@
-- name: Jumpstart
+- name: Loogman
   level: gold
-  pic: jumpstart
-  url: http://www.jumpstart.nl/
+  pic: loogman
+  url: https://www.loogman.nl/
   position: 1
   status: active
 
@@ -26,53 +26,46 @@
   position: 4
   status: active
 
-- name: Super Fan Factory
+- name: Van Schouten
   level: silver
-  pic: super-fan-factory
-  url: https://superfanfactory.nl/
-  position: 4
+  pic: michel-van-schouten
+  url: https://www.van-schouten.nl/
+  position: 5
   status: active
 
 - name: Asko Schoonmaak
   level: silver
   pic: asko-schoonmaak
   url: https://asko-schoonmaak.nl/
-  position: 5
-  status: active
-
-- name: WinWinwerkt
-  level: silver
-  pic: winwinwerkt
-  url: https://www.winwinwerkt.nl/
-  position: 7
+  position: 6
   status: active
 
 - name: Rotary Amstelveen
   level: silver
   pic: rotary-amstelveen
   url: https://www.rotary.nl/amstelveen/
-  position: 8
+  position: 7
   status: active
 
 - name: Cinemjuze
   level: silver
   pic: cinemjuze
-  url: http://cinemjuze.nl/
-  position: 9
-  status: active
-
-- name: Lilian Plas
-  level: silver
-  pic: lilian-plas
-  url: https://www.lilianplas.com/
-  position: 10
+  url: https://cinemjuze.nl/
+  position: 8
   status: active
 
 - name: Lady Giovin
   level: silver
   pic: ladygiovin
   url: https://www.ladygiovin.nl/
-  position: 11
+  position: 9
+  status: active
+
+- name: INTO Business
+  level: silver
+  pic: intobusiness
+  url: https://intobusiness.nu/
+  position: 10
   status: active
 
 - name: HP
@@ -96,25 +89,11 @@
   position: 1
   status: inactive
 
-- name: Van Schouten
-  level: silver
-  pic: michel-van-schouten
-  url: http://www.van-schouten.nl/
-  position: 3
-  status: inactive
-
 - name: Meiancoaching
   level: silver
   pic: meiancoaching
   url: http://www.meian.nl/
   position: 9
-  status: inactive
-
-- name: Loogman
-  level: gold
-  pic: loogman
-  url: http://www.loogman.nl/
-  position: 6
   status: inactive
 
 - name: Studio Stipt
@@ -129,4 +108,32 @@
   pic: anna-amstelveen
   url: https://www.anna-amstelveen.nl/
   position: 5
+  status: inactive
+
+- name: Jumpstart
+  level: gold
+  pic: jumpstart
+  url: http://www.jumpstart.nl/
+  position: 1
+  status: inactive
+
+- name: Super Fan Factory
+  level: silver
+  pic: super-fan-factory
+  url: https://superfanfactory.nl/
+  position: 4
+  status: inactive
+
+- name: WinWinwerkt
+  level: silver
+  pic: winwinwerkt
+  url: https://www.winwinwerkt.nl/
+  position: 7
+  status: inactive
+
+- name: Lilian Plas
+  level: silver
+  pic: lilian-plas
+  url: https://www.lilianplas.com/
+  position: 10
   status: inactive
