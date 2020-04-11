@@ -9,7 +9,7 @@ nav: event
 ---
 De derde editie van <span class="redx">TEDxAmstelveen</span> is verplaatst naar zondag 8 november 2020.
 
-Bezoekers zullen niet alleen geïnspireerd worden met woorden, maar er zal ook muziek, zang en dans op het programma staan. 
+Bezoekers zullen niet alleen geïnspireerd worden met woorden, maar er zal ook muziek, zang en dans op het programma staan.
 
 Nog even wat praktische informatie op een rij:
 
@@ -22,9 +22,7 @@ Nog even wat praktische informatie op een rij:
 
 Een middag <span class="redx">"ideas worth spreading!"</span>
 
-Prijzen:
-
-<Nog niet bekend>
+Prijzen: Nog niet bekend
 
 **HUISREGELS** <span class="redx">TEDxAmstelveen</span> **2020**
 
