@@ -36,6 +36,6 @@ Prijzen:
 * Zonder geldige accreditatie is het verboden om te fotograferen, filmen en het maken van (andere) geluids-, en/ of beeldopnamen van TEDxAmstelveen. De organisatie zal op straffe hiervan de apparatuur in beslagnemen en aanvaardt voor het in bewaring nemen hiervan geen enkele aansprakelijkheid.
 * De organisatie is niet aansprakelijk voor verlies en/of diefstal en enige vorm van schade aan eigendommen en/of gekochte goederen van de bezoekers.
 * De organisatie behoudt zich het recht voor om jassen en tassen te controleren.
-* Op en rond Schouwburg Amstelveen worden beelden en geluidsopnames gemaakt op 17 mei 2020. Aanwezigen stemmen in met de openbaarmaking hiervan. Hier kunnen geen rechten aan worden ontleend.
+* Op en rond Schouwburg Amstelveen worden beelden en geluidsopnames gemaakt op 8 november 2020. Aanwezigen stemmen in met de openbaarmaking hiervan. Hier kunnen geen rechten aan worden ontleend.
 * Het is verboden voor bezoekers jonger dan 18 jaar alcoholische dranken te kopen, aan te nemen of te nuttigen.
 * In situaties waarin de huisregels niet voorzien, beslist de organisatie.
