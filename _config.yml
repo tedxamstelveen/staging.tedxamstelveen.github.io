@@ -21,14 +21,14 @@ fb_app_id: 144786006139437
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Voorinschrijven
-#form: https://goo.gl/kC3HNp
-#formlogo: assets/blog/TEDx_Voorinschrijving.svg
-#fromtitle: Voorinschrijving
+form: https://bit.ly/3b4sv97
+formlogo: assets/blog/TEDx_Voorinschrijving.svg
+fromtitle: Voorinschrijving
 
 # Bestellen
-form: http://bit.ly/TEDxAmstelveen-2020
-formlogo: assets/blog/TEDx_2020_Tickets.svg
-fromtitle: TEDxAmstelveen 2020 Tickets
+#form: http://bit.ly/TEDxAmstelveen-2020
+#formlogo: assets/blog/TEDx_2020_Tickets.svg
+#fromtitle: TEDxAmstelveen 2020 Tickets
 
 # Wachtlijst
 #form: https://goo.gl/u568Vk
