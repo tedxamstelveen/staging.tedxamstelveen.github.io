@@ -19,4 +19,4 @@ Je stuurt een team van vrijwilligers aan. Je enthousiasmeert en motiveert hen ma
 
 Het gaat om **een vrijwilligers functie** en je bent er wekelijks gemiddeld 6 uur aan kwijt. Naarmate het event dichterbij komt, zal dat meer zijn. Wat je er voor terug krijgt is een leuk enthousiast team, een evenement met een unieke sfeer en contacten met sprekers met geweldige ideeen.
 
-Iets voor jou? Laat ons weten waarom jij niet mag ontbreken in het team van TEDxAmstelveen 2020 \[hallo@tedxamstelveen.com\](mailto:hallo@tedxamstelveen.com?subject=TEDxAmstelveen vacatures)
+Iets voor jou? Laat ons weten waarom jij niet mag ontbreken in het team van TEDxAmstelveen 2020 en stuur een email naar \[hallo@tedxamstelveen.com\](mailto:hallo@tedxamstelveen.com?subject=TEDxAmstelveen vacatures)
