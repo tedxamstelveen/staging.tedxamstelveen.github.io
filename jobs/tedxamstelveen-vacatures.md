@@ -7,10 +7,6 @@ permalink: "/jobs/"
 nav: jobs
 
 ---
-Wij zijn TEDxAmstelveen; een organisatie van zeer enthousiaste, professionele vrijwilligers die in 2020 weer een inspirerend event willen neerzetten. Wij zoeken teamleden om **TEDxAmstelveen** 2020 tot een succes te maken. Draag jij TEDx een warm hart toe, ben je in staat de komende periode actief mee te werken aan een van de volgende editie’s en ben jij een echte teamplayer. Stuur dan snel je reactie naar hallo@tedxamstelveen.com
-
-### Projectmanager
-
 Als projectmanager ben je de spin-in-het-web en kartrekker van TEDxAmstelveen. Jij zorgt dat onze bezoekers in november een geweldige TEDxAmstelveen beleving zullen hebben. Je houdt overzicht over locatie, catering, techniek, marketing, stage design, entertainment en nog veel meer.  
 Je stuurt een team van vrijwilligers aan. Je enthousiasmeert en motiveert hen maar zorgt ook voor de bewaking van afspraken en acties. Indien nodig werf je extra vrijwilligers en zorgt voor een goede plaats voor hen in het team. Wat zoeken we?
 
