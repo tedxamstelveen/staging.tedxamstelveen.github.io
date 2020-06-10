@@ -5,7 +5,6 @@ description: Overzicht van alle vacatures van TEDxAmstelveen.
 comments: false
 permalink: "/jobs/"
 nav: jobs
-published: false
 
 ---
 Wij zijn TEDxAmstelveen; een organisatie van zeer enthousiaste, professionele vrijwilligers die in 2020 weer een inspirerend event willen neerzetten. Wij zoeken teamleden om **TEDxAmstelveen** 2020 tot een succes te maken. Draag jij TEDx een warm hart toe, ben je in staat de komende periode actief mee te werken aan een van de volgende editie’s en ben jij een echte teamplayer. Stuur dan snel je reactie naar hallo@tedxamstelveen.com
