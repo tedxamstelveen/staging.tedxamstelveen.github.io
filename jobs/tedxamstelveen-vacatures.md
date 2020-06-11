@@ -15,8 +15,8 @@ Je stuurt een team van vrijwilligers aan. Je enthousiasmeert en motiveert hen ma
 * Je bent een Pietje Precies en houdt van structuur aanbrengen.
 * Je bent creatief en weet je ideeën concreet te maken.
 * Je houdt ervan als iets nét even beter geregeld is.
-* En bovenal word je enthousiast van TEDx en heb je zin om TEDxAmstelveen 2020 tot een succes te maken!
+* En bovenal word je enthousiast van TEDx en heb je zin om TEDxAmstelveen 2020 en 2021 tot een succes te maken!
 
 Het gaat om **een vrijwilligers functie** en je bent er wekelijks gemiddeld 6 uur aan kwijt. Naarmate het event dichterbij komt, zal dat meer zijn. Wat je er voor terug krijgt is een leuk enthousiast team, een evenement met een unieke sfeer en contacten met sprekers met geweldige ideeen.
 
-Iets voor jou? Laat ons weten waarom jij niet mag ontbreken in het team van TEDxAmstelveen 2020 en stuur een email naar \[hallo@tedxamstelveen.com\](mailto:hallo@tedxamstelveen.com?subject=TEDxAmstelveen vacatures)
+Iets voor jou? Laat ons weten waarom jij niet mag ontbreken in het team van TEDxAmstelveen en stuur een email naar hallo@tedxamstelveen.com 
