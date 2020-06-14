@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TEDxAmstelveen Vacatures
+title: TEDxAmstelveen Vacatures [old]
 description: Overzicht van alle vacatures van TEDxAmstelveen.
 comments: false
 permalink: "/jobs/"
