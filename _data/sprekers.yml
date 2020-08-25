@@ -1,305 +1,272 @@
+---
 - name: Roy Groot
   description: Roy Groot
-  url: /sprekers/roy-groot/
+  url: "/sprekers/roy-groot/"
   pic: roy-groot
-  year: '2018'
+  year: "2018"
   video: HICThvHmZZ4
   status: active
-
 - name: Kitty Nijmeijer
   description: Kitty Nijmeijer
-  url: /sprekers/kitty-mijmeijer/
+  url: "/sprekers/kitty-mijmeijer/"
   pic: kitty-nijmeijer
-  year: '2018'
+  year: "2018"
   video: 6F64nC6M_XA
   status: active
-
 - name: Vincent Wever
   description: Vincent Wever
-  url: /sprekers/vincent-wever/
+  url: "/sprekers/vincent-wever/"
   pic: vincent-wever
-  year: '2018'
+  year: "2018"
   video: wRGmMKEtUYg
   status: active
-
 - name: Rinie Hoeks
   description: Rinie Hoeks
-  url: /sprekers/rinie-hoeks/
+  url: "/sprekers/rinie-hoeks/"
   pic: rinie-hoeks
-  year: '2018'
+  year: "2018"
   video: h__zTrjkd60
   status: active
-
 - name: Aleid Offerhaus
   description: Aleid Offerhaus
-  url: /sprekers/aleid-offerhaus/
+  url: "/sprekers/aleid-offerhaus/"
   pic: aleid-offerhaus
-  year: '2018'
+  year: "2018"
   video: dtBw2E1lNYw
   status: active
-
 - name: Pim Giel
   description: Pim Giel
-  url: /sprekers/pim-giel/
+  url: "/sprekers/pim-giel/"
   pic: pim-giel
-  year: '2018'
+  year: "2018"
   video: l5wluIFd5s0
   status: active
-
 - name: Jeroen de Graaf
   description: Jeroen de Graaf
-  url: /sprekers/jeroen-de-graaf/
+  url: "/sprekers/jeroen-de-graaf/"
   pic: jeroen-de-graaf
-  year: '2018'
+  year: "2018"
   video: nqYVCJ8jMxA
   status: active
-
 - name: Ritika Mehra
   description: Ritika Mehra
-  url: /sprekers/ritika-mehra/
+  url: "/sprekers/ritika-mehra/"
   pic: ritika-mehra
-  year: '2018'
+  year: "2018"
   video: _KG4tWA0R5I
   status: active
-
 - name: Jennifer van Balkom
   description: Jennifer van Balkom
-  url: /sprekers/jennifer-van-balkom/
+  url: "/sprekers/jennifer-van-balkom/"
   pic: jennifer-van-balkom
-  year: '2018'
+  year: "2018"
   video: U5CY4zEAbEA
   status: active
-
 - name: Tijs Koedam
   description: Tijs Koedam
   url: "/sprekers/tijs-koedam/"
   pic: tijs-koedam
   social: tijs-koedam
-  year: '2019'
+  year: "2019"
   video: y8Cfv3kg-eQ
   status: active
-
 - name: Sabine Pinedo
   description: Sabine Pinedo
   url: "/sprekers/sabine-pinedo/"
   pic: sabine-pinedo
   social: sabine-pinedo
-  year: '2019'
-  video:
+  year: "2019"
+  video: 
   status: active
-
 - name: Nissrine Aissati
   description: Nissrine Aissati
   url: "/sprekers/nissrine-aissati/"
   pic: nissrine-aissati
   social: nissrine-aissati
-  year: '2019'
-  video:
+  year: "2019"
+  video: 
   status: active
-
 - name: Niels van Buren
   description: Niels van Buren
   url: "/sprekers/niels-van-buren/"
   pic: niels-van-buren
   social: niels-van-buren
-  year: '2019'
-  video:
+  year: "2019"
+  video: 
   status: active
-
 - name: Marieke Lips
   description: Marieke Lips
   url: "/sprekers/marieke-lips/"
   pic: marieke-lips
   social: marieke-lips
-  year: '2019'
-  video:
+  year: "2019"
+  video: 
   status: active
-
 - name: Margo Rijerkerk
   description: Margo Rijerkerk
   url: "/sprekers/margo-rijerkerk/"
   pic: margo-rijerkerk
   social: margo-rijerkerk
-  year: '2019'
-  video:
+  year: "2019"
+  video: 
   status: active
-
 - name: Karen Walthuis
   description: Karen Walthuis
   url: "/sprekers/karen-walthuis/"
   pic: karen-walthuis
   social: karen-walthuis
-  year: '2019'
-  video:
+  year: "2019"
+  video: 
   status: active
-
 - name: Karen Hamaker Zondag
   description: Karen Hamaker Zondag
   url: "/sprekers/karen-hamaker-zondag/"
   pic: karen-hamaker-zondag
   social: karen-hamaker-zondag
-  year: '2019'
-  video:
+  year: "2019"
+  video: 
   status: active
-
 - name: Hilde Latour
   description: Hilde Latour
   url: "/sprekers/hilde-latour/"
   pic: hilde-latour
   social: hilde-latour
-  year: '2019'
-  video:
+  year: "2019"
+  video: 
   status: active
-
 - name: Hans van Tellingen
   description: Hans van Tellingen
   url: "/sprekers/hans-van-tellingen/"
   pic: hans-van-tellingen
   social: hans-van-tellingen
-  year: '2019'
-  video:
+  year: "2019"
+  video: 
   status: inactive
-
 - name: Hillebrand Breuker
   description: Hillebrand Breuker
   url: "/sprekers/hillebrand-breuker/"
   pic: hillebrand-breuker
   social: hillebrand-breuker
-  year: '2019'
-  video:
+  year: "2019"
+  video: 
   status: active
-
 - name: Piet Sprengers
   description: Piet Sprengers
   url: "/sprekers/piet-sprengers/"
   pic: piet-sprengers
   social: piet-sprengers
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: Arnold van Woerkom
   description: Arnold van Woerkom
   url: "/sprekers/arnold-van-woerkom/"
   pic: arnold-van-woerkom
   social: arnold-van-woerkom
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: Mariëlle Vermeulen
   description: Mariëlle Vermeulen
   url: "/sprekers/marielle-vermeulen/"
   pic: marielle-vermeulen
   social: marielle-vermeulen
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: Tim Kanis
   description: Tim Kanis
   url: "/sprekers/tim-kanis/"
   pic: tim-kanis
   social: tim-kanis
-  year: '2020'
-  video:
-  status: active
-
+  year: "2020"
+  video: 
+  status: inactive
 - name: Joost Baltussen
   description: Joost Baltussen
   url: "/sprekers/joost-baltussen/"
   pic: joost-baltussen
   social: joost-baltussen
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: Tania Mulder
   description: Tania Mulder
   url: "/sprekers/tania-mulder/"
   pic: tania-mulder
   social: tania-mulder
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: Jeannette den Boer
   description: Jeannette den Boer
   url: "/sprekers/jeannette-den-boer/"
   pic: jeannette-den-boer
   social: jeannette-den-boer
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: Peter Vink
   description: Prof. Dr. Peter Vink
   url: "/sprekers/peter-vink/"
   pic: peter-vink
   social: peter-vink
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: Pauline de Wilde
   description: Pauline de Wilde
   url: "/sprekers/pauline-de-wilde/"
   pic: pauline-de-wilde
   social: pauline-de-wilde
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: inactive
-
 - name: Melissa Goudswaard
   description: Melissa Goudswaard
   url: "/sprekers/melissa-goudswaard/"
   pic: melissa-goudswaard
   social: melissa-goudswaard
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: inactive
-
 - name: Herman Chow
   description: Herman Chow
   url: "/sprekers/herman-chow/"
   pic: herman-chow
   social: herman-chow
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: David Gardenier
   description: David Gardenier
   url: "/sprekers/david-gardenier/"
   pic: david-gardenier
   social: david-gardenier
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: Daniel Zijl
   description: Daniel Zijl
   url: "/sprekers/daniel-zijl/"
   pic: daniel-zijl
   social: daniel-zijl
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: Anja de Die
   description: Anja de Die
   url: "/sprekers/anja-de-die/"
   pic: anja-de-die
   social: anja-de-die
-  year: '2020'
-  video:
+  year: "2020"
+  video: 
   status: active
-
 - name: Surprise Act
   description: Surprise Act
   url: "/sprekers/surprise-act/"
   pic: surprise-act
   social: surprise-act
-  year: '2020'
-  video:
-  status: active
+  year: "2020"
+  video: 
+  status: inactive
