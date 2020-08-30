@@ -54,55 +54,55 @@
   position: "12"
   status: active
 - name: Stephan Danser
-  description: 
+  description:
   url: "/team/stephan-danser"
   pic: stephan-danser
   position: "13"
   status: active
 - name: Manolo Barten
-  description: 
+  description:
   url: "/team/manolo-barten"
   pic: manolo-barten
   position: "14"
   status: active
 - name: Bas de Haan
-  description: 
+  description:
   url: "/team/bas-de-haan"
   pic: bas-de-haan
   position: "10"
   status: active
 - name: Michelle van der Meer
-  description: 
+  description:
   url: "/team/michelle-van-der-meer"
   pic: michelle-van-der-meer
   position: "99"
   status: active
 - name: Sonja Meskanen
-  description: 
+  description:
   url: "/team/sonja-meskanen"
   pic: sonja-meskanen
   position: "20"
   status: active
-- name: Karim Hashem
-  description: 
-  url: "/team/karim-hashem"
-  pic: karim-hashem
+- name: Tamara Kok
+  description:
+  url: "/team/tamara-kok"
+  pic: tamara-kok
   position: "21"
   status: active
 - name: Marjolein Bronsvoort
-  description: 
+  description:
   url: "/team/marjolein-bronsvoort"
   pic: marjolein-bronsvoort
   position: "99"
   status: inactive
 - name: Margot Snelders
-  description: 
+  description:
   url: "/team/margot-snelders"
   pic: margot-snelders
   position: "18"
   status: active
 - name: Jacobien Vermande
-  description: 
+  description:
   url: "/team/jacobien-vermande"
   pic: jacobien-vermande
   position: "6"
@@ -138,14 +138,20 @@
   position: "99"
   status: inactive
 - name: Yigael van der Hoeven
-  description: 
+  description:
   url: "/team/yigael-van-der-hoeven"
   pic: yigael-van-der-hoeven
   position: "99"
   status: inactive
 - name: Amber Wiznitzer
-  description: 
+  description:
   url: "/team/amber-wiznitzer"
   pic: amber-wiznitzer
   position: "20"
   status: inactive
+- name: Karim Hashem
+  description:
+  url: "/team/karim-hashem"
+  pic: karim-hashem
+  position: "99"
+  status: inactive  
