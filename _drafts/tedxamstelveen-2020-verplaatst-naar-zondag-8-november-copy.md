@@ -1,21 +1,20 @@
 ---
 layout: post
 cover: assets/blog/what-the-world-needs-now.jpg
-title: TEDxAmstelveen 2020 verplaatst naar zondag 8 november-(copy)
+title: Exclusief en intiem 3e editie van TEDxAmstelveen
 date: 2020-04-09T22:00:00.000+00:00
 tags:
-- staysafe
 - corona
-- blijfthuis
 - tedxamstelveen2020
 - tedx
 - tedxamstelveen
 - whattheworldneedsnow
-- verplaats
 - ideasworthspreading
+- intiem
+- exclusief
 author: Mette Reitsma
 name: Mette
-description: TEDxAmstelveen 2020 verplaatst naar zondag 8 november
+description: 'TEDxAmstelveen exclusief en intiem '
 width: "150"
 height: "150"
 assets1: ''
@@ -25,12 +24,14 @@ assets4: ''
 hits: 
 
 ---
-TEDxAmstelveen 2020 verplaatst naar zondag 8 november. We laten ons niet zomaar stoppen en gaan door. De ideeën en verhalen die we geselecteerd hebben voor onze 2020 editie verdienen het om verspreid en gehoord te worden.
+Exclusief & Intiem 
 
-Vanwege het coronavirus en de daarbij behorende maatregelen hebben we besloten om het event te verplaatsen maar we hebben er nog evenveel zin in. We willen jou de mogelijkheid bieden om onze sprekers live te zien en anderen te ontmoeten, de sfeer te proeven die hoort bij TEDxAmstelveen. Je moet iets langer wachten maar het wordt een geweldige dag.
+TEDxAmstelveen wordt dit jaar anders dan voorgaande jaren door de huidige situatie. En is juist daardoor wel de meest speciale editie.
 
-Iedereen die een kaartje heeft gekocht voor ons evenement op 17 mei heeft een email ontvangen. We hebben besloten om het geld terug te storten. Als we straks in september weer opnieuw starten met de kaartverkoop krijgen deze mensen als eerste de mogelijkheid om een kaartje te kopen.
+Want... Onze creativiteit is gaan stromen en het wordt klein, intiem en exclusief. In een zeer mooi aangeklede zaal in P60, met gezellige tafeltjes, drankjes, hapjes. 
 
-We hopen dat jij er ook bij bent in november! Wil je op de hoogte blijven van de kaartverkoop? Laat dan je gegevens achter via de knop 'voorinschrijving' 
+Ons thema is op dit moment nog relevanter is dan ooit: What the world needs NOW...
 
-Pas goed op jezelf en elkaar!
+Dus laat je zondag 8 november van 13:00 - 16:00 uur inspireren door 11 sprekers over diverse thema's als voeding, perfectionisme, water, seks, astronomie, orgaanfitness, duurzaamheid, etc.
+
+We hopen dat jij er ook bij bent in november! Wil je op de hoogte blijven van de kaartverkoop? Laat dan je gegevens achter via de knop 'voorinschrijving'
