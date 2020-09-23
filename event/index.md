@@ -15,6 +15,7 @@ Nog even wat praktische informatie op een rij:
 
 * Datum: <span class="redx">Zondag 8 november 2020</span>
 * Kaartverkoop start 1 oktober om 10:00 uur
+* Prijs; 49 euro incl servicekosten & welkomstdrankje
 * Tijdstip: 14:00-17:30
 * Lokatie: Poppodium P60, Stadsplein 100a
 * TEDxTalks in het Nederlands en Engels (Only a small part of the TEDxTalks will be in English)
@@ -22,17 +23,15 @@ Nog even wat praktische informatie op een rij:
 
 Een middag <span class="redx">"ideas worth spreading!"</span>
 
-Prijzen: Nog niet bekend
-
 **HUISREGELS COVID-19** <span class="redx">TEDxAmstelveen</span> **2020**
 
-\- Blijf thuis bij klachten zoals verkoudheid, hoesten, verhoging of plotseling verlies van smaak of reuk.
-
-\- Houd 1,5 meter afstand van anderen.
-
-\- Was vaak de handen en nies en hoest in de elleboog.
-
-\- De zaal maakt gebruikt van ventilatie van verse lucht van buiten en er wordt geen lucht gecirculeerd.
+* Blijf thuis bij klachten zoals verkoudheid, hoesten, verhoging of plotseling verlies van smaak of reuk.
+* Houd 1,5 meter afstand van anderen
+* We hanteren zitplaatsen dus blijf zoveel mogelijk zitten. 
+* Volg de aangegeven looproutes
+* Jassen dien je aan je stoel te hangen, dit kan dus niet in de garderobe.
+* Drankjes bestel je via Whatsapp en worden in de pauzes aan je tafel geserveerd.
+* De ventilatie die we gebruiken zorgt ervoor dat er 100% buitenlucht naar binnen wordt geblazen.
 
 **HUISREGELS** <span class="redx">TEDxAmstelveen</span> **2020**
 
