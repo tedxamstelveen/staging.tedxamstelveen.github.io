@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: ''
+cover: assets/blog/what-the-world-needs-now.jpg
 title: Muziek op TEDxAmstelveen 2020
 date: 2020-09-26T00:00:00.000+00:00
 - Talent
@@ -9,7 +9,7 @@ date: 2020-09-26T00:00:00.000+00:00
 - TEDTalks
 - Music
 - Dance
-- Pop 
+- Pop
 - Art
 - '2020'
 - whattheworldneedsnow
@@ -29,11 +29,9 @@ We hebben een bomvol maar super afwisselend programma op zondag 8 november. Niet
 
 {% include img-post1.html %}
 
-
 Zwemjas maakt Nederlandstalige pop muziek. Liedjes die vrolijk, vertellend, en luchtig zijn. Zwemjas bestaat uit 3 jongens opgegroeid in Amstelveen namelijk Stan Lochtenberg,  Youri Finn Penders en Joris van de Sande. Ze houden van muziek maken en luisteren.
 
 {% include img-post2.html %}
-
 
 What the world needs now is...een schone oceaan.
 
