@@ -1,8 +1,8 @@
 ---
 layout: post
-cover: assets/blog/what-the-world-needs-now.jpg
+cover: assets/cover/tedxamstelveen-2020-intiem.jpg
 title: Exclusief en intiem 3e editie van TEDxAmstelveen
-date: 2020-04-09T22:00:00.000+00:00
+date: 2020-09-09T00:00:00.000+00:00
 tags:
 - corona
 - tedxamstelveen2020
@@ -21,14 +21,14 @@ assets1: ''
 assets2: ''
 assets3: ''
 assets4: ''
-hits: 
+hits:
 
 ---
-Exclusief & Intiem 
+Exclusief & Intiem
 
 TEDxAmstelveen wordt dit jaar anders dan voorgaande jaren door de huidige situatie. En is juist daardoor wel de meest speciale editie.
 
-Want... Onze creativiteit is gaan stromen en het wordt klein, intiem en exclusief. In een zeer mooi aangeklede zaal in P60, met gezellige tafeltjes, drankjes, hapjes. 
+Want... Onze creativiteit is gaan stromen en het wordt klein, intiem en exclusief. In een zeer mooi aangeklede zaal in P60, met gezellige tafeltjes, drankjes, hapjes.
 
 Ons thema is op dit moment nog relevanter is dan ooit: What the world needs NOW...
 
