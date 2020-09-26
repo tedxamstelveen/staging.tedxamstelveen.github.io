@@ -3,6 +3,7 @@ layout: post
 cover: assets/blog/what-the-world-needs-now.jpg
 title: Muziek op TEDxAmstelveen 2020
 date: 2020-09-25T00:00:00.000+00:00
+tags:
 - Talent
 - Entertainment
 - Act
