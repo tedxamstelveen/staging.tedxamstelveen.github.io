@@ -24,9 +24,7 @@ assets4: ''
 hits:
 
 ---
-Exclusief & Intiem
-
-TEDxAmstelveen wordt dit jaar anders dan voorgaande jaren door de huidige situatie. En is juist daardoor wel de meest speciale editie.
+TEDxAmstelveen wordt dit jaar anders dan voorgaande jaren door de huidige situatie, het zal Exclusief & Intiem worden. En wordt juist daardoor wel een van de meest speciale editie tot nu toe.
 
 Want... Onze creativiteit is gaan stromen en het wordt klein, intiem en exclusief. In een zeer mooi aangeklede zaal in P60, met gezellige tafeltjes, drankjes, hapjes.
 
