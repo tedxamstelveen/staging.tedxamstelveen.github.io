@@ -17,8 +17,8 @@ tags:
 author: Mette Reitsma
 name: Mette
 description: Nieuw Amstelveens talent op TEDxAmstelveen 2020
-width: 700
-height: 467
+width: 467
+height: 700
 assets1: assets/act/zwemjas.jpg
 assets2: assets/act/bazes.jpg
 assets3: ''
