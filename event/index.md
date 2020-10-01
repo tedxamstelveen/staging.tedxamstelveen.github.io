@@ -26,8 +26,9 @@ Een middag <span class="redx">"ideas worth spreading!"</span>
 **HUISREGELS COVID-19** <span class="redx">TEDxAmstelveen</span> **2020**
 
 * Blijf thuis bij klachten zoals verkoudheid, hoesten, verhoging of plotseling verlies van smaak of reuk.
+* Bij binnenkomst en tijdens al jouw loopbewegingen draag je een mondkapje. Als je op jouw stoel zit, is het toegestaan het mondkapje af te doen.
 * Houd 1,5 meter afstand van anderen
-* We hanteren zitplaatsen dus blijf zoveel mogelijk zitten. 
+* We hanteren zitplaatsen dus blijf zoveel mogelijk zitten.
 * Volg de aangegeven looproutes
 * Jassen dien je aan je stoel te hangen, dit kan dus niet in de garderobe.
 * Drankjes bestel je via Whatsapp en worden in de pauzes aan je tafel geserveerd.
