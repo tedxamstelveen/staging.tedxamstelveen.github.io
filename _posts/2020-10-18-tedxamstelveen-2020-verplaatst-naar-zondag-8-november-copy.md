@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: assets/blog/what-the-world-needs-now.jpg
-title: Uitverkocht! Geen plaatsen meer in de zaal, wel binnenkort online!
+title: Zaal is uitverkocht! Binnenkort meer informatie over online kaarten!
 date: 2020-10-18 22:00:00 +0000
 tags:
 - corona
