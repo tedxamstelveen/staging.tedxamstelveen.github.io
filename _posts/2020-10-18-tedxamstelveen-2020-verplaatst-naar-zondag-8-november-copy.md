@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: assets/blog/what-the-world-needs-now.jpg
-title: Zaal is uitverkocht! Binnenkort meer informatie over online kaarten!
+title: Zaal is uitverkocht! Kaarten voor livestream te koop!
 date: 2020-10-18 22:00:00 +0000
 tags:
 - corona
@@ -22,4 +22,6 @@ assets4: ''
 hits: 
 
 ---
-Vanwege de omstandigheden zijn er maar 30 plaatsen in de zaal dus we waren snel uitverkocht. Het evenement wordt exclusief en intiem. Om toch meer mensen de kans te geven om ons evenement mee te beleven komen er kaarten voor het online bijwonen van het evenement. Hierover binnenkort meer informatie. 
+Vanwege de omstandigheden zijn er maar 30 plaatsen in de zaal dus we waren snel uitverkocht. Het evenement wordt exclusief en intiem. Om toch meer mensen de kans te geven om ons evenement mee te beleven komen zijn er kaarten voor het online bijwonen van het evenement. 
+
+Dus ga er op 8 november voor zitten, maak er iets gezelligs van en beleef TEDxAmstelveen mee vanuit jouw eigen huis. 
