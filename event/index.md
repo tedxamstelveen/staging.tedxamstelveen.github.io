@@ -7,16 +7,17 @@ permalink: "/event/"
 nav: event
 
 ---
-De derde editie van <span class="redx">TEDxAmstelveen</span> is verplaatst naar zondag 8 november 2020. TEDxAmstelveen wordt dit jaar anders dan voorgaande jaren door de huidige situatie. Maar het is juist daardoor wel de meest speciale editie. Exclusief en intiem is er straks ruimte voor maar ongeveer 60 gasten.
+De derde editie van <span class="redx">TEDxAmstelveen</span> is verplaatst naar zondag 8 november 2020. TEDxAmstelveen wordt dit jaar anders dan voorgaande jaren door de huidige situatie. Maar het is juist daardoor wel de meest speciale editie. Exclusief en intiem is er momenteel maar ruimte voor 30 gasten.
 
 Bezoekers zullen niet alleen geïnspireerd worden met TEDx talks over zeer diverse onderwerpen maar er zal ook muziek op het programma staan.
 
 Nog even wat praktische informatie op een rij:
 
 * Datum: <span class="redx">Zondag 8 november 2020</span>
-* Kaartverkoop start 1 oktober om 10:00 uur
-* Prijs; 49 euro incl servicekosten & welkomstdrankje
-* Tijdstip: 14:00-17:30
+* Kaartverkoop zaal uitverkocht, livestream kaarten nog verkrijgbaar
+* Ontvangst vanaf 13:30 uur
+* Aanvang programma om 14:00 uur
+* We verwachtten rond 17:30 uur ons programma af te ronden. 
 * Lokatie: Poppodium P60, Stadsplein 100a
 * TEDxTalks in het Nederlands en Engels (Only a small part of the TEDxTalks will be in English)
 * Informatie: hallo@tedxamstelveen.com
