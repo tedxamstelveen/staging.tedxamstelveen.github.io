@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: assets/blog/what-the-world-needs-now.jpg
-title: Bekijk nu de talks van TEDxAmstelveen 2020
+title: Bekijk NU de talks van TEDxAmstelveen 2020
 date: 2020-11-21 23:00:00 +0000
 tags: []
 author: Mette Reitsma
@@ -16,9 +16,9 @@ assets4: ''
 hits: 
 
 ---
-Bekijk nu de talks van TEDxAmstelveen. 
+Bekijk NU de talks van TEDxAmstelveen.
 
-Op 8 november stonden er 11 geweldige sprekers op ons podium. Maar ook rapper Bazes en de band Zwemjas. 
+Op 8 november stonden er 11 geweldige sprekers op ons podium. Maar ook rapper Bazes en de band Zwemjas.
 
 De eerste video's zijn al gepubliceerd en hier komen komende dagen steeds meer bij. De video's zijn te vinden op onze afspeellijst op YouTube.
 
