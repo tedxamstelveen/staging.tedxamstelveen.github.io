@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: assets/blog/what-the-world-needs-now.jpg
-title: Bekijk nu de talks van TEDxAmstelveen 2020.
+title: Bekijk nu de talks van TEDxAmstelveen 2020
 date: 2020-11-21 23:00:00 +0000
 tags: []
 author: Mette Reitsma
