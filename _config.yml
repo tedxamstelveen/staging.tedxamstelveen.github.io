@@ -26,9 +26,9 @@ paginate:	5 # The number of posts to show per page on your homepage
 #fromtitle: Voorinschrijving
 
 # Bestellen
-form: https://bit.ly/TEDxAmstelveen2020
-formlogo: assets/blog/TEDx_2020_Tickets.svg
-fromtitle: TEDxAmstelveen 2020 Tickets
+#form: https://bit.ly/TEDxAmstelveen2020
+#formlogo: assets/blog/TEDx_2020_Tickets.svg
+#fromtitle: TEDxAmstelveen 2020 Tickets
 
 # Wachtlijst
 #form: https://goo.gl/u568Vk
@@ -36,9 +36,9 @@ fromtitle: TEDxAmstelveen 2020 Tickets
 #fromtitle: Wachtlijst
 
 # Sprekers gezocht
-#form: https://bit.ly/2YOP9eI
-#formlogo: assets/blog/TEDx_Sprekers.svg
-#formtitle: Sprekers gezocht
+form: https://tedxamstelveen.com/sprekers/
+formlogo: assets/blog/TEDx_Sprekers.svg
+formtitle: Sprekers Talks
 
 # Social
 facebook: tedxamstelveen
